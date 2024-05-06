@@ -1,0 +1,643 @@
+Industry Partnerships and Services | Lincoln Institute for Agri-Food Technology | University of LincolnLIAT Industry Partnerships and Services
+Specialist Research and Consultancy Services
+The Lincoln Institute for Agri-food Technology (LIAT) work with a range of industry partners by providing specialist research and consultancy services across the whole agriculture and horticulture sector. The 200 hectare Riseholme Campus offers a wealth of facilities from crop trials and research areas to a refrigeration research centre and demonstration packhouse facility.
+Industry Services
+The University of Lincolns Riseholme Campus has a wealth of facilities and resources. If you are interested in how we can support your business projects, then pleasecontact us.
+Our facilities include:
+Barclays Eagle Labs
+s Riseholme Campus is home to the Eagle Labs Farm, supporting entrepreneurs with office space and access to emerging technologies.", 'Consultancy, Support, and Training
+Staff at LIAT have a wide range of industry-based experience across a variety of agriculture and food industry specialisms. They can provide advice and support research and development projects at regional, national, and international level.
+The LIAT team offer bespoke business support and training to aid the growth and development of businesses within the sector. If you are interested in exploring how the services we provide can help your business, then pleasecontact us.
+Business Funding
+Growing your business is not always straightforward and financial constraints can hinder innovation and expansion. Working with the University of Lincoln can enable you to access a specialist service, expertise or capability that may not have otherwise been available to you. It can also support innovative partnerships between your business, the University, and public and third sector organisations.
+Industry Partnerships
+Saga Robotics
+s leading agricultural platform, Thorvald.", 'Berry Gardens
+Berry Gardens is the UKs leading berry and stone fruit production and marketing group.
+Garford
+Garford Farm Machinery Ltd provides technologically advanced mechanical weed control products for inter-row and in-the-row hoeing in a broad range of crops.
+The Greater Lincolnshire Nature Partnership
+The Greater Lincolnshire Nature Partnership works closely with its 49 Partners to identify opportunities, add value to existing initiatives, and avoid duplication of eort.
+Water Resources East
+WRE is the independent, not-for-profit membership organisation pioneering a collaborative, cross-sector approach to water resources and integrated water management planning in Eastern England.
+Fresh Produce
+ businesses in the domestic and global supply chains of the fruit, vegetable, and flower industries.", 'Lincolnshire Wildlife Trust
+s wildlife and countryside.", 'The Environment Agency
+The Environment Agency is an executive non-departmental public body, sponsored by the Department for Environment, Food & Rural Affairs.
+Anglian Water
+Anglian Water employs 5,000 people and supplies water and water recycling services to more than six million customers in the east of England and Hartlepool.
+Agri-TechE
+Agri-TechE is a business-focused membership organisation, supporting the growth of a world-leading network of innovative farmers, producers, scientists, technologists, and entrepreneurs.
+The Agriculture and Horticulture Development Board
+AHDB is a statutory levy board, funded by farmers, growers, and others in the supply chain to help the industry succeed in a rapidly changing world.
+NIAB EMR
+NIAB uses crop science to improve the efficiency and resilience of crop production across the arable, forage, and horticulture sectors.
+Championing the Farmed Environment
+A partnership of agricultural, environmental, and governmental bodies, promoting good environmental management through productive farming practices.
+Saga Robotics
+s leading agricultural platform, Thorvald.", 'Berry Gardens
+Berry Gardens is the UKs leading berry and stone fruit production and marketing group.
+Garford
+Garford Farm Machinery Ltd provides technologically advanced mechanical weed control products for inter-row and in-the-row hoeing in a broad range of crops.
+The Greater Lincolnshire Nature Partnership
+The Greater Lincolnshire Nature Partnership works closely with its 49 Partners to identify opportunities, add value to existing initiatives, and avoid duplication of eort.
+Water Resources East
+WRE is the independent, not-for-profit membership organisation pioneering a collaborative, cross-sector approach to water resources and integrated water management planning in Eastern England.
+Fresh Produce
+ businesses in the domestic and global supply chains of the fruit, vegetable, and flower industries.", 'Lincolnshire Wildlife Trust
+s wildlife and countryside.", 'The Environment Agency
+The Environment Agency is an executive non-departmental public body, sponsored by the Department for Environment, Food & Rural Affairs.
+Anglian Water
+Anglian Water employs 5,000 people and supplies water and water recycling services to more than six million customers in the east of England and Hartlepool.
+Agri-TechE
+Agri-TechE is a business-focused membership organisation, supporting the growth of a world-leading network of innovative farmers, producers, scientists, technologists, and entrepreneurs.
+The Agriculture and Horticulture Development Board
+AHDB is a statutory levy board, funded by farmers, growers, and others in the supply chain to help the industry succeed in a rapidly changing world.
+NIAB EMR
+NIAB uses crop science to improve the efficiency and resilience of crop production across the arable, forage, and horticulture sectors.
+Championing the Farmed Environment
+A partnership of agricultural, environmental, and governmental bodies, promoting good environmental management through productive farming practices.
+
+
+Net Zero Agriculture | Research | University of LincolnOur Research
+Our research is considering the impact of carbon sequestration and ways in which soil health might be measured using applied technologies and data sciences.
+Research Projects
+SPECTRA - Whole plant spectral response models - optimised greenhouse light environments, modelling whole plant responses to spectral quality
+This project focuses on the responses of whole plants to spectral quality. Exploring at a whole plant level our known understanding of key physiological responses to light, including impacts on crop photosynthesis, phenology and photomorphology.
+Project Lead:Professor Simon Pearson
+Funder:Agriculture and Horticulture Development Board
+
+Smartgreen Interreg project
+SMARTGREEN project aims to use novel Big Data analysis of climate and production data to pinpoint unnecessary energy use in horticultural production and to improve climate control in commercial greenhouses.
+Project Lead:Professor Simon Pearson
+Funder:Interreg NW Europe
+
+
+
+
+
+Robotics and Automation | Research | University of LincolnOur Research
+Robotics and automation is a key strategic theme in the development of innovative solutions to food and farming production. Solutions impact the end-to-end food and farming value chain.
+Research Projects
+Building a better blueberry harvester (Award acceptance)
+s most important soft fruit crops. Challenges include: energy utilisation, image analysis and the development of shaking systems.", 'Project Lead:Professor Ronald Bickerton
+Funder:UK Research and Innovation  Innovate UK
+
+Interreg North West Europe - COTEMACO (increased competitiveness through efficient man and machine collaboration) project
+A research project focused on the use of collaborative robots in the food industry.
+Project Lead:Professor Simon Pearson
+Funder:Interreg North West Europe
+
+Mobile Robotic Platforms for Active Inspection and Harvesting in Agricultural Areas
+BACCHUS. Research to deliver an intelligent mobile robotic system for harvesting of grapes - for viticulture and for table grape production. Working with industrial partners to develop robotic solutions.
+Project Lead:Professor Marc Hanheide
+Funder:European Commission  Horizon 2020 programme
+
+Digitising Cacao production in Colombia
+This project aims to deploy a Wireless Sensor Network (WSN) to monitor cocoa plantations in Colombia. Challenges include: sensing systems, predictive analytics and data handling.
+Project Lead:Professor Simon Pearson
+Funder:UK Research and Innovation  Innovate UK
+
+SHAPE - Strawberry Harvester for Polytunnels and Open Fields
+SHAPE will develop the first complete system for harvesting strawberries grown in strawberry tunnels and in open fields. This project addresses the research required to close the technological gaps that will take this to a commercial product.
+Project Lead:Dr Grzegorz Cielniak
+Funder:EEA and Norway Grants
+
+"RoboFruit"  Universal robotic fruit picking head
+We aim to develop a universal picking head, to harvest ripe fruit. Long-term environmental benefits will be reduced food waste through better crop utilisation.
+Project Lead:Dr Amir Ghalamazan Esfahani
+Funder: UK Research and Innovation  Research England Connecting Capability Fund - aCERES
+
+FASTPICK: Novel active vision and picking head to robotically harvest soft fruit
+FASTPICK will develop active vision systems integrated to a novel robotic picking head that aims to pick 95% of fruit to c. 2 seconds per berry, the same performance of human harvesters. This performance removes the final technical barrier to large scale adoption of agri-robotic systems for the soft fruit sector.
+Project Lead:Dr Amir Ghalamazan Esfahani
+Funder:UK Research and Innovation  Innovate UK
+
+AI Unleashed
+Artificial intelligence has the potential to transform agriculture. However, AI is not reaching its full potential because the processing speed on machines is a significant bottleneck. This project looks at improving processing speeds for data handling.
+Project Lead:Professor Elizabeth Sklar
+Funder:UK Research and Innovation  Research England Connecting Capability Fund - CERES
+
+Robot Highways
+This project aims to develop a knowledge exchange platform to empower transformation across UK and global supply chains. The platform will underpin industry sustainability by reducing sector reliance on low skilled labour, whilst upskilling the existing workforce.
+Project Lead:Professor Marc Hanheide
+Funder:UK Research and Innovation  Innovate UK
+Find out more:Hear more about the project including the impacts at Clock House Farm in Kent during a BBC Radio 4 broadcast,On Your Farm, Robot Highways.
+
+FRUITCAST
+This project addresses the forecasting of readiness of commercially grown strawberries. Our technology led system integrates farm data on a deeply granular level, aiming to decrease the uncertainty of forecasts by monitoring the crop responses in real-time.
+Project Lead:Professor Simon Pearson
+Funder:UK Research and Innovation  Research England Connecting Capability Fund - CERES
+
+Autonomous black grass detection
+This project aims to develop and verify an automated system for rapid black-grass detection in new fields at plant level. The long-term benefits of the project will be to reduce risk of herbicide resistance and environmental contamination while protecting long-term yields.
+Project Lead:DrShaun Coutts
+Funder:UK Research and Innovation  Research England Connecting Capability Fund - CERES
+
+The Augmented Agronomist - Synthesis of AI, ML and Robotics for Decision Support (UK Research and Innovation - Biotechnology and Biological Sciences Research Council  Career Transition Partnership Studentship)
+This project sets out to provide agronomists with dedicated technological support in assessment and decision making. The project is closely linked with the RASberry project and will have access to its software and hardware resources to minimise risks and maximise synergies.
+Project Lead:Professor Marc Hanheide
+Funder:National Institute for Agricultural Botany  East Malling Research
+
+An assessment of the viability of inter row cultivations for weed control in commercial narrow row crops in the UK
+This project aims to explore how effective inter-row cultivation is in reducing long-term weed populations; whether they can be used to support the use of herbicides, and how the application of this machinery can be maximised within the principles of conservation agriculture.
+Project Lead:DrShaun Coutts
+Funder:Chadacre Agricultural Trust and Felix Thornley Cobbold Agricultural Trust
+
+BerryPredictor - improving harvest forecasts, yield predictions and crop productivity by optimising zonal phytoclimates in covered strawberry production
+There is increasing consumer and retailer demand for high-quality UK-grown strawberries. The challenge is to achieve consistently high yields and quality across variable and challenging growing seasons. BerryPredictor aims to provide UK growers access to real-time accurate yield prediction profiles.
+Project Lead:Professor Simon Pearson
+Funder:UK Research and Innovation  Research England Connecting Capability Fund - CERES
+
+In field logistics for fruit production
+University of Lincoln and industrial partners have recently completed an UK Research and Innovation - Innovate UK project using a robotic platform as an autonomous vehicle to support picker logistics. The robot will now be framed to enable full scale, rapid deployment.
+Project Lead:Professor Marc Hanheide
+Funder:Berry Gardens Ltd
+
+VEGCAST - Forecasting harvest profiles for broccoli
+VEGCAST will develop state-of-the-art crop forecasting technology that combines camera based machine learning technology with multi-ensemble meteorological predictions. These forecasts will enable growers to better match supply and demand, thereby reducing waste and minimising supply chain friction.
+Project Lead:Professor Simon Pearson
+Funder:UK Research and Innovation  Research England Connecting Capability Fund - CERES
+
+Development and field testing of the next generation of vision guided weeding systems
+This project will develop the next generation of weeding machinery based on a precision hoe tightly controlled by an intelligent vision system to assure high accuracy of hoeing operations.
+Project Lead:Dr Grzegorz Cielniak
+Funder:UK Research and Innovation  Innovate UK
+
+From Nitrogen Use Efficiency to Farm Profitability (NUE-Profits)
+A research project that aims to leadto significant improvements in nitrogen and nutrient management while also creating the opportunity for farmers to secure secondary income streams. The project will facilitate farm integration into environmental land management schemes and enhance food security by reducing dependency on nitrogen input costs.
+Project Lead: Professor Grzegorz Cielniak
+Funder: Innovate UK, Farming Futures R&D Fund
+Visithttps://www.nue-profits.com/for more information.
+
+
+Lincoln Institute for Agri-Food Technology | College of Health and Science | University of LincolnWelcome
+The Lincoln Institute for Agri-Food Technology (LIAT) based at the Universitys Riseholme Campus is home to a working farm with specialist research facilities. LIATs multi-disciplinary team brings together sector-leading expertise in a diverse range of areas such as; artificial intelligence, robotics, engineering, crop science, environmental sustainability, food manufacturing, product development and supply chains. Our goals include supporting and enhancing the future of food and agriculture productivity, efficiency, and sustainability through research, education, and technology.
+SUSTAIN Project 
+The University of Lincoln, UK, in collaboration with leading partner institutions - University of Aberdeen, Queen's University Belfast and University of Strathclyde - has successfully secured 10.6M in funding from UK Research and Innovation (UKRI) to establish SUSTAIN, a transformative Centre for Doctoral Training (CDT).
+Study with LIAT
+View our range of academic, research and technical courses.
+Research
+Find out about our industry leading research in robotics and automation, environmental sustainability and digital innovation.
+News and Events
+Find out more about the latest news and events happening at Lincoln Institute for Agri-Food Technology, Lincoln Agri-Robotics and AgriFoRwArdS.
+LINCAM
+Sustainable Agri-Food Technology at the University of Lincoln
+
+At Lincoln, we are conducting research that aims to introduce new technologies to food production in order to reduce the impact of agri-food on our climate. Hear from Professor Simon Pearson, director of LIAT, and team, talk about key research developments that are working towards improving sustainability in agriculture.
+
+Find out more about our Research
+Riseholme Campus
+Industry Partnerships & Services 
+Find out more about our range of industry partnerships and commercial services.
+Barclays Eagle Lab
+University of Lincolns Riseholme Campus is home to the Eagle Lab Farm, supporting entrepreneurs with office space and access to emerging technologies.
+AgriFoRwArdS
+ESPRC Centre for Doctoral Training in Agri-Food Robotics: AgriFoRwArdS
+Lincoln Agri Robotics
+The world's first global centre of excellence in agricultural robotics.
+Staff Contact List
+Find out more about the staff within LIAT.
+Connect with Us
+
+
+General Enquiries
+Lincoln Institute for Agri-Food Technology, University of Lincoln, Riseholme Park, Lincoln LN2 2LG
+liatadmin@lincoln.ac.uk
+AcademicEnquiries - Professor Simon Pearson
+spearson@lincoln.ac.uk
+
+Download ourLIAT Privacy Notice
+
+
+Food Safety and Security | Research | University of LincolnOur Research
+Food safety and security is of crucial importance, as global supply chains and economic conditions change. Digital and extended connected capability support the evidencing of food security pathways, and data sensing and modelling systems allow for forecasting and the development of approaches to risk management inside the food and farming value chain.
+Research Projects
+The Digital Sandwich - Digitised Food Supply Chain, fusing IoT, Blockchain and AI data layers
+s), we will develop a national, open demonstrator of a digital supply chain, using sandwich manufacturing as the use case. This demonstrator will step-change manufacturing productivity.", 'Project Lead:Professor Simon Pearson
+Funder:UK Research and Innovation  Innovate UK
+
+Developing data trusts for the food supply chain
+Research to deliver a strategic roadmap and Proof-of-Value for the creation of viable Data Trusts in the Food and Drink Sector. Data Trusts would enable more efficient and effective data sharing amongst actors within the UK food supply chain.
+Project Lead:Professor Simon Pearson
+Funder:Food Standards Agency
+
+The Internet of Food Things
+A project to create a sustainable network and ecosystem of academic and industrial colleagues with an interest in the development and application of digital technologies within and along the food supply chain.
+Project Lead:Professor Simon Pearson
+Funder:Engineering and Physical Sciences Research Council
+
+TRUSTED BYTES: Trusted, Decentralised, Digital Supply Chains for the Food Industry
+A project to develop a "whole industry" solution to optimise supply-chain management in the 6.9bn UK fresh produce sector aiming to create a digital supply-chain ecosystem that fully exploits the digital commons to drive productivity and supply-chain resilience.
+Project Lead:Professor Simon Pearson
+Funder:UK Research and Innovation  Innovate UK
+
+Co-Farm.AI: Intelligent Coordination for the Farm Workforce
+This project tackles the ongoing agrifood labour crisis. The opportunity is to develop a dynamic, intelligent planning and coordination system for workforce optimisation and position a spin-out to be first to market with human-robot solution.
+Project Lead:Professor Elizabeth Sklar
+Funder:UK Research and Innovation  Research England Connecting Capability Fund - CERES
+
+
+
+
+
+Energy Efficiency and Sustainability | Research | University of LincolnOur Research
+A key research area for LIAT is energy efficiency and sustainability of food production systems. Solutions include wireless communications, extended data networks, and sustainable energy innovation. We have specialisms in soil and water and value chain sustainability also.
+Research Projects
+Robot Highways
+This project aims to develop a knowledge exchange platform to empower transformation across UK and global supply chains. These technologies underpin industry sustainability by reducing sector reliance on low skilled labour, whilst upskilling the existing workforce.
+Project Lead:Professor Marc Hanheide
+Funder: UK Research and Innovation  Innovate UK
+
+s solution to multi temperature last mile delivery - phase 2", 'Development of a Cool Run Pod for last mile delivery. Aiming to reduce the harmful non-tail-pipe emissions from transport refrigeration. A simple solution, which supports both Clean Air Strategy and UK Industrial Strategy.
+Project Lead:David May
+Funder:Department for the Economy  Small Business Research Initiative
+
+Smartgreen Interreg project
+SMARTGREEN project aims to use novel Big Data analysis of climate and production data to pinpoint unnecessary energy use in horticultural production and to improve climate control in commercial greenhouses.
+Project Lead:Professor Simon Pearson
+Funder:Interreg NW Europe
+
+Digitising Cacao production in Colombia
+This project aims to deploy a Wireless Sensor Network (WSN) to monitor the cocoa plantations in Colombia. Exploring data collection using low cost sensor nodes (SN) connected to a cloud server for online real-time predictive analytics anywhere in the world.
+Project Lead:Professor Simon Pearson
+Funder:UK Research and Innovation  Innovate UK
+
+Development of novel greenhouse cladding materials to optimise crop growth and quality
+This project aims focuses on the development of enhanced greenhouse cladding materials to improve crop growth and quality. The light scattering properties of the materials will be optimised. This provides an opportunity to maximise photosynthesis, by distributing light more evenly through a canopy.
+Project Lead:Professor Simon Pearson
+Funder:UK Research and Innovation Biotechnology and Biological Sciences
+
+The development of novel plastic film cladding materials for polytunnels
+Exploring soft fruit advanced production systems. Working with leading plastic film manufacturers to produce polyethylene films with significantly improved characteristics for growing protected crops using spectral filtering and wavelength related light scattering; aiming to support sustainable intensification of worldwide agriculture.
+Project Lead:Professor Simon Pearson
+Funder:UK Research and Innovation Research England Connecting Capability
+
+
+
+
+Study with LIAT | Lincoln Institute for Agri-Food Technology | University of LincolnStudy and Research Opportunities
+LIAT offer a range of study options from short courses including BASIS and FACTS, Level 6 Apprenticeship, Masters, PhD and research opportunities focused on agricultural technology and innovation.
+MSc Sustainability
+The MSc in Sustainability programme aims to offer a broad range of topics, which enable students to develop both the technical knowledge of the subject, as well as the leadership and business skills necessary to embed sustainable practices, develop sustainable products and services and to implement change.
+MSc Agri-Food Technology
+This course is accredited by the Institute of Food Science and Technology (IFST). The IFST is the UKs leading professional body for food science and technology.
+MSc Agri-Food with Professional Practice
+This course is accredited by the Institute of Food Science and Technology (IFST). The IFST is the UKs leading professional body for food science and technology.
+BSc (Hons) Robotics
+Our BSc (Hons) Robotics programme takes a cross-disciplinary approach to robotics, with a focus on innovative project-based learning.
+MSc Robotics and Autonomous Systems 
+The MSc Robotics and Autonomous Systems is designed to equip students with the advanced knowledge and skills needed to develop the innovative solutions required by the emerging global industry in Robotics and Autonomous Systems (RAS).
+MSc Data Science and Applied Analytics
+The MSc Data Science and Applied Analytics programme aims to develop graduates who understand relevant approaches to designing data science tools, their implementation and evaluation, analytical aspects of big data, and their meaning and importance to both businesses and the public sector.
+MSc by Research Agri-Food Technology
+This flexible research programme provides the opportunity to develop expertise in a particular area of agri-food science and to consolidate skills in preparation for positions in research development or technology management.
+Short Courses
+Professional Short Courses at Riseholme Campus.
+EPSRC Centre for Doctoral Training in Agri-Food Robotics: AgriFoRwArdS 
+AgriFoRwArdS is the world's first Centre for Doctoral Training (CDT) in Agri-Food Robotics. The Centre has been established by the University of Lincoln in collaboration with the University of Cambridge and the University of East Anglia.
+
+
+Soil, Water and Crop Science | Research | University of LincolnOur Research
+Soil and water sciences at Lincoln Institute for Agrifood Technology focus around the study of agricultural field drainage, and soil management. Our research aims to support farmers, landowners, and ecosystem managers in developing effective, sustainable approaches to land and water management.
+Research Projects
+Optimising the light recipe for maximum photosynthesis yield and quality in strawberry (Biotechnology and Biological Sciences Research Council  Career Transition Partnership Studentship)
+Biotechnology and Biological Sciences Research Council  Career Transition Partnership Studentship funding for a studentship on "Optimising the light recipe for maximum photosynthesis, yield and quality in strawberry".
+Project Lead:Professor Simon Pearson
+Funder:National Institute for Agricultural Botany  East Malling Research
+
+
+
+
+Short Courses | Lincoln Institute for Agri-Food Technology | University of LincolnBASIS Short Courses
+ need in the 21st century. We provide essential professional development to working farmers and agronomists through our accredited BASIS courses run at the University of Lincolns Riseholme Campus. The 200 hectare estate features woodlands, grasslands, watercourses, as well as a working farm and agricultural field station. It offers an ideal setting for supporting the training courses as well as testing farm innovations, crop trials, and experimentation.", 'BASIS Certificate in Soil and Water Management 
+This course, leading to the BASIS Certificate in Soil and Water Management, examines how farmers can manage soil and water in a sustainable way. Particular emphasis is placed on understanding the methods used to avoid soil erosion and water pollution, and the implications of Cross Compliance, Greening Rules, and the Water Framework Directive.
+BASIS Quality of Soils
+This course aims to give farmers, growers, and advisors further insight into how to make farming and production systems more resilient through an increased understanding of how soil functions as an ecosystem. The course takes a particular focus on soil life; the thriving soil food web which is vital for successful and sustainable farming on our soils.
+BASIS Certificate in Sustainable Land Management
+This course has been designed for professionals involved in providing environmental advice to farms and the farmed environment, along with farmers and land managers across the UK. Successful completion provides the required qualification to entry for joining the BASIS Environmental Advisers Register. The course also forms one of the required qualifications for achieving the BASIS Diploma in Agronomy.
+A number of BASIS and FACTS courses formerly delivered at the University of Lincoln are now delivered independently by Agronomy Training Ltd. These are delivered by BASIS Approved Trainers Simon Goodger and Chris Tolley.
+Short Course Enquiries
+For more information, please contact us by email at liatenquiries@lincoln.ac.uk.
+
+
+Selective Harvesting | Research | University of LincolnOur Research
+Robotic applications for crop harvesting. Developing systems which identify harvest ready crops to enable reliable and consistent picking/harvesting. This uses a mix of practical engineering solutions, robotics, vision and sensing systems, data collection sensors, and computer science, to design, develop, and deliver effective and consistent data and technology driven solutions.
+Research Projects
+The Augmented Agronomist - Synthesis of AI, ML and Robotics for Decision Support (UK Research and Innovation - Biotechnology and Biological Sciences Research Council  Career Transition Partnership Studentship)
+This project sets out to provide agronomists with dedicated technological support in assessment and decision making. The project is closely linked with the RASberry project will have access to its software and hardware resources to minimise risks and maximise synergies.
+Project Lead:Professor Marc Hanheide
+Funder:National Institute for Agricultural Botany  East Malling Research
+
+Optimising the light recipe for maximum photosynthesis yield and quality in strawberry (UK Research and Innovation - Biotechnology and Biological Sciences Research Council  Career Transition Partnership Studentship)
+UK Research and Innovation - Biotechnology and Biological Sciences Research Council  Career Transition Partnership funding for a studentships on "Optimising the light recipe for maximum photosynthesis, yield and quality in strawberry".
+Project Lead:Professor Simon Pearson
+Funder:National Institute for Agricultural Botany  East Malling Research
+
+Application of novel machine learning techniques and high-speed 3D vision algorithms for real time detection of fruit (UK Research and Innovation - Biotechnology and Biological Sciences Research Council  Career Transition Partnership Studentship)
+UK Research and Innovation -Biotechnology and Biological Sciences Research CouncilCareer Transition Partnership funding for a studentships on "Optimising the light recipe for maximum photosynthesis, yield and quality in strawberry".
+Project Lead:Professor Simon Pearson
+Funder:National Institute for Agricultural Botany  East Malling Research
+
+Feasibility study to develop a blueberry harvester
+Development of a prototype blueberry picker. This is a feasibility study that will enable the development of an automatic blueberry harvesting system, that uses high speed pneumatics controlled by image analysis to pick the fruit.
+Project Lead:Ronald Bickerton
+Funder:UK Research and Innovation  Innovate UK
+
+GRASP berry - High speed picking soft fruit robots
+This project aims to increase picking speed for soft fruit and to develop new ways to detect and pick occluded fruit. We aim to test the use of active manipulation to detect and pick occluded fruit, plus a novel high-speed robotic picking approach.
+Project Lead:Dr Grzegorz Cielniak
+Funder:UK Research and Innovation  Innovate UK
+
+The Digital Sandwich - Digitised Food Supply Chain, fusing IoT, Blockchain and AI data layers
+s), we will develop a national, open demonstrator of a digital supply chain, using sandwich manufacturing as the use case. This demonstrator will step-change manufacturing productivity.", 'Project Lead:Professor Simon Pearson
+Funder:UK Research and Innovation  Innovate UK
+
+Building a better blueberry harvester (Award acceptance)
+s objective is to develop and demonstrate a fully automatic blueberry harvesting machine, which removes berries from the bush by the use of innovative shaking systems and can fit inside the small greenhouses and polythene tunnels used by all UK and many EU blueberry producers.", 'Project Lead:Ronald Bickerton
+Funder:UK Research and Innovation  Innovate UK
+
+s first fleet of multi modal soft fruit robots", 'This project addresses requirements for fleet robotics for soft fruit production in agriculture and horticulture.
+Project Lead:Professor Marc Hanheide
+Funder:UK Research and Innovation  Innovate UK
+
+Robot Highways
+This project aims to develop a knowledge exchange platform to empower transformation across UK and global supply chains. Our vision for future soft fruit farming encompasses fleets of electric robotic and autonomous systems powered by renewable energy that pick, transport, pack fruit whilst gathering data to maximise yield, reduce waste and environmental impacts.
+Project Lead:Professor Marc Hanheide
+Funder:UK Research and Innovation  Innovate UK
+
+FRUITCAST
+This project addresses the forecasting of readiness of commercially grown strawberries. Our technology led system integrates farm data on a deeply granular level, aiming to decrease the uncertainty of forecasts by monitoring the crop responses in real-time.
+Project Lead:Professor Simon Pearson
+Funder:UK Research and Innovation  Research England Connecting Capability Fund - CERES
+
+In field logistics for fruit production
+University of Lincoln and industrial partners have recently completed an IUK project using the Thorvald robotic platform as an autonomous vehicle to support picker logistics. The robot will now be framed to enable full scale and rapid deployment.
+Project Lead:Professor Marc Hanheide
+Funder:Berry Gardens Ltd
+
+VEGCAST - Forecasting harvest profiles for broccoli
+VEGCAST will develop state of the art crop forecasting technology that combines camera based machine learning technology with multi-ensemble meteorological predictions. The output will be real time forecasts of broccoli yield and its uncertainty.
+Project Lead:Professor Simon Pearson
+Funder:UK Research and Innovation  Research England Connecting Capability Fund - CERES
+
+FASTPICK - Novel active vision and picking head to robotically harvest soft fruit
+This project's focus is resolution of residual barriers to the robotic harvesting of soft fruit; picking fruit in complex, occluded and biologically variable clusters.FASTPICK will develop active vision systems including 3-D reconstruction of the scene and integrate it into a novel robotic picking head that aims to pick fruits in dense clusters.
+
+
+
+
+Riseholme Campus | Lincoln Institute for Agri-Food Technology | University of LincolnRiseholme Campus
+The University of Lincolns 200-hectare Riseholme Campus is located just north of Lincoln city centre and is home to the Lincoln Institute for Agri-Food Technology (LIAT) including Lincoln Agri-Robotics and Lincolns EPSRC Centre for Doctoral Training in Agri-Food Robotics: AgriFoRwArdS.
+The Campus comprises of a mixed farm which includes arable, woodland, watercourses and livestock such as Lincoln Red cattle and Lincoln Longwool sheep.
+The site also includes a dedicated strawberry crop research site, walled garden with trial plots for teaching and research as well as a refrigeration research unit and agri-robotics workshop.
+Furthermore it is home to the Barclays Eagle Lab Farm which provides access to office space in an emerging technology environment.
+Riseholme Tour
+
+
+Crop Care | Research | University of LincolnOur Research
+Using technology to care for crops involves deployment of novel sensing systems, data collection, and real time data analysis to help understand the micro-environment of individual plants within a crop. Precision agriculture requires applied data. Our robotic, machine learning, AI, and vision or sensing based solutions allow targeted selection or intervention, to support the grower or the farmer in caring for crops.
+Research Projects
+Mobile Robotic Platforms for Active Inspection and Harvesting inAgricultural Areas
+BACCHUS. Research to deliver an intelligent mobile robotic system for harvesting of grapes - for viticulture and for table grape production. Working with industrial partners to develop robotic solutions.
+Project Lead:Professor Marc Hanheide
+Funder:European Commission  Horizon 2020 programme
+
+Application of novel machine learning techniques and high-speed 3D vision algorithms for real time detection of fruit (UK Research and Innovation - Biotechnology and Biological Sciences Research Council  Career Transition Partnership Studentship)
+UK Research and Innovation - Biotechnology and Biological Sciences Research Council  Career Transition Partnership funding for a studentship on "Application of novel machine learning techniques and high speed 3D vision algorithms for real time detection of fruit".
+Project Lead:Professor Simon Pearson
+Funder:National Institute for Agricultural Botany  East Malling Research
+
+Optimising the light recipe for maximum photosynthesis yield and quality in strawberry (UK Research and Innovation - Biotechnology and Biological Sciences Research Council  Career Transition Partnership Studentship)
+Research Council funding for a studentships on "Optimising the light recipe for maximum photosynthesis, yield and quality in strawberry".
+Project Lead:Professor Simon Pearson
+Funder:National Institute for Agricultural Botany  East Malling Research
+
+ARWAC Robotic black grass weeder
+blackgrass'. The robot will be developed by an interdisciplinary team including robot engineers, robotic developers, farmers and weed ecologists.", 'Project Lead:Dr Charles Fox
+Funder:UK Research and Innovation  Innovate UK
+
+CERES, LASERBOOM
+A UK Research and Innovation - CERES Project to develop a LIDAR based spray boom levelling system for application in agriculture/horticulture.
+Project Lead:Professor Simon Pearson
+Funder:UK Research and Innovation  Research England Connecting Capability Fund - CERES
+
+The First Fleet - The worlds first fleet of multi modal soft fruit robots
+This project addresses requirements for fleet robotics for soft fruit production in agriculture and horticulture.
+Project Lead:Professor Marc Hanheide
+Funder:UK Research and Innovation  Innovate UK
+
+Feasibility study to develop a blueberry harvester
+Development of a prototype blueberry picker. This is a feasibility study that will enable the development of an automatic blueberry harvesting system which uses high speed pneumatics controlled by image analysis to pick the fruit.
+Project Lead:Professor Ronald Bickerton
+Funder:UK Research and Innovation  Innovate UK
+
+Robot Highways
+This project aims to develop a knowledge exchange platform to empower transformation across UK and global supply chains, additionally reducing sector reliance on low skilled labour, whilst upskilling the existing workforce.
+Project Lead:Professor Marc Hanheide
+Funder:UK Research and Innovation  Innovate UK
+
+FRUITCAST
+This project addresses the forecasting of readiness of commercially grown strawberries. We hope that this will improve sales, support better matching of supply and demand, fewer distress promotions, reduced imports, supply chain confidence and more efficient labour scheduling.
+Project Lead:Professor Simon Pearson
+Funder:UK Research and Innovation  Research England Connecting Capability Fund - CERES
+
+The Augmented Agronomist - Synthesis of AI, ML and Robotics for Decision Support (UK Research and Innovation - Biotechnology and Biological Sciences Research Council  Career Transition Partnership - National Productivity Investment Fund - Studentship)
+This project sets out to provide agronomists with dedicated technological support in assessment and decision making; The project is closely linked with the RASberry project and will have access to its software and hardware resources to minimise risks and maximise synergies.
+Project Lead:Professor Marc Hanheide
+Funder:National Institute for Agricultural Botany  East Malling Research
+
+An assessment of the viability of inter row cultivations for weed control in commercial narrow row crops in the UK
+This project aims to explore how effective inter-row cultivation is in reducing long-term weed populations; whether they can be used to support the use of herbicides, and how the application of this machinery can be maximised within the principles of conservation agriculture.
+Project Lead:Dr Shaun Coutts
+Funder:Chadacre Agricultural Trust and Felix Thornley Cobbold Agricultural Trust
+
+In field logistics for fruit production
+BGG, Saga and University of Lincoln have recently completed an IUK project using the Thorvald robotic platform as an autonomous vehicle to support picker logistics. The robot will now be framed to enable full scale and rapid deployment.
+Project Lead:Professor Marc Hanheide
+Funder:Berry Gardens Ltd
+
+Development and field testing of the next generation of vision guided weeding systems
+This project will develop the next generation of weeding machinery based on a precision hoe tightly controlled by an intelligent vision system to assure high accuracy of hoeing operations.
+Project Lead:Dr Grzegorz Cielniak
+Funder:UK Research and Innovation  Innovate UK
+
+Autonomous black grass detection
+This project aims to develop and verify an automated system for rapid black-grass detection in new fields at plant level. Long-term benefits include reducing the risk of herbicide resistance and environmental contamination while protecting long-term yields.
+Project Lead:Dr Shaun Coutts
+Funder:UK Research and Innovation  Research England Connecting Capability Fund - CERES
+
+
+
+
+Current Live Projects | Research | University of LincolnHorizon 2020 Fairway Project - Senior Lecturer Isobel Wright and Researcher Jenny Rowbottom are working closely with ADAS and Anglian Water to improve drinking water quality across Lincolnshire.
+The European Commission is investing almost 5 million euros from its research and innovation budget under the Horizon 2020 programme into the FAIRWAY consortium of projects and partners across Europe. This project aim to deliver new solutions, proven good practices and innovative governance models to protect drinking water resources from nutrient and pesticide pollution.
+Safe drinking water is vital for human health and diffuse pollution of nitrogen and pesticides from agriculture is the main obstacle to meet drinking water quality targets. FAIRWAY is looking to review approaches for protection of drinking water resources against pollution by pesticides and nitrate, and to identify and further develop innovative measures and governance approaches for a more effective drinking water protection. Under these objectives, FAIRWAY is running a series of projects.
+Issues with water quality in the Anglian region predominantly relate to high nitrate concentrations and pesticide contamination of surface waters. Anglian Water, the largest of 10 treatment and water supply companies in the UK, supplying drinking water to 4.2 million customers across England and Wales, are collaborating with the University of Lincoln and ADAS to improve drinking water quality by communicating with farmers and land managers in water catchment areas.
+Anglian Water is working to improve drinking water quality using three approaches to encourage change in farmer practice, reducing on-farm pesticide usage, with an initial emphasis on metaldehyde.
+LIAT are using surveys and interviews with farmers in the three study areas, to gather data around farmers current pesticide handling behaviour and practices, business characteristics, factors influencing practices and cost-effectiveness as well as wider effects.
+The study will report on critical factors in developing an intervention programme for long-term change.
+Read an update about this project in our latest blog post Striving for Excellence in Keeping Your Drinking Water Safe and Clean.
+s Horizon 2020 research and innovation programme under grant agreement No 727984", 'A project hoping to tackle the high cost of retail refrigeration has been led by a consortium comprising the University of Lincoln UK, Tesco Stores Ltd, the Grimsby Institute and Intelligent Management Systems Ltd. The full-scale project is calledtheDevelopment of Dynamic Energy Control Mechanisms for Food Retailing Refrigeration Systems.
+The cost of retail refrigeration totals more than 14% of the UKs electricity usage and also represents roughly a third of a typical food and drink retailers energy cost. Supermarkets across the nation currently utilise thousands of refrigeration units, not only to keep our food and drink chilled but also to prolong the shelf life of produce and prevent the growth of harmful bacteria.
+The researchdemonstrates the largest Demand Side Response (DSR) project to food retailing networks using the Internet of Things (IoT) technology. In the video below, Director of theLincoln Institute for Agri-Food Technology(LIAT), Professor Simon Pearson, discusses how the Knowledge Transfer Network (KTN) helped identify funding through an Innovate UK competition.
+Working collaboratively with partners, the University of Lincoln, UK, designed and built the Research Refrigeration Centre (RRC), which is the first facility of its kind in the UK and internationally. The centre precisely models the essential dynamics of a typical Tesco Express convenience store, providing space for researchers to explore the development of innovative refrigeration systems. This enables the team to discover new ways of thinking and create greater outcomes with a direct industry application, for example defining an optimum network infrastructure and control system to facilitate more efficient pack operation. In addition, the RRC is available as a demonstrator unit to other commercial organisations from the UK and internationally, making it a global centre for research into refrigeration technologies, which has helped the consortium to develop new relationships with world-leading organisations such as Walmart and Shell.
+Throughout the project, the RRC has allowed the materials and systems developed by IMS and academics to be prototyped and tested in a simulated environment, making it a facility that can take blue skies thinking all the way through to mainstream industry in the shortest possible time. The University used the facility to establish a detailed understanding of engineering risks, by developing the first mathematical model (Matlab) to accurately mirror the essential dynamics of a Tesco Express convenience store, and using this to monitor response to DSR events. The team also developed a robust Simulink model of a 3-phase power system, which demonstrated the capacity of a massive refrigeration network to hold off a considerable load in response to a DSR event (circa 44MW across 112,000 assets). All of which developed industry confidence in the proposed candidacy solution.
+The University of Lincoln has also created a new capability in the use of data and data analytics to build highly complex algorithms to balance the use of spare refrigeration capacity to generate revenue potential for demand response while, at the same time, ensuring food quality is not undermined.
+Lincolns research has helped to raise the profile and reputation of the project within both the academic community and industry, achieving 4* publications and dissemination at international conferences and events. The project was also selected as a subject for a prestigious KTN case study. New opportunities to profit from the knowledge gained from this project include a successful EPSRC Internet of Food Things grant, plus a recent BBSRC Seeding Catalyst award, which will enable IMS, Tesco and Lincoln to continue working together to develop Refrigeration AI Control Technologies to resolve real-world issues such as optimising system performance in order to mitigate food wastage.
+
+Agriculture in the coastal regions of Northern Europe is particularly vulnerable to the impacts of climate change. Rising sea levels, saline intrusion of groundwater and greater pressures on our freshwater supplies have led to concerns about the impact of salt deposition on farmland soils.
+SalFar (saline farming), is a project which aims to mitigate the potential threats of salinization through a collaboration of climate experts, researchers, educators, farmers, entrepreneurs and policy makers. In order to accomplish this, the project will conduct research on the salt tolerance of crops, demonstrating alternative methods of farming under saline conditions and creating new business opportunities for farmers, food producers and entrepreneurs.
+The project is co-funded by the European Union Interreg programme for the North Sea Region and involves partners from Belgium, the Netherlands, Germany, Denmark, Sweden, Norway and the UK.
+The University of Lincoln, SalFars UK partner, is taking a multidisciplinary approach to the project. The Lincoln Institute for Agri-Food Technology (LIAT) have joined forces with the School of Geography and Lincoln International Business School to model the current and future agricultural risks of salinisation, trial salt tolerant crops, and explore the business case for saline agriculture.
+More information can be foundonline.
+Contact: Dr Iain Gouldigould@lincoln.ac.uk
+
+Greenhouse production of fresh fruit, vegetables and ornamentals is a successful, innovative component of the North Sea Region (NSR) economy with an output of 9 billion per year and directly employing more than 500,000 people. It embraces more than 10,000 SMEs with a high-value supply chain and it helps provide sustainable and healthy food to consumers. However, the producers in the NSR are facing challenges, such as high reliance on energy, water and low use of renewable energy. Eco-innovations in new or improved control methods and services is needed to reduce the use of resources (energy, water and chemicals) and to decrease the CO2 emission.
+SMARTGREEN will use novel Big Data analysis of climate and production data to pinpoint unnecessary energy use and to improve the climate control. Combined with research and practical demonstrations in commercial greenhouses, this will secure a leap towards a greener and energy efficient production system. SMARTGREEN connects experienced research groups, leading SMEs and supporting companies to promote the greening of the NSR. By fostering innovative eco-enterprises, we can ensure greener growth, whilst reducing the environmental footprint significantly less pollution, lower emissions and longer-lasting use of resources. The transnational nature of SMARTGREEN will stimulate the development and adoption of eco-friendly and low-carbon products, green services and processes in NSR greenhouse industry.
+Beneficiaries and co-beneficiaries: Aarhus University, Proefcentrum voor Sierteelt (PCS), University of Southern Denmark, Hochschule Osnabrck, The Netherlands Organization for Applied Scientific Research (TNO), Norsk Institutt for Biokonomi (NIBO), Landwirtschaftkammer Niedersachsen Hannover Ahlem (LWK),ProvinciaalProefcentrum voor de Groenteteelt Oost-Vlaanderen (PCG), Potplantenkwekerij Dirk Mermans, Knud Jepsen (Queen), Urban Crop Solutions.
+
+All other live projects at the Lincoln Institute for Agri-Food Technology
+
+
+Studentships | Lincoln Institute for Agri-Food Technology | University of LincolnStudentships
+At the University of Lincoln, postgraduate students are an integral part of our research community. They work alongside talented academics and researchers from around the world, contributing to our growing reputation for internationally excellent research. At the Lincoln Institute for Agri-food Technology there are often opportunities to get involved in exciting research projects by applying for a studentship.
+We do not currently have any studentship opportunities available, please check back to this page as any new positions will be posted here.
+
+PhD Studentships in Agri-robot based High-throughput Phenotyping (HTP)
+s first global centre of excellence in agricultural robotics, recently funded by UKRI's Research England. This exciting centre bridges and expands the strong collaborations that exist between two leading research groups at the University of Lincoln: the Lincoln Institute for Agri-Food Technology (LIAT) and the Lincoln Centre for Autonomous Systems (L-CAS).", 'Using new and developing agri-robotic platforms and working alongside robotics researchers, students will work on crop science projects and contribute towards major challenges that face the global agri-food industry: high-throughput phenotyping, large-scale germplasm screening, big data management, precision agriculture, resource use efficiency and climate change.
+Students will focus their research within the grand challenges prioritised by LAR in crop science primarily focusing on high throughput phenotyping (HTP), e.g. gathering HTP data using multiple novel and traditional sensors such as hyperspectral, multispectral, and thermal imaging, LiDAR, and chlorophyll fluorescence imaging. Students will optimise sensor systems integrated on agri-robotic platforms for HTP field phenotyping in wheat. This research will identify best approaches in data collection, processing and analysis for phenotyping data including point cloud matrices, 3D reconstruction, and extraction of traits of interest using suitable programming languages such as R, Python and/or MATLAB. Students will gain knowledge and experience in development and implementation of research projects, HTP using agri-robots, crop image analysis, programming skills, field and controlled crop studies, and evaluating systems with end users.
+Our fully-funded studentship package includes:
+Students can also benefit from:
+Applications
+We are looking for dynamic, focused graduates with a first or upper second-class honours degree, a Masters degree, or equivalent professional experience.
+PhD Studentships Application Form
+The current round of applications closes on 11 May 2020.Places are limited so early application is advised.
+Apply by sending the following documents to the LAR team atlar@lincoln.ac.uk.
+- Completed Application Form
+- Current CV
+- Transcript of your first degree
+- Transcript(s) of any previous degrees
+
+For further enquiries, please contact the LAR team atlar@lincoln.ac.uk.
+
+LAR Privacy Notice
+
+
+
+Impact and Society | Research | University of LincolnOur Research
+Considering the end-to-end food and farming value chain, together with systems within our agricultural ecosystem, looking at the value technology can liberate and how can we engineer solutions that deliver global impact to some of our world challenges. The University of Lincoln is focusing research around the United Nations sustainable development goals; so considering ways in which technology can impact global systems for good is a natural part of our research.
+Research Projects
+UK Robotics and Autonomous Systems (RAS) Network-Strategic Task Group in Agri-robotics
+A strategic task group for Agri-Robotics (STAR); bringing together robotics, autonomous systems and AI research from around the UK focused on agriculture and the food production pipeline.
+Project Lead:Professor Elizabeth Sklar
+Funder:Engineering and Physical Sciences Research Council - UK Robotics and Autonomous Systems (RAS) Network
+
+Developing data trusts for the food supply chain
+Research to deliver a strategic roadmap and Proof-of-Value for the creation of viable Data Trusts in the Food and Drink Sector. Data Trusts would enable more efficient and effective data sharing amongst actors within the UK food supply chain.
+Project Lead:Professor Simon Pearson
+Funder:Food Standards Agency
+
+Collaboration on diffuse rural pollution
+A project to continue to develop the diffuse rural pollution demonstration farm project and assess and report the environmental benefits from the mitigation measures employed.
+Project Lead:Isobel Wright
+Funder:The Environment Agency
+
+
+
+
+Research Disciplines | Research | University of LincolnResearch Disciplines at the Lincoln Institute for Agri-Food Technology
+LIAT takes an innovative and open-minded approach to collaboration, whether it is working with family-run businesses or multi-national corporations, and is proud to be a member of the UKs Agri-tech East business-focused cluster. The Institutes core aim is to connect academic expertise with partners in industry to pursue world class research which takes on real-world challenges and opportunities, not only advancing the state-of-the-art in agri-food technology but improving the bottom line for businesses. Here are some of the core disciplines in which LIAT researchers are active to help shape the future of farming.
+Robotics and Automation
+LIAT brings together world-leading expertise in agri-robotics to realise the potential for improved productivity through greater automation of pre-harvesting and post-harvesting operations in agri-food industries. With its staff including the UKs first dedicated professor of agri-robotics, LIAT brings together specialists in artificial intelligence and machine learning from the Universitys Lincoln Centre for Autonomous Systems Research. Major agri-robotics projects include development of advanced 3D imaging and automation for robotic weeding and harvesting of vegetables. The Institutes Thorvald agricultural robot supports a variety of field trials and experiments which are being rapidly expanded to address current industry challenges, including pressures on labour supply linked to Brexit.
+Lincoln Centre forAutonomous Systems Research
+Energy Efficiency and Sustainability
+Drawing on specialisms in energy control systems and food process technologies from Lincolns School of Engineering and National Centre for Food Manufacturing, LIAT is pursuing projects to develop novel dynamic control systems optimising energy use in industrial food refrigeration systems. New algorithms to control refrigeration temperatures with strict but variable temperature controls will be developed. This high level of control will provide opportunities to manage and control energy consumption in proportion to the National Grid availability. Other projects include looking at developing and enhancing greenhouse cladding materials to improve crop growth and quality.
+Soil, Water and Crop Science
+Researchers in soil and water management at LIAT are delivering collaborative research of relevance nationally and internationally in their ambition to address challenges of drought, flood, environmental contamination and the spread of disease. The multi-disciplinary nature of LIATs operations enables access to a huge breadth of ideas and expertise, including soil scientists, geographers, crop forecasters and agronomists.
+Projects include a study of the true economic cost of coastal flooding and how farmland damaged by saltwater can best be brought back into use to support Lincolnshires agricultural industry. This study is delivered in collaboration with farmers operating in and around the Lincolnshire Wash. Other projects are looking at agricultural practices and the protection and monitoring of drinking water with a view to influencing policies and governance going forward. Internationally we are investigating small holder supply chain development, using UK science and technology to improve rural livelihoods.
+Lincoln Centre for Water and Planetary Health (LCWPH)
+Food Safety and Security
+In efforts to address global challenges relating to food security, LIAT researchers are developing multi-purpose, user-trainable software technology which has a range of possible applications and overcomes the specificity of existing visual inspection systems. This research is achieving impact in several areas within the food industry, including quality analysis of fresh produce, food processing and food packaging. The technique was initially developed using off-the-shelf hardware to enable affordable detection, identification and quantification of common defects affecting potatoes.
+We are also involved in a project conducting the largest known molecular study to track and trace Campylobacter through the supply chain. This whole genome sequencing will optimise a series of on-farm and factory interactions to reduce the contamination of whole chickens with Campylobacter.
+
+
+Robotic Phenotyping | Research | University of LincolnOur Research
+Robotic Phenotyping is the process of identifying crop growth (e.g. size and shape of the plant) and understanding the complex physiological and genetic traits of crops using robotic technologies. Using robotic sensing, measurement, and analysis techniques, we can identify how a plant is performing against its predicted growth plan. By using robots to consistently and repeatably observe and measure crop growth, we are able to help inform plant breeders and growers about the performance of a type of plant or group of plants.
+Research Projects
+BerryPredictor - improving harvest forecasts, yield predictions and crop productivity by optimising zonal phyto-climates in covered strawberry production
+This project aims to develop new soft fruit growing strategies from an improved understanding of how to optimise individual plant performance. BerryPredictor will also provide UK growers access to real-time accurate yield prediction profiles.
+Project Lead:Professor Simon Pearson
+Funder:UK Research and Innovation  Innovate UK
+
+Data CAMPP (Innovative Training in Data Capture, Analysis and Management for Plant Phenotyping)
+AI is revolutionising agriculture and agronomy. We will train people to develop and use, these tools. We aim to create an online learning environment and suite of course units targeting bioscientists covering topics from development and placement of robotics in the field, through to management of phenotyping image sets, and experimental design for machine learning systems.
+Project Lead:Professor Elizabeth Sklar
+Funder:UK Research and Innovation
+
+
+
+Research | Lincoln Institute for Agri-Food Technology | University of LincolnMaking a Difference Through Innovation
+With a clear focus on improving productivity, efficiency, and sustainability through innovation, LIATs researchers are engaged in international impactful research designed to make a difference across the food chain.Encapsulating an interdisciplinary approach, our research brings together crop science, computer science, engineering, robotics, AI, and data management application.
+The application of technological innovation is crucial to help solve some of the big challenges facing agriculture and food production. LIAT works closely with industry partners to apply research in a real-life setting, supporting industry needs.
+Research Themes
+Soil and water sciences at LIAT focus on the study of agricultural field drainage and soil management. Research aims to support farmers, land owners, and ecosystem managers in developing effective, sustainable approaches to land and water management.
+The field of robotics and automation is a key strategic theme, looking at the development of innovative solutions to food and farming production. Solutions impact the end-to-end food and farming value chain.
+Impact and Society
+Considering the end-to-end food and farming value chain, together with systems within our agricultural ecosystem to see the value of technology and how we can engineer solutions that deliver global impact and address some of our world challenges.  
+Net Zero Agriculture and Carbon
+Considering the impact of carbon sequestration and ways in which soil health might be measured using applied technologies and data sciences.
+Robotic Phenotyping
+By using robots to consistently and repeatably observe and measure crop growth, we are able to help inform plant breeders and growers about the performance of a type of plant or group of plants.  
+Food Safety and Security
+Digital and extended connected capability support the evidencing of food security pathways, and data sensing and modelling systems allow for forecasting and the development of approaches to risk management.
+Crop Care
+Using technology to care for crops involves the deployment of novel sensing systems, data collection, and real time data analysis to help understand the micro-environment of individual plants within a crop.  
+Selective Harvesting
+Energy Efficiency and Sustainability
+Developing solutions for the energy efficiency and sustainability of food production systems, which include wireless communications, extended data networks, and sustainable energy innovation.
+ United Nations Sustainable Development Goals
+s most pressing problems, now and into the future.", 'Research Centres
+AgriFoRwArdS
+ESPRC Centre for Doctoral Training in Agri-Food Robotics: AgriFoRwArdS
+Lincoln Agri Robotics
+The world's first global centre of excellence in agricultural robotics.
+Lincoln Centre for Autonomous Systems (L-CAS)
+Specialising in technologies for perception, learning, decision-making, control, and interaction in autonomous systems.
+
+
+Staff Contact List | Lincoln Institute for Agri-Food Technology | University of LincolnLincoln Institute for Agri-Food Technology
+
+
+LINCAM | Lincoln Institute for Agri-Food Technology | University of LincolnLINCAM
+Lincolnshire and north Cambridgeshire global innovation centre
+Universities of Lincoln and Cambridge win 4.9m EPSRC award
+Funding to boost drive to make region a global innovation centre for agri-tech
+
+The Universities of Lincoln and Cambridge have been awarded a 4.9 million grant from the Engineering and Physical Sciences Research Council (EPSRC) to help fund their drive to make the Lincolnshire and north Cambridgeshire (LINCAM) region a global innovation centre for agricultural technology (agri-tech).
+The LINCAM region is already a major UK production centre for crop-based agriculture and the associated supply chain. Its significance and sheer scale has led to the establishment of a nationally renowned agri-tech cluster  centred on the Universities of Lincoln and Cambridge, where interdisciplinary agri-food innovation is focused on digital technologies, including robotics and artificial intelligence, to boost productivity.
+Now the hope is that the Place Based Impact Acceleration Account (PBIAA) award from the EPSRC  the main funding body for engineering and physical sciences research in the UK  will deliver a step change in activity. The aim is for the LINCAM region to become an agri-tech gateway for the world  enabling the development of technologies at industrial scale and providing export opportunities for agri-tech companies and inward investment opportunities within both the agri-tech and primary production sectors.
+Simon Pearson, founding director of the Lincoln Institute of Agri-Food Technology at the University of Lincoln, said: "The LINCAM agricultural sector supports 88,000 jobs, generates gross value added (GVA) of 3.8 billion and farms more than 50% of the UK's grade 1 land. However, despite this scale, there are still significant challenges and opportunities.
+"Food production accounts for 24% of all UK greenhouse gas emissions, leads to significant biodiversity losses and drives challenging social issues  not least from seasonal worker influxes to rural communities. In addition, farmers are under relentless cost pressures which are eroding supply chain equity and local economies.
+"These challenges are acute across the LINCAM region but this funding award offers an opportunity to harness agri-tech to secure sustainable growth, bringing high-value and skilled jobs to the region, whilst mitigating the serious environmental impacts of the food production system."
+The University of Lincoln has a long track record of agri-tech collaboration with the University of Cambridge and its commercialisation arm Cambridge Enterprise. Their work has included the setting up of Agriforwards CDT  the world's first EPSRC centre for doctoral training (CDT) in agri-food robotics. LINCAM will build on the success of their Ceres Agri-Tech partnership with three other leading UK universities and three renowned agricultural research institutes. Ceres, funded by Research England, provides translational funding and commercialisation expertise to drive agri-tech innovation by accelerating high-quality research to market. It has launched four agri-tech spin-out companies to date and created 13 licensing opportunities.
+LINCAM will broaden participation in the cluster by offering access to the EPSRC funding to all UK higher education institutes involved in agri-tech research with the potential to drive economic and environmental or social sustainability in the region. Projects that are successful in securing a share of the funding will be actively mentored by the LINCAM team to accelerate the delivery of results.
+Professor Miles Padgett, interim executive chair at EPSRC, said: "Im pleased to announce our first ten Place Based Impact Acceleration Accounts which will play a unique role in enhancing the capabilities of innovation clusters across the UK. A key priority for UKRI is to strengthen clusters and partnerships in collaboration with civic bodies and businesses, thereby driving regional economic growth."
+The civic bodies involved in the LINCAM partnership include the Greater Lincolnshire Local Enterprise Partnership, the Cambridgeshire and Peterborough Combined Authority and West Lindsey District Council.
+
+February 2024
+The LINCAM Ceres Agri-Tech cluster is pleased to announce that a new round of funding opportunities is now open for researchers from UK universities and EPSRC approved research technology organisations.
+If you need to develop your agri-tech innovation or get proof-of-concept data to start commercialising your agri-tech innovation, we want to hear from you.
+Ranging from 5,000 to 150,000 funded to charity/IAA rulesu202f(no FEC), our LINCAM Ceres Agri-tech awards support the commercialisation ofu202fcrop- relatedu202fagri-tech innovations, e.g. through proof-of-principle work, prototype development or field trials. Proposals are assessed based on a pitch to the Ceres Investment Committee,u202f with prompt decision making.
+In this February 2024 Call, LINCAM Ceres Agri-Tech is seeking Expressions of Interest for EPSRC scope technologies that will significantly improve crop production in the LINCAM region (Greater Lincolnshire and North Cambridgeshire Fens) and which have the potential for global impact.
+We have particular interest in technologies that address the following priorities for the crop production sector in the LINCAM area:
+There are two award streams
+Proposals are assessed by a pitch to the Ceres Investment Committee.
+Interested? Please submit a completed Expression of Interest formu202ftou202finfo@ceresagritech.orgu202f no later than close of play on Tuesday 2nd April 2024.u202fCeresu202fcan help to develop your idea and pitch deck.
+For further information, visit our dedicated web pages atu202fLINCAM Ceres Agri-Tech.
+
+Contact Us
+Lincoln Institute for Agr-Food TechnologyUniversity of LincolnRiseholme ParkLincolnLN2 2LG
+ LINCAM@lincoln.ac.uk
+
+

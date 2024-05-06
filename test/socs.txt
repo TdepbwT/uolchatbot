@@ -1,0 +1,194 @@
+Funding | Military Programmes | University of LincolnA number of funding schemes are available to assist military students in financing their studies.
+These include:
+All of these schemes are administered by the Enhanced Learning Credits Administration Service (ELCAS). Further information on eligibility and entitlements are available from your education staffs and theMODs ELCAS information website.
+The University of Lincoln is a registered ELCAS provider: 1283
+
+
+Research | University of LincolnIn this section
+Welcome
+The School of Computer Science (SoCS) has a rapidly growing international reputation for its research. We pursue a blend of fundamental, applied and interdisciplinary research and have particular strengths in computer vision, robotics and autonomous systems, and human computer interaction.
+The research carried out by students and academics in the School of Computer Science is ground-breaking. In the most recent external Research Assessment carried out nearly two-thirds of our staffs publications were rated as being of international quality or world leading. That is another fantastic achievement for a relatively new school, and it clearly vindicates our strategy to accommodate a rapid growth supported through the expertise of our staff and academics.
+Our highly-active research centres feature world-leading developments in computer vision and in robotics and autonomous systems. We also have strong links to many industrial collaborators and other universities around the world. We always try to incorporate our research findings into our taught curriculum wherever possible and under the banner of student as producer we give all students opportunities to get involved in this cutting-edge and exciting work.We believe all of this makes the School of Computer Science at the University of Lincoln a truly great and exciting place to study and develop, and we look forward to working with you towards the next stages of your life.
+LINCOLN CENTRE FOR AUTONOMOUS SYSTEMS (L-CAS)
+L-CAS specialises in perception, learning, decision-making, control and interaction for autonomous systems, such as robots, and the integration of these capabilities in applications including personal robotics, healthcare, agri-food, security, and intelligent transportation.
+LABORATORY OF VISION ENGINEERING (LoVE)
+Specialises in the capture, transmission, processing and understanding of image, video and other high-dimensional data. The Centre focuses on several application areas, including healthcare, scientific, security and environmental monitoring.
+INTERACTIVE TECHNOLOGIES LAB (intLab)
+The intLab at the University of Lincoln establishes quality of life as its central concern, aiming to promote better living through, and with, technology. Research interests range from human-computer interaction, games and wellbeing, to sustainability, critical design, and fine art.
+MACHINE LEARNING GROUP (MLEARN)
+The MLearn Group will specialise in artificial and computational intelligence, focused on the design, development and study of machines that are able to reason, predict and adapt to changing environments, and assist humans in their activities and interactions.
+Lincoln School of Computer Science, University of Lincoln, Brayford Pool, Lincoln. LN6 7TSemail:enquiries@lincoln.ac.uktel: + 44 (0)1522 886644
+
+
+The Ben and Chris Show | School of Computer Science | University of LincolnWelcome
+s academics Ben Williams, and Dr Chris Headleand for the Ben and Chris Programming Show! During the weekly show Ben and Chris will take you all the way from writing your first line of code, to creating your first programme. They will be teaching the Python programming language which is used extensively at the University of Lincoln. Why Python? Because it is one of the most versatile programming languages in the world, used in a range of fields from the Biological Sciences through to Animation and Games Development. It is also one of the most popular languages for data analysis which we will discuss during our live-streams. So, if you have an interest in computer science, want to learn about data analytics, or just want to learn a new skill, join Ben and Chris every thursday at 6pm to find out more!", 'Missed an episode? Re-watch all previous session at any time below.
+Week 1
+This week we look at how to use Python with repl.it, print statements and very basic calculations
+Week 2
+This week we look at variables, what they are, why they're useful, and how you can use them
+Week 3
+This week we look at conditions and selection, and how these can be used in your code to create complex programs.
+Week 4
+This week we look at loops and iteration, and how you can make use of different types of iteration in your program.
+Week 5
+This week we look at functions: what they are, how we can create our own, and how we can use parameters to pass data into functions.
+Week 6
+This week we look at lists and their purpose, iteration through them, and how to read data from files into our Python programs.
+Interactive Worksheets
+Make the most out of each session, download and complete the worksheetsbelow to put yourknowledge in to practice.
+The Ben and Chris Show Worksheet 1
+The Ben and Chris Show Worksheet 2
+The Ben and Chris Show Worksheet 3
+The Ben and Chris Show Worksheet 4
+The Ben and Chris Show Worksheet 5
+Contact
+School of Computer ScienceCollege of Health and ScienceUniversity of LincolnBrayford Pool CampusLincoln LN6 7TS
+enquiries@lincoln.ac.uk
+
+
+
+
+School of Computer Science | University of LincolnIn this section
+Welcome
+Hear from our students
+
+s School of Computer Science.Hear their first hand experiences of student life at Lincoln and find out what makes it a great place to learn.", '
+"It's very welcoming, it feels like a second home almost immediately."
+Spencer Graves, Games Computing Graduate
+Undergraduate Courses
+The School of Computer Science offers a range of programmes in Computer Science, Computer Science with Artificial Intelligence, Games Computing, and Robotics.
+Postgraduate Programmes
+Our postgraduate offer includes taught and research-based programmes in Computer Science, Games Development and Design, Intelligent Vision, and Robotics and Autonomous Systems.
+Research
+We pursue a blend of fundamental, applied, and interdisciplinary research and have particular strengths in computer vision, robotics and autonomous systems, and human computer interaction.
+Women in Science
+Find out more about the University's commitment to advancing the representation of women in science, technology, engineering, mathematics, and medicine (STEMM). Also learn about some of the exciting research being carried out by women in science at the University of Lincoln and explore upcoming Eleanor Glanville Centre public events which celebrate the achievements of women in science.
+AgriFoRwArdS
+Find out how you could join the largest ever cohort of Robotics and Autonomous Systems (RAS) specialists for the global food and farming sectors with the University of Lincolns launch of the Centre for Doctoral Training in Agri-Food Robotics.
+Military Programmes 
+Our military programmes provide an opportunity for serving and retired military personnel to gain internationally recognised postgraduate awards.
+School Blog
+Find out the latest news from the School of Computer Science on our dedicated blogsite.
+Seminar Series
+This seminar series brings presentations on research and pedagogy to a broad audience within the School of Computer Science. The series is particularly beneficial to MSc/PhD students, postdocs, early and late researchers as it presents the opportunity to discuss and debate new findings in computer science, games, imaging, healthcare, brain science, robotics and autonomous systems, machine learning and their applications to all aspects of science in a collegial and open setting.
+Connect with Us
+
+
+School of Computer ScienceCollege of Health and ScienceUniversity of LincolnBrayford Pool CampusLincoln LN6 7TS
+enquiries@lincoln.ac.uk
+
+
+
+
+Undergraduate Courses | School of Computer Science | University of Lincoln
+
+
+Military Programmes | University of LincolnIn this section
+The military MSc programmes offered by the School of Computer Science provide an opportunity for serving and retired military personnel (from the UK and overseas) to gain internationally recognised postgraduate awards based  in part  on the prior experience and learning gained during their military service.
+Available to those with a minimum of eight years military service in relevant roles, credit can be awarded via a process known as APEL  Accreditation of Prior Experiential Learning. Applicants provide documentary evidence of their experience and learning and this is considered by the APEL Board. Successful students are then invited to attend a one-week research methods course at the University of Lincoln.
+Within one month of the research methods course, students are expected to submit their research project proposal for assessment. The two-year part-time MSc programmes then continue as students research their chosen project and write a 20,000 word project report. Students are supported throughout this process by their personal academic supervisor and have regular meetings and discussions either face-to-face or via email and video conferencing.
+Successful completion and assessment of the project and its associated report leads to the award of the MSc.
+MSc Innovation in Intelligence, Surveillance and Reconnaissance
+This programme aims to develop knowledge, skills and a critical understanding of ISR within the wider Intelligence Systems environment.
+Funding Routes
+A number of funding schemes are available to assist military students in financing their studies.
+These include:
+All of these schemes are administered by the Enhanced Learning Credits Administration Service (ELCAS). Further information on eligibility and entitlements are available from your education staffs and theMODs ELCAS information website.
+The University of Lincoln is a registered ELCAS provider: 1283
+Contact Us
+School of Computer Science
+enquiries@lincoln.ac.uk
+Programme Leader: Dr Steven Paget
+e: SPaget@lincoln.ac.uk
+tel: +44 (0)1522 837372
+
+
+Postgraduate Programmes | School of Computer Science | University of LincolnSchool of Computer Science Postgraduate Programmes
+
+
+
+intlab | Research | University of LincolnInteractive Technologies
+The interactive technologies lab (intLab) is a Human-Computer Interaction (HCI) research group based in the School of Computer Science. HCI is a multidisciplinary field, therefore the research group unites a broad range of members with expertise in computer science, psychology, and design, and involves a range of collaborations with other disciplines and universities.
+The goal of intLab is to study, design, and implement technologies that are usable, efficient, and enjoyable, putting people at the centre of our research. The group works on a range of aspects of HCI, including designing technologies for accessibility and educational needs. Intlab also has a long-standing interest in games and playful interactive systems, focusing on player experience in video games, the design of immersive virtual reality and augmented reality-based experiences, and using games as a research method.
+ United Nations Sustainable Development Goals
+s most pressing problems, now and into the future.", 'Research
+IntLab's research covers many different themes including virtual reality, games, accessibility, education, physiological, and internet of things.
+Group Members
+A list of the members of intLab at the University of Lincoln.
+Publications
+View key publications produced by members of intLab.
+Connect With Us
+
+
+Group Members | intlab | University of LincolnGroup Members
+A list of the members ofintLab at the University of Lincoln.
+Associate Professor - user experience in virtual reality and games
+Senior Lecturer - humancomputer interaction and games
+kbachour@lincoln.ac.uk
+Senior Lecturer -use of technology in pursuit of new interactive and creative forms of media
+pcarlisle@lincoln.ac.uk
+Principal Lecturer - second screening and games
+mdoughty@lincoln.ac.uk
+Principal Lecturer -humancomputer interaction and sustainability
+defoster@lincoln.ac.uk
+Lecturer - robotics, HRI, HCI, and machine learning
+mgalveztrigo@lincoln.ac.uk
+Lecturer -using brain physiological data to learn more about users during interaction
+hmaior@lincoln.ac.uk
+Lecturer -interests in games
+rntelia@lincoln.ac.uk
+Lecturer -agent-based modelling to improve believability of large-scale virtual world environments
+
+
+Publications | intlab | University of LincolnintLab Publications
+2022
+Journal Articles
+Hare, The relationship between vection, cybersickness and head movements elicited by illusory motion in virtual reality, Displays (Volume 71) 2022. https://doi.org/10.1016/j.displa.2021.102111.", 'Conference Proceedings
+L. Mason, K. Gerling, P. Dickinson, J. Holopainen, K. Hicks, L. Jacobs, Including the Experiences of Physically Disabled Players in Mainstream Guidelines for Movement-Based Games, Proceedings of the ACM SIGCHI Conference on Human Factors in Computing Systems (CHI), 2022.
+2021
+Journal Articles
+Hare, Louise, Dickinson, Patrick et al (2021) Action Video game players do not differ in the perception of contrast-based motion illusions but experience more vection and less discomfort in a virtual environment compared to Non-Action Video game players. Journal of Cognitive Enhancement (Forthcoming).", "Phlmann, K., Fcker, J., Dickinson, P., Parke, A. and O'Hare, L. 2021. The effect of motion direction and eccentricity on vection, VR sickness and head movements in Virtual Reality. Multisensory Research. ISSN 2213-4794 (Forthcoming).", 'Fanta Camara, Patrick Dickinson, and Charles Fox, Evaluating Pedestrian Interaction Preferences with a Game Theoretic Autonomous Vehicle in Virtual Reality, Transportation Research Part F: Traffic Psychology and Behaviour 78, 410-423.
+C. Chen, C. Qing, X. Xu and P. Dickinson, "Cross Parallax Attention Network for Stereo Image Super-Resolution," in IEEE Transactions on Multimedia, online January 2021, doi: 10.1109/TMM.2021.3050092.
+Conference Proceedings
+Hare, Julia Fcker, Adrian Parke, Patrick Dickinson, Is Virtual Reality sickness elicited by illusory motion affected by gender and prior video gaming experience?, 2021 IEEE Conference on Virtual Reality and 3D User Interfaces (VR).", '2020
+Journal Articles
+Budde, M., Rohe, J.F., Hirschoff, L., Schlosser, P., Beigl, M., Holopainen, J. and Schankin, A. (2020) SpaceMaze: incentivizing correct mobile crowdsourced sensing behaviour with a sensified minigame.Behaviour & Information Technology, 0(0) 116.Dickinson, P., Gerling, K., Wilson, L., & Parke, A.(2020).Virtual reality as a platform for research in gambling behaviour.Computers in Human Behavior 107,[106293]. https://doi.org/10.1016/j.chb.2020.106293.
+Conference Proceedings
+ 20 Companion). Association for Computing Machinery, New York, NY, USA, 321324. DOI:https://doi.org/10.1145/3393914.3395823.", 'Gerling, K., Dickinson, P., Hicks, K., Mason, L., Simeone, A., & Spiel, K. (2020). Virtual reality games for people using wheelchairs.Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (CHI 20).
+2019
+Journal Articles
+Hare, L., Wilson, L., Westerman-Hughes, G., & Gerling, K. (2019). Effect of within-session breaks in play on responsible gambling behaviour during sustained monetary losses.Current Psychology: A Journal for Diverse Perspectives on Diverse Psychological Issues.[Advance online publication.]https://doi.org/10.1007/s12144-019-00567-5.", 'Conference Proceedings
+Benerradi, J., A. Maior, H., Marinescu, A., Clos, J., & L. Wilson, M. (2019). Exploring machine learning approaches for classifying mental workload using fNIRS data from HCI tasks.Proceedings of the Halfway to the Future Symposium 2019,1-11.Camara, F., Dickinson, P., Merat, N., & Fox, C. (2019) Towards game theoretic AV controllers: Measuring pedestrian behaviour in virtual reality.Proceedings of TCV2019: Towards Cognitive Vehicles. 2019 IEEE/RSJ International Conference on Intelligent Robots and Systems,7-10.Gerling, K., Hicks, K., Szymanezyk, O., & Linehan, C. (2019). Designing interactive manual wheelchair skills training for children.Proceedings of the 2019 Designing Interactive Systems Conference,725-736.Hicks, K., Gerling, K., Dickinson, P., & Vanden Abeele, V. (2019). Juicy game design: Understanding the impact of visual embellishments on player experience.Proceedings of the Annual Symposium on Computer-Human Interaction in Play,185-197.Hicks, K., Gerling, K., Richardson, G., & Pike, T. (2019). Understanding the effects of gamification and juiciness on players.Proceedings of the IEEE Conference on Games,1-8.Maior, H. A., Ramchurn, R., Martindale, S., Cai, M., Wilson, M. L., & Benford, S. (2019). fNIRS and neurocinematics.Extended Abstracts of the 2019 CHI Conference on Human Factors in Computing Systems,1-6.Mason, L., Gerling, K., Dickinson, P., & De Angeli, A. (2019). Design Goals for Playful Technology to Support Physical Activity Among Wheelchair Users.Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems,1-12.Westerside, A., & Holopainen, J. (2019). Sites of play: Locating gameplace in Red Dead Redemption 2. Proceedings of DiGRA 2019 International Conference: Game, Play and the Emerging Ludo-Mix.
+2018
+Journal Articles
+Kultima, A., Nummenmaa, T., Tyni, H., Alha, K., Stenros, J., Kankainen, V., Holopainen, J. and Myr, F. (2018). Playful furniture: breaching a serious setting with interactive seats.Games and Culture,13(3), 301-321.Maior, H. A., Wilson, M. L., & Sharples, S. (2018). Workload alertsusing physiological measures of mental workload to provide feedback during tasks.ACM Transactions on Computer-Human Interaction (TOCHI),25(2), 9.O'Hare, L.,Sharp, A.,Dickinson, P.,Richardson, G.,&Shearer, J. (2018).Investigating head movements induced by "riloid" patterns in migraine and control groups using a virtual reality display.Multisensory Research, 31(8), 753-777.
+Conference Proceedings
+18 Extended Abstracts of the 2018 CHI Conference on Human Factors in Computing Systems,doi:10.1145/3170427.3170665.", '
+
+
+Seminar Series | School of Computer Science | University of LincolnWelcome
+This seminar series brings presentations on research and pedagogy to a broad audience within the School of Computer Science. The series is particularly beneficial to MSc/PhD students, postdocs, early and late researchers as it presents the opportunity to discuss and debate new findings in computer science, games, imaging, healthcare, brain science, robotics and autonomous systems, machine learning and their applications to all aspects of science in a collegial and open setting. The seminars are open to the general public and free of charge. All are welcome, booking is not required and anyone wishing to attend need only turn up. For any questions, please contact Dr Vassilis Cutsuridis at vcutsuridis@lincoln.ac.uk.
+Upcoming seminars
+There are no events to show here right now. Please check back another time.
+Past events
+A putative role of Neurofeedback in canonical remoulding of the neural representation of self during sleepDr Andreas A Ioannides,CEO of AAI Scientific Cultural Services Ltd & Chief Scientist of AAISCSs Laboratory for Human Brain Dynamics (Cyprus)Watch NowThe lecture will describe the distinct output produced in two independent investigations, one on neurofeedback (NF) and the other on sleep.
+On the Journey to Measure Cognitive-Motor Dissociation  What Can Portable Imaging Tell Us?Dr Anirban Dutta, School of Engineering, UoLWatch NowSearching for cognitive abilities in patients with severe brain injury can be difficult because patients must be sufficiently aroused and able to mobilize motor function to show that they can follow commands.
+Robots in Contact operations: from technological process to Human-Robot CooperationDr Alexandr Klimchik, School of Computer Science, UoLWatch NowRobot-manipulators were designed to replace humans in the tedious repetitive tasks. Latter we came to an idea that they can be used for much wide spectrum of tasks, including contact operations and cooperation with a human.
+Technology, attentional control, and the impact on human brain plasticityDr Julia Foecker, School of Psychology (UoL)8 February, 2pmTechnology development and use is a fundamental dimension of human experience. Recent methodological developments in neuroscience have allowed us to understand how exposure to new technologies (e.g.video games) affects the brain and our ability to focus on task-relevant information while ignoring distractors. In this talk, I will present different methodological frameworks which can be applied in order to improve attentional control.
+Working Toward Human-Robot SymbiosiDr Francois Michaud, University of Sherbrooke (Canada)1 February, 2pmWatch NowHuman-robot symbiosis implies developing robotic systems that can collaborate with humans in open and messy conditions, meaning unpredictable real-life settings, such as those found in assistive healthcare and work environments. 
+Face-to-faceconversationwithsociallyintelligentrobotsDr Mary Ellen Foster, University of Glasgow26 January, 11amWatch NowWhen humans talk to each otherface-to-face, they use their voices, faces, and bodies together in a rich, multimodal, continuous, interactive process.
+Application of machine learning techniques in intelligent crop managementDr Miao Yu, School of Computer Science (UoL)18 January, 2pmWatch NowNowadays, machine learning, especially deep learning techniques have been exploited in all walks of life, especially in some traditional non-technical areas such as agriculture. In this talk, I will introduce the exploitations of some modern biophysical models, machine learning models, deep learning models and model fusion approaches for tomato/strawberry yield prediction.
+Computational aspects of neural plasticityin aging, sleep physiology, motor rehabilitation and language mappingDr Christos Frantzidis, School of Computer Science (UoL)7 December, 2pmWatch NowThis talk will discuss my research efforts during the last decade. During its first part, I will discuss how physical and cognitive training could induce neuroplasticity changes in the mature human brain.
+Future Challenges for Sellafield LtdDr Melissa Willis, Head of Robotics and AI at Sellafield Ltd16 November, 2pm Sellafield Ltd has lifetime plan of over 100 years to remediate and decommission the site. The history of the site spans from a munitions legacy, civil nuclear power generation, reprocessing and the safe secure storage of nuclear waste and materials.
+Connect with Us
+
+
+School of Computer ScienceCollege of Health and ScienceUniversity of LincolnBrayford Pool CampusLincoln LN6 7TS
+enquiries@lincoln.ac.uk
+
+
+
+
+Staff Contact List | School of Computer Science | University of LincolnSchool of Computer Science Staff
+
+

@@ -1,0 +1,250 @@
+Postgraduate Programmes | School of Mathematics and Physics | University of Lincoln
+
+
+Maths and Physics Science Week 2021 | School of Mathematics and Physics | University of LincolnLincoln Maths and Physics Week
+David Wilkinson from UK Institute of Physics & Univ. of Lincoln, A Half-life in Physics
+Watch Back
+Prof. Andrei Zvelindovsky, Simple maths of complex birds flocking
+Dr. Simon Smith, Infinity
+Dr. Fabien Paillusson, Is the vacuum empty?
+
+Learn More About the School of Mathematics and Physics
+Undergraduate Courses
+Find out more about the School of Mathematics and Physics and the undergraduate programme we offer including subject areas such as mathematics, physics, computer science, and philosophy. 
+Chat to Our Students
+Want to know what it is really like to study at the University of Lincoln? Register with our Unibuddy platform and send a message to one of our friendly student ambassadors  theyre here to help.
+Postgraduate Programmes
+Discover our range of postgraduate study opportunities within the School of Mathematics and Physics including both taught and research-based programmes across multiple subject areas including Astrophysics, Nanomaterials Science, and Pure Mathematics.
+Connect with Us
+
+
+School of Mathematics and PhysicsCollege of Health and ScienceUniversity of LincolnBrayford Pool CampusLincoln LN6 7TS
+mathsphysics@lincoln.ac.uk
+
+
+Algebra | Research | University of LincolnAlgebra Research at Lincoln
+Group Theory is one of the most important parts of modern Algebra. Groups can be regarded as measures of symmetry understood in the most broad sense as invariants under "admissible" transformations, specific to each subject area. The language of group theory is therefore used throughout mathematics, as well as in natural sciences. Abstract Group Theory studies the intrinsic structure of groups, which are quite fascinating objects from the pure mathematical point of view.
+One of the difficulties in the study of groups is that the group operation is not commutative, and groups in general do not have any linear structure. But certain classes of groups are closer to being commutative than others. Special methods are used to construct linear structures from the group, such as a vector space, or aLiering. This makes it possible to apply the technique of linear algebra: for example, an automorphism of a group can sometimes be regarded as a linear transformation, for which there arise eigenspaces, Jordan normal form, etc. This illuminates the group in a new "linear" light, and a problem becomes easier to handle.
+In the theory of finite groups, many problems nowadays can be reduced to soluble and nilpotent groups by using the classification of finite simple groups. Further study of soluble groups based on representation theory provides further reductions to nilpotent groups. The latter in turn are often studied by usingLiering methods.
+One of the directions of our research in Algebra is the study of automorphisms with restrictions on their fixed points, with the aim of achieving greater commutativity of the group, or of a suitable large subgroup. Another strongpoint is developing novelLiering methods, as well as proving results onLierings and their automorphisms, which can be applied to groups.
+s research is conducted in international collaboration. The Brazilian research council CNPq provided a Special Visiting Researcher grant for Prof Evgeny Khukhro, who regularly visits University of Brasilia for joint research on application of HallHigmantype theorems andLiering methods, as well as developing new length-type parameters for nonsoluble finite groups with applications to profinite groups. Collaboration with Universities of Ankara and Dogus University in Istanbul resulted in new HallHigmantype results for Frobeniustype groups of automorphisms. In several joint papers with researchers in Novosibirsk (Russia), Mulhouse (France), and Brasilia,Liering methods were successfully applied for studying nilpotent groups and their automorphisms.", '
+
+
+
+Algebra in Lincoln Blog
+
+
+School Outreach Work | School of Mathematics and Physics | University of LincolnExperience Maths and Physics at Lincoln
+The School of Mathematics and Physics engages in a number of outreach activities of various types. This includes schools liaison work, public events, competitions, residential summer schools, and many more ad-hoc activities. We post about these activities on our blog and you can find out more information below.
+Events
+In the School of Maths and Physics, we hold a range of public events with the aim to engage and share knowledge with others. All events are free to attend, but booking is advisable. Find out more about our upcoming events below.
+Maths and Physics Challenges
+Every year within the School we run a competition for secondary school students. This involves students answering a set of problems in the style of Maths and Physics Olympiads. Winners of the competition receive prizes and these are awarded at a celebratory on-campus event.
+Masterclasses
+Several of our staff have delivered, and are available to deliver, lectures or workshops in secondary schools or colleges. There are a range of Maths or Physics Masterclasses available, but we are open to suggestions from your school or college. For more information contact Dr Matthew Booth at mbooth@lincoln.ac.uk.
+Headstart Residential
+At Lincoln, we host an annual Maths and Physics summer school organised by the EDT (Engineering Development Trust). This special opportunity is available to students from all across the country and takes place in the summer holidays. The aim is to allow students to get a taste of student life in Lincoln whilst experiencing university-level mathematics and physics learning. 
+Maths and Physics Week
+As part of British Science Week, at Lincoln, we held Maths and Physics week. This week was dedicated to celebrating the wide range of exciting opportunities a Maths or Physics degree can open up. Catch up on these sessions to find out more about what we do in the School of Maths and Physics, our research, and what makes Lincoln a great place to learn.
+Connect with Us
+
+
+School of Mathematics and PhysicsCollege of Health and ScienceUniversity of LincolnBrayford Pool CampusLincoln LN6 7TS
+mathsphysics@lincoln.ac.uk
+
+
+Research | School of Mathematics and Physics | University of LincolnWelcome
+Staff in the School of Mathematics and Physics conduct cutting-edge research in fundamental and applied mathematics and physics, ranging from pure mathematics to applied nano-science at the interface between biology, chemistry, physics, and mathematics. The School collaborates with top research institutions in Germany, Japan, Norway, the Netherlands, Singapore, Spain, and the USA.
+Our research focuses on four key areas: Algebra, Astrophysics, Computational Physics, and Experimental Nanophysics.
+Pure Mathematics in the School is organised in the Charlotte Scott Research Centre for Algebra. Algebraists at Lincoln conduct research on finite and infinite groups and their automorphisms, Lie algebras, profinite and locally finite groups, topological groups, permutation groups, polynomial algebra, and algebraic number theory.
+Our astrophysics research is dealing with some of most complex structures in our Solar system, such as planetary rings around Saturn. An emerging direction is also investigation of disks around exoplanets and potential moon formation which could support life.
+The School is home to the Centre for Computational Physics, with research encompassing computational and theoretical physics as well as applied mathematics of nano-structured soft matter, solid/soft matter interface, molecular biophysics, and biologically inspired systems.
+Experimental Nanophysics and Nanotechnology research in the School brings together expertise from a range of disciplines to focus on various applications of nanotechnology; from renewable energy to nano-medicine.
+Connect with Us
+
+
+School of Mathematics and PhysicsCollege of Health and ScienceUniversity of LincolnBrayford Pool CampusLincoln LN6 7TS
+mathsphysics@lincoln.ac.uk
+
+
+Advisory Board | School of Mathematics and Physics | University of Lincoln
+Professor John Wilson(University of Oxford)
+Professor Wilson, born and brought up in Lincolnshire, studied at the University of Cambridge, receiving the MSc degree in 1970, the PhD degree in 1971 and the ScD degree in 1989. He has held academic positions in Cambridge from 1969 to 1994, at the University of Birmingham from 1994 to 2003, and at the University of Oxford from 2013; he has also held visiting professorships in many other universities on three continents. He has been Editor-in-Chief of the Journal of Group Theory since its foundation in 1998, was Editor-in-Chief of Math. Proceedings of the Cambridge Philosophical Society from 1987 to 1992 and has served on the editorial boards of a number of other major international journals.
+Professor Wilson has published over 100 research articles in the area of group theory and one of the standard monographs on profinite groups. He has developed an extensive theory for branch groups, proved important results in the model theory of groups and solved a number of long-standing problems.
+
+Professor Charles Leedham-Green(Queen Mary, University of London)
+Professor Charles Leedham-Green graduated from Oxford University in 1963, where he also received his D.Phil. in Mathematics in 1966. He is a Professor of Pure Mathematics, Queen Mary, University of London, since 1997. His research is in the area of group theory, where he published over 50 research articles and co-authored (with S. McKay) the definitive monograph The Structure of Groups of Prime Power Order (Oxford University Press, 2002).
+
+Professor Michael Vaughan-Lee(Oxford University)
+Michael was educated at Oxford University, where he received his B.A. (First Class Honours) in Mathematics in 1965, M.A. in Mathematics in 1968, and D.Phil. in Mathematics in 1968. He has held academic positions at Vanderbilt University, Nashville, Tennessee, University of Queensland, and since 1971 at Oxford University, where he became a Professor of Mathematics in 1996. His research for many years has been in developing Lie algebra methods in group theory, and in applying these methods to solving problems in group theory. He is also heavily involved in developing computer programmes for studying groups and Lie algebras. Professor Vaughan-Lee has published over 60 research articles and authored the definitive monograph The Restricted Burnside Problem (now in its second edition) published by Oxford University Press.
+
+Professor Alexandre Borovik(University of Manchester)
+Professor Alexandre Borovik studied at the Novosibirsk University (Russia), where he received his MSc in 1978 and PhD in 1982. He has held academic positions at the Academy of Sciences, Russia, the University of California, Irvine, and at Rutgers University, USA. Since 1992 he has worked at UMIST and the University of Manchester. His research interests are focused on group theory, model theory and combinatorics. He has published over 80 research papers and 3 research monographs in mathematics and a post-graduate level textbook. He is a member of the Council of the London Mathematical Society (and served on Programme, Research Meetings, and Education Committees of the London Mathematical Society) and of the Council of the British Logic Colloquium. Professor Borovik is also well known for his interest in the philosophy of mathematics and mathematical education, on which he published the book Mathematics under the Microscope (AMS, 2010).
+
+Professor Pavel Shumyatsky(University of Brasilia, Brazil)
+Pavel Shumyatsky received his PhD in Mathematics in 1989 from Urals University (Yekaterinburg, Russia). He then held research positions in Urals University (1990-1991) and Technion, Israel (1992-1995). Since 1995 he has worked in the Department of Mathematics, University of Brasilia, Brazil (Full Professor since 2003). He has authored over a hundred research papers, mostly on group theory, and supervised about 10 doctoral students.
+
+Professor Efim Zelmanov(University of California, San Diego) Fields Medal 1994
+Professor Efim Zelmanov studied at the Novosibirsk University (Russia), where he received his MSc in 1977 and PhD in Mathematics in 1980. He received DSc degree at Leningrad University in 1985. He held academic positions at Sobolev Institute of Mathematic in Novosibirsk (19801992), he was Professor of Mathematics in University of WisconsinMadison (19921996), in University of Chicago (19941995), Yale University (19952002), and since 2002 he is R. Atkinson Professor of Mathematics in University of CaliforniaSan Diego. His research interests are in algebra (group theory and non-associative rings), where he has achieved outstanding results including the solution of the Restricted Burnside Problem. He was awarded College de France Medal in 1991 and Fields Medal in 1994. Professor Zelmanov is a member of the National Academy of Science of USA, foreign member of several national academies of science, and Honorary Dr of several universities all over the world. He is also a member of the editorial boards of international journals Algebra Colloquium, Algebra and Logic, Annals of Mathematics, Communications in Algebra, European Journal of Mathematics, International Journal of Algebra and Computation, Journal of the American Mathematical Society, Journal of Lie Theory, Journal of Algebra & Applications, Bulletin of Mathematical Sciences. He is a member of the Abel Prize Committee, and of the advisory boards of American Institute of Mathematics, Fields Institute, Pacific Mathematical Institute, Max Planck Institute, Beijing University Mathematical Institute and Institute for Basic Science of Korea.
+
+Professor Natasha M. Maurits(University Medical Center Groningen, Netherlands)
+Nathasha received both MEng (1994, cum laude) in Applied Mathematics and MSc (1994, cum laude) in Numerical Mathematics from the University of Groningen (Netherlands). In 1998 she received a PhD (cum laude) for her work in mathematical modelling in Chemistry from the University of Groningen (Netherlands). Natasha is a Professor of Clinical Neuroengineering in the Department of Neurology, University Medical Center, Groningen (Netherlands), since 2011 and visiting Professor at the Department of Biomedical Engineering, Strathclyde University in Glasgow (UK) since 2013. Clinical neuroengineering is the scientific field that aims to advance clinical neuroscience by employing mathematical, physical and engineering principles. Natashas research focuses on the fundamental understanding of and the improvement of the diagnostics of neurological disorders, and on the development of new signal analysis and recording techniques to aid in this enterprise. She has published over 100 peer-reviewed journal papers and authored a monograph on clinical neuroengineering (Springer, 2012). She has been recognized as a senior member of IEEE, and is an Academic Editor of PloS ONE.
+
+Professor Dick Bedeaux(Norwegian University of Science and Technology, Trondheim, Norway)
+Dick Bedeaux received both MSc (1964, cum laude) and PhD (1969) in Theoretical Physics from the Utrecht University, The Netherlands. He has held postdoctoral and visiting positions at University of California at San Diego, La Jolla (USA) and Wolfgang Goethe Universitt, Frankfurt (Germany). He has been a Professor of Theoretical Physics at the Institute for Theoretical Physics, Trondhem, Norway (1981-1983) and a Professor of Physical Chemistry at University of Leiden, The Netherlands (1984  2006). He was also a Guest Professor at the Department of Mathematics, University of Strathclyde, Glasgow between 1997 2005. He is now a Professor of Physical Chemistry at Norwegian University of Science and Technology, Trondheim, Norway. A world authority on non-equilibrium thermodynamics, Professor Bedeaux was elected as Foreign Member of the Norwegian Academy of Technical Sciences, Fellow of the American Physical Society and a Member of the Royal Norwegian Academy of Sciences and Letters.
+
+Professor Ignacio Pagonabarraga(University of Barcelona)
+Ignacio Pagonabarraga is Professor in Condensed Matter Physics in the Department of Fundamental Physics at the University of Barcelona. He graduated in Physics from Universitat de Barcelona in 1989 where he also obtained a PhD (cum laude) in Physics in 1995. He has performed postdoctoral stays at Institute Amolf in Amsterdam, in the group of Prof. D. Frenkel and at the University of Edinburgh in the group of Prof. M.E. Cates. He has published over 140 papers in international journals. He has been invited to over 80 International conferences. He has also been appointed visiting or invited Professor at the Universit Paris-Sud, Universit Claude Bernard Lyon 1, Technical University of Berlin, Indian Institute of Technology in Chennai, the Kavli Institute for Theoretical Physics in Santa Barbara, USA. Ignacio has been the coordinator of the master program in computational physics at the University of Barcelona (UB), as well as a committee member for three master programs at UB in Computational Physics, Biophysics and Computational Science, as well a coordinator of the PhD program in Physics at UB.
+
+Professor Lev Kantrorovich(Kings College London)
+Lev received a BSc (1979) in Theoretical Physics from the Department of Physics & Mathematics, Latvian University, Riga, Latvia, USSR, and PhD (1985) in Solid State Physics from Institute of Physics, The Latvian Academy of Sciences, Latvia, USSR. He held various post in Latvia before moving to the University of Keele, UK in 1994. In 1996 he joined the University College London. Lev is world-leading expert of theory and simulation of condensed matter and is currently a Professor at Kings College London, which he joined in 2002. Lev is author of nearly 200 papers in refereed international journals and two books.
+
+Professor Toshihiro Kawakatsu(Tohoku University, Sendai, Japan)
+Professor Kawakatsu received degree of Doctor of Engineering from Kyoto University in 1989. Then he worked as a Research Associate at the Department of Physics of Kyushu University. In 1994 he became an Associate Professor at the Department of Physics of Tokyo Metropolitan University, before becoming an Associate Professor at the Department of Computational Science and Engineering of Nagoya University in 1998. Since 2001 he is a Full Professor at Department of Physics, Tohoku University, Sendai. He also works on robotics. He is a member of many national committees, including: Japan Association for Chemical Innovation (Supervisor for the Polymer Simulation Working Group), Organizing committee of the joint research application for the super-computer centre of Institute of Solid State Physics (ISSP), University of Tokyo, Organizing committee of Computational Material Science Initiative program of supercomputer "Kei", member of the national OCTA Users Group, as well as Organizing committee of the International Graduate Program for Advanced Science of the graduate school of Science, Tohoku University and member of the Evaluation-Analysis Office of University Activity, Faculty of Science, Tohoku University.
+
+Professor James Kakalios(University of Minnesota, USA)
+James Kakalios is the Taylor Distinguished Professor in the University of Minnesotas School of Physics and Astronomy. He received his Ph.D. in Physics from the University of Chicago in 1985, and from 1988 is at the University of Minnesota. His popular science book The Physics of Superheroes was published in 2005 in the U.S. and the U.K., and has been translated into German, Spanish, Korean, Chinese and Italian. The Spectacular Second Edition was published in 2009, and his second book The Amazing Story of Quantum Mechanics was released in. His next book, The Physics of Everyday Things: The extraordinary Science of an Ordinary Day was published 2017. In 2007, in response to a request from the National Academy of Sciences, he served as the science consultant for the Warner Bros. superhero film Watchmen. His research interests include nanocrystalline and amorphous semiconductors, pattern formation in sandpiles and fluctuation phenomena in neurological systems. He was the Chair of the American Physical Society (A.P.S.) Committee on Informing the Public, Past-Chair of the A.P.S. Forum on Outreach and Engaging the Public, winner of the 2014 American Association for the Advancement of Science (AAAS) Public Engagement with Science Award, and the 2016 Andrew Gemant Award for outreach efforts from the American Institute of Physics. In 2017 he was awarded an Honorary Doctor of Science degree from the University of Lincoln.
+
+Dr Gerhard Goldbeck(Goldbeck Consulting Ltd, Cambridge, UK)
+Gerhard received his Diploma in Physics from RWTH Aachen University, Germany, in 1986 and a PhD in Polymer Physics from Bristol University in 1992. His career so far has encompassed academic research at Forschungszentrum Jlich, Germany, (Dendritic Growth), H.H. Wills Physics Laboratory (Polymer Crystallisation) and Cambridge University Department of Materials Science and Metallurgy (Liquid Crystal Polymers). In addition, software development, product management and marketing in industry (Molecular Simulations, Accelrys). In 2011 he formed Goldbeck Consulting Ltd, a company that aims to bridge gaps in the materials modelling value chain from science to engineering and academia to industry. Gerhard has published more than 60 papers and articles on scientific literature, and authored reports on the industrial impact of modelling, as well as on academia-industry collaborations. He assists the European Commission in running and monitoring Research Projects as well as the European Materials Modelling Council.
+
+Dr Martin Cawley(United Lincolnshire Hospitals NHS Trust, Lincoln, UK)
+Martin contributed to the research in NMR Imaging under Sir Peter Mansfield in Nottingham gaining his doctorate in 1987. The scanner he used is now on display in the Science Museum, London. Continuing his work with medical images he switched to computer science and applied artificial intelligence methods to model anatomy until 1990. Returning to physics he took up a post in radiotherapy and is now head of Radiotherapy Physics in Lincoln after working at the Queen Elizabeth Hospital Birmingham and the National Cancer Institute in Dublin.In 2019 he took on the additional role of Lead Healthcare Scientist for the United Lincolnshire Hospitals.
+
+Neil Main(Micrometric Ltd)
+Neil Main joined Micrometric Ltd in 1982 and is now Managing Director. Micrometric is one of the leading laser job shops in the UK and have a mix of high power lasers providing cutting, welding, drilling and marking to automotive, aerospace, medical and power generation. Neil Main has a background in physics and came to lasers by way of semiconductors. He is a governor of Lincoln University College (Lincoln UTC) a secondary school specialising in Science and technology. He has been a governor of Lincoln College and had represented the UK laser industry as President of the Association of Industrial Laser Users (AILU).
+
+Gary Stimson(e2v technologies Ltd)
+Gary joined e2v (formerly EEV) in 1983. He has held a variety of technical roles in electronic safety and initiation, laser protection devices, microwave protection devices, high power microwave transmitters and high-voltage pulsed power.
+He has been e2v's Design Authority (DA) for the development of a number of High Power Microwave (HPM) transmitter sources, including some of the highest powered systems in the UK. Gary is currently working on e2v's "RF Safe-StopTM" vehicle deactivation technology which uses an HPM source to induce spurious signals into vehicle electrical systems, effectively jamming the engine's Electronic Control Unit to bring the vehicle to a safe stop.
+Gary also uses his microwave expertise to lead a complimentary research and development activity at e2v's Microwave Technology Centre in Lincoln, which is exploring the responses of radio and radar receivers to unusually fast, high power, and out-of-band signals in order to inform the development of cutting edge receiver protection components.
+Now a Product Manager, Gary also has responsibilities for technology strategy development, and business development, but remains actively involved in engineering development activities and is still regularly found in the laboratory.
+
+
+Undergraduate Courses | School of Mathematics and Physics | University of Lincoln
+
+
+School of Mathematics and Physics | College of Health and Science | University of LincolnWelcome
+The Lincoln School of Mathematics and Physics opened its doors in September 2014. It is the result of a close collaboration with industrial partners, and a 6.8m grant from the Higher Education Funding Council for England (HEFCE) Catalyst Fund.
+Our award-winning staff conduct cutting-edge research in fundamental and applied mathematics and physics, ranging from pure mathematics to applied nano-science at the interface between biology, chemistry, physics, and mathematics. The School collaborates with top research institutions in Germany, Japan, Norway, the Netherlands, Singapore, Spain, and the USA.
+We offer a range of undergraduate and postgraduate programmes from BSc up to PhD in both Mathematics and Physics. Our students are immersed in a supportive and nurturing teaching environment where research forms a key part of all our programmes, with students having the opportunity to work individually and collaboratively on independent research, culminating in final year projects.
+Learn More about the School of Mathematics and Physics 
+Undergraduate Courses
+The School of Mathematics and Physics offers a range of undergraduate programmes in subject areas including mathematics, physics, computer science, and philosophy.
+Postgraduate Programmes
+Our postgraduate programmes provide the opportunity to undertake study and research in areas including applied and pure mathematics, computational physics, and nanomaterials.
+Research
+Research within the School of Mathematics and Physics focuses on the four key areas of algebra, astrophysics, computational physics, and experimental nanophysics.
+Women in Science
+Find out more about the University's commitment to advancing womens careers in science, technology, engineering, mathematics, and medicine.
+Student Placements
+Undergraduate degree programmes within the School are optionally available with the chance to take a year out in industry or at an external research institution.
+The School of Mathematics and Physics engages in a number of outreach activities including schools liaison work, public lectures, competitions, residential summer schools, and more.
+Staff Contact List
+Find out more about our staff, many of whom conduct research in fundamental and applied mathematics and physics, ranging from pure mathematics to applied nanoscience.
+Advisory Board
+Members of our external Advisory Board advise the School on its strategic development, research, curriculum, industry and public engagement, and other activities.
+Find out more about what is happening in the School of Mathematics and Physics and explore upcoming events on our blog site.
+Connect with Us
+
+
+School of Mathematics and PhysicsCollege of Health and ScienceUniversity of LincolnBrayford Pool CampusLincoln LN6 7TS
+mathsphysics@lincoln.ac.uk
+
+
+Student Placements | University of LincolnIn this section
+Placement Opportunities
+Undergraduate degree programmes within the School of Mathematics and Physics are optionally available in a sandwich mode variant. If students choose the sandwich option, they take a year out in industry or at an external research institution (which can be overseas) between years two and three, providing the chance to gain invaluable practical experience. The option is subject to availability and selection criteria set by the industry or external institution.
+When students are on an optional placement in the UK or overseas or studying abroad, they will be required to cover their own transport and accommodation and meals costs. Students are encouraged to obtain placements in industry independently. Tutors may provide support and advice to students who require it during this process.
+To find out about work placement opportunities in your area, please contact Sam Cave - Student Placement Coordinator:scave@lincoln.ac.uk /01522 83 5304.
+Read on to find out about the various placements our Physics students have undertaken as part of their studies.
+d describe my time on placement as career-affirming."", 'Improve Your Employability
+Placements can providevaluable opportunities for students to apply their skills and knowledge in a real-work setting while developing skills inbusiness communication, project work, teamwork, task prioritisation, and time management. By experiencing prospective career roles, students can also gain knowledge that may assist them in their career decisions. There are many types of placements available to students, from full-year professional placements to short term work experience.
+
+
+Connect with Us
+
+
+School of Mathematics and PhysicsCollege of Health and ScienceUniversity of LincolnBrayford Pool CampusLincoln LN6 7TS
+mathsphysics@lincoln.ac.uk
+
+
+Experimental Nanophysics | Research | University of LincolnExperimental Nanophysics Research
+The Experimental Nanophysics and Nanotechnology team works together on applications of nanotechnology including renewable energy, batteries, energy from waste, engineering components, biomedical implants and drug deliver for cancer and asthma.
+s interests include thin films, nanomaterials, novel nanocrystal materials, directed assembly and functionalisation of nanostructures, and charge transport in nanoscale materials.A key aspect of our Nanophysics research is focused on replacing energy from fossil fuels with energy from renewable sources. Energy generation from solar cells is a promising approach to this major global challenge. The deposition of thin films has been the bread and butter of photovoltaics for decades.", 'The team is also developing multi-doped semiconductor nanocrystals as intermediate band materials for improved solar absorption across the entire solar spectrum, as well as scalable, inexpensive, and flexible techniques for the deposition of quantum dot films and carbon-based coatings and nanostructures.
+The Nanophysics and Nanotechnology Team benefits from working closely with colleagues in theComputational Physics Groupand researchers from Mathematics,Pharmacy,ChemistryandEngineering, combining expertise and facilities from across the College of Health and Science. This enables all students at Lincoln working in the field of nanotechnology to access a broad range of specialist facilities.
+The team works with international groups in USA, Portugal, Italy, China, India, Qatar, Oman and Pakistan as well leading groups in the Stephenson Institute for Renewable Energy and Cambridge Graphene Centre.
+The team is fortunate to attract international students who work in a vibrant, dynamic, and multidisciplinary environment in Lincoln and with collaborators globally with opportunities for research visits to groups outside Lincoln. Due to the applied nature of their research, we have close links with industry providing opportunities for joint research.
+
+
+Masterclasses | School Outreach Work | University of LincolnMasterclasses for Schools and Colleges
+The School of Mathematics and Physics offer a range of masterclasses available to school and college students in order to give them a taste of what it might be like to learn at Lincoln. These sessions aim to demonstrate our range ofknowledge and expertise at Lincoln, while giving prospective students an insight into what they might study if they choose to undertake a degree in mathematics or physics. Explore our masterclasses below or get in touch with our outreach leadDr Matthew Boothto request a specific masterclass.
+Physics Masterclasses
+3D Printing Under the Microscope
+Dr Claire McIlroy
+Does MrEntropyneed Phoenix Wright?
+Dr Fabien Paillusson
+Quantum tunnelling: applications in experimental physics
+Dr Manuela Mura
+the butterfly effect'?", 'Dr Matthew Booth
+Quantum dots:what, why and how?
+Dr Matthew Booth
+Error propagation:what does calculus have to do with experimental physics?
+Dr Matthew Booth
+Fantastic worlds and where to find them
+Dr Phil Sutton
+Mathematics Masterclasses
+Predator-prey mathematical models and their applications in real world problems 
+De Helen Christodoulidi
+Fractals, Hausdorff dimension and the coastline paradox
+Dr Anitha Thillaisundaram
+Maximisation and minimisation problems and their applications in science and industry
+Dr Martin Greenall
+Simple maths of complex birds flocking
+Prof Andrei Zvelindovsky
+Cardinalities
+Dr Simon Smith
+Learn more about outreach activity in the School of Mathematics and Physics
+Public Lectures on Campus
+In the School of Mathematics and Physics we organise an annual series of Distinguished Public Lectures named after scientists and thinkers connected to Lincoln and Lincolnshire. All lectures are free to attend, but booking is advisable.
+Maths and Physics Challenges
+Each year, we run a challenge in both Mathematics and Physics as a competition for secondary school students. These consist of answering a set of problems in the style of Mathematics and Physics Olympiads in order to win a prize.
+Headstart Residential
+Connect with Us
+
+
+School of Mathematics and PhysicsCollege of Health and ScienceUniversity of LincolnBrayford Pool CampusLincoln LN6 7TS
+mathsphysics@lincoln.ac.uk
+
+
+Astrophysics | Research | University of LincolnAstrophysics Research at Lincoln
+The astrophysics research in the School is focused on rings and disks. More specifically - planetary rings like those found around Saturn. These nearby rings act as a local astrophysical laboratory where we can study complex dynamics along with moon formation through spacecraft observations and computer modelling. Close up images show a vast array of complex structures due to interaction between nearby moons and ring material which can only be seen by an in-situ spacecraft (Cassini).
+Emerging interests in exoplanetary research are starting to focus on moons around exoplanets that are large enough to support life. Thousands of newly discovered and vastly more complex planetary systems that our own Solar System so far have been found around other stars. If many of these exoplanets are capable of harbouring Earth mass sized moons did they form around the planet (like our largest moons in the Solar System) or are they captured smaller planets that came to close? We aim to investigate the evolution of self-gravitating disks around some of these dynamic new exoplanetary systems found and find if moon could form.Find out more about the Lincoln Astrophysics Team.
+
+
+Careers Evening | School of Mathematics and Physics | University of LincolnCareers Evening
+Join us on Tuesday 1 March 2022 from 6pmfor our Mathematics and Physics Careers Evening to find out where a degree in Mathematics or Physics can take you. The event will take place in person in the Isaac Newton Building on our beautiful Brayford Pool Campus. Details of how to find us can be found on our Getting to Lincoln webpage.
+The evening will feature 10-minute talks from recent alumni in the main lecture theatre, who will share details of their journey from university to working life.The evening aims to demonstrate the breadth of opportunities available to Mathematics and Physics graduates as it shows the range of careers our recent alumni have progressedonto. Use thisopportunity to hear first-hand experiences of life after graduation and howstudying at Lincolncould help you starta great career.
+s School of Mathematics and Physics, along with the speakers from the evening. Book your place at the event now and see the full schedule below.", 'Register Now
+u202fu202fSchedule
+Current MSc Accounting and Finance Student and Account Manager Support Intern at Handelsbanken
+Alex Gray,BSc Mathematics and Computer Science
+Junior Video Analyst, The Independent
+u202f u202f u202f u202f
+Learn More about the School of Mathematics and Physics 
+Undergraduate Courses
+The School of Mathematics and Physics offers a range of undergraduate programmes in subject areas including mathematics, physics, computer science, and philosophy.
+Postgraduate Programmes
+Our postgraduate programmes provide the opportunity to undertake study and research in areas including applied and pure mathematics, computational physics, and nanomaterials.
+Research
+Research within the School of Mathematics and Physics focuses on the four key areas of algebra, astrophysics, computational physics, and experimental nanophysics.
+Connect with Us
+
+
+School of Mathematics and PhysicsCollege of Health and ScienceUniversity of LincolnBrayford Pool CampusLincoln LN6 7TS
+mathsphysics@lincoln.ac.uk
+
+
+Staff Contact List | School of Mathematics and Physics | University of LincolnSchool of Mathematics and Physics Staff
+
+
