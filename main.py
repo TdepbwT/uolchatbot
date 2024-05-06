@@ -1,9 +1,12 @@
 import requests
 import time
 
-
-def interact_with_chatbot(context, question):
-    endpoint = "https://api-inference.huggingface.co/models/deepset/roberta-base-squad2"
+def read_context_from_file(file_path): # function to read the context from a file
+    with open(file_path, "r") as file:
+        print("file loaded: ", file_path)
+        return file.read()
+def interact_with_chatbot(context, question): # interact with chatbot
+    endpoint = "https://api-inference.huggingface.co/models/deepset/roberta-base-squad2" # define the model endpoint
     headers = {"Authorization": "Bearer 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"}
     data = {
         "inputs": {
@@ -25,8 +28,9 @@ def interact_with_chatbot(context, question):
     else:
         return "Error: Failed to get response from the chatbot.", None, None
 
-context = "The University of Lincoln is a public research university in Lincoln, England, with origins dating back to 1861. It gained university status in 1992 and its present name in 2001. The main campus is in the heart of the city of Lincoln alongside the Brayford Pool. There are satellite campuses across Lincolnshire in Riseholme and Holbeach and graduation ceremonies take place in Lincoln Cathedral."
+file_path = input("enter the file path containing the context: ")
 
+context = read_context_from_file(file_path)
 question = input("enter the question:")
 
 answer, score, computation_time = interact_with_chatbot(context,question)
