@@ -1,0 +1,693 @@
+Evolution and Ecology | Research | University of LincolnUnderstanding the Evolution and Ecology of Populations
+The Evolution and Ecology research group is a highly collaborative, multi-disciplinary community of academics, postgraduate students, and postdoctoral researchers. We aim to understand the evolution and ecology of populations, species, and communities across all levels of biological organisation, from genes through to ecosystems. Key themes within our research include the diversification of species over time, the response of species, populations and communities to global change, and behavioural ecology.
+Our interdisciplinary research benefits from strong links with members of theSchool of Psychologyand theSchool of Computer Science, other research groups within Life Sciences, particularly theAnimal Behaviour, Cognition and Welfare group, and through a network of national and international collaborations.
+ United Nations Sustainable Development Goals
+s most pressing problems, now and into the future.", 'Our Research
+Community and Ecosystem Ecology
+Sustainable Ecosystems - Ecosystems comprise a large number of feedbacks between their many component organisms and the abiotic environment. We rely on ecosystems to provide food and shelter. How can we understand such complexity and how do we make such systems more resilient to the many and various human impacts? 
+Evolutionary Ecology
+Strategies for Life - Organisms exhibit remarkable diversity in how they grow, survive, reproduce and die. Understanding the behavioural and physiological strategies they use, how these strategies have evolved, and how they respond to changing social and environmental conditions is key to understanding and preserving this biodiversity, both now and in the future.
+Biophysics
+The Architecture of Life - Physical factors influence the fitness value of traits and play an important role in the course of evolution. Our research ignores disciplinary boundaries and is linked by the central theme of using physics and engineering principles as a way of understanding complex problems in biology.
+Disease Ecology
+Plant and Animal Diseases - Diseases matter  the COVID-19 pandemic has highlighted the fundamental importance of the ecology of disease both in humans and in other organisms and highlighted the links between our own diseases and those of other animals and plants.
+Paleobiology
+Ancient Life - Palaeobiology addresses lifes diversity in the distant geological past. We use the fossil record to untangle models of group diversification, patterns of trait evolution over time, and the response of biota to global- and local-scale environmental changes and to mass extinctions.
+Twitter Feed
+Research Activity
+Group Members
+A list of the members of the Evolution and Ecology research group at the University of Lincoln.
+Publications
+Postgraduate Research
+We welcome applications at any time from prospective MSc by Research (MScRes), MPhil, and PhD students wishing to join our thriving postgraduate research community.
+School of Life Sciences Research Groups
+Animal Behaviour, Cognition and Welfare Research Group
+The group comprises a unique team of internationally-renowned researchers working at the forefront of, and interface between, animal behaviour, cognition, health, and welfare.
+Cancer and Ageing Research Group
+Group research follows a multi-disciplinary and highly collaborative approach to increase understanding of disease characteristically associated with ageing at the molecular level, to improve prevention, diagnosis, and treatment.
+Diabetes, Metabolism and Inflammation Research Group
+The groups vision is to create a strong, dynamic, and engaged research culture to carry out research that has the potential for real world impact at a local, national, and international level.
+Microbiology and Biotechnology Research Group
+The research group has a multi-disciplinary approach to answering fundamental questions relating to the characterisation, evaluation, and testing of microorganisms and viruses.
+Connect With Us
+
+
+Group Members | Evolution and Ecology | University of LincolnResearch FellowMicrobial communities, molecular biology
+Research FellowNumeric modelling
+Senior LecturerEcology, Conservation, Carbon Accounting, Tropical Forests, Land Use, Ecosystem Management, Climate Change, Plant-animal Interactions, Environmental Technology
+lqie@lincoln.ac.uk
+dwilkinson@lincoln.ac.uk
+School of Life Sciences, University of Lincoln, Brayford Pool, Lincoln. LN6 7TS
+email: enquiries@lincoln.ac.uk tel: + 44 (0)1522886654
+
+
+Undergraduate Courses | Department of Life Sciences | University of Lincoln
+
+
+Clinical Animal Behaviour | Animal Behaviour, Cognition and Welfare | University of LincolnOur Research
+Clinical animal behaviour research focuses on how we can better evaluate the behaviour of animals in order to interact with them, manage them and train them in ways that optimise their wellbeing. We also develop new treatment methods for helping animals with problem behaviour.
+The psychobiological approach to problem behaviour developed at Lincoln provides a comprehensive scientific framework for the evaluation of problem behaviour in captive and domestic animals, in order to develop individualised treatment plans. Our MSc in Clinical Animal Behaviour introduces students to both the theory and research underpinning this theme. In addition to a range of externally funded projects we also accept a limited number of high quality self funding PhD applications from students interested in developing their research skills in this important area.
+Within the scope of clinical animal behaviour, we investigate three main areas:
+Prof Daniel Mills
+Prof Sandra McCune
+Prof Anna Wilkinson
+Dr Helen Zulch
+Dr Teresa Romero
+Dr Ambrose Tinarwo
+Dr Beth Ventura
+- Human Animal interactions and social science perspectives
+Dr Jonathan Cooper
+  Welfare aspects of animal training
+Prof Todd Hogue
+ - Dog aggression
+Kun Guo
+- Animal emotion
+Prof Kerstin Meint
+- Dog bite prevention in children
+Dr Niko Kargas
+- Animals and individuals with autism
+AnnikaBremhorstu200b
+
+
+Postgraduate Research | Department of Life Sciences | University of LincolnPostgraduate Research Opportunities in theDepartmentof Life Sciences
+A postgraduate research degree is your opportunity to explore a topic in depth, under the supervision of academic experts in your chosen field. With extensive training available and access to excellent facilities, you will have the opportunity to carry out your research in a vibrant, supportive, multidisciplinary environment.
+The key to success in a postgraduate research programme is to find a research subject that you are passionate about and identify a supervisory team that have expertise in that area. The first thing that all prospective students should do is directly contact a member of staff that they feel is best aligned with their chosen research area to discuss the application process further.
+The projects listed on this page provide a selection of those currently available in the School along with details of the appropriate academic contact, but are by no means comprehensive; you may also wish to visit the School of Life Sciences research pages to find out more about the research going on in the subject area you are interested in, and to identify potential academic supervisors.
+
+Wing morphology as an indicator of temperature stress in butterflies
+There is increasing evidence of climate change-induced phenotypic variation in numerous species. For instance, some species show a trend of decreasing body size due to temperature increases, while others display increasing asymmetry due to environmental stress during development. The phenomenon of random fluctuation from bilateral symmetry, or fluctuating asymmetry, has been shown to affect bumblebee wings. Following examination of museum specimens collected across Britain during the 20th century, Arce et al. (2023) found that relatively warm and wet years were associated with greater wing asymmetry. This project seeks to expand the scope of these studies, by examining the degree of fluctuating asymmetry in butterfly wings from museum specimens, using either online image repositories at the Natural History Museum, London, or newly collected data. For further information please contact Graziella Iossa (giossa@lincoln.ac.uk) or Marcello Ruta (mruta@lincoln.ac.uk).
+
+Understanding and modelling the nanoparticle protein corona
+When nanoparticles get in contact with biological fluids such as blood plasma, plasma proteins interact with the nanoparticles and form a protein corona. Nanoparticle-protein complexes have different properties than naked nanoparticles, affecting the functions of nanomedicines, for example accumulation in unintended tissues/organs. Therefore, engineered nanomaterials need to take into account the binding of plasma proteins, but there are many different types of nanomaterials and many proteins in plasma, so the problem is complex and currently unresolved. Projects in this area will study the protein corona to help designing effective nanomedicines and contribute to understand their pharmacokinetics and nanotoxicity. For further information please contact Enrico Ferrari ateferrari@lincoln.ac.ukor visit our blogsite.
+
+
+Exploring the functional properties of bird nests in an evolutionary framework
+Bird nests vary in their structure and composition and this has been shown to relate to the degree of thermal insulation offered by the walls, to the way that rainwater is absorbed, and to the structural properties of the structure. Whilst data are available for a relatively wide range of UK bird species, there remain a lot of species where variability in nest composition has yet to be explored. The lab-based project will build on existing studies to document the thermal, hydrological and structural properties of nests from previously unstudied birds of individual families. Data will feed into a broader study of the ecological drivers for the evolution of nest structure and composition in European passerines. For more information, please contact Charles Deeming atcdeeming@lincoln.ac.uk.
+Measuring the costs of floral UV pattern production
+The flowers of many plants possess UV-absorbing zones that are invisible to humans but visible to insects. Due to their position, two different roles have been ascribed to these UV absorbing pigments. First, they aid in pollination as they increase flower attractiveness and pollination efficiency. And second, they offer protection to pollen against the detrimental mutagenic effects of UV radiation, therefore having large implications for plant reproductive success. This project will investigate whether UV pigmentation is costly to produce by growing plants in soils differing in nutrient content and measuring floral UV absorption area and plant performance. For further information please contact Sandra Varga atsvarga@lincoln.ac.ukor Carl Soulsbury atcsoulsbury@lincoln.ac.ukor visit our blogsite.
+
+
+Nanoparticle-immobilised enzymes
+Enzymes have widespread use in industry (e.g., food, manufacturing, pharmaceutical) and may be also used in environmental projects, for example in bioremediation. However, enzymes operate within a narrow window of conditions. There is evidence that immobilised enzymes are more stable than loose enzymes in a broader range of conditions, so immobilisation may be an enabling solution for industry and enzymatic bioremediation. Also, immobilisation on nanoparticles may present advantages, such as good diffusion in complex matrices or porous media (for example soils). Projects in this area will deal with the synthesis and characterisation of enzyme-nanoparticle complexes for industrial and environmental biotechnology. For further information please contact Enrico Ferrari ateferrari@lincoln.ac.ukor visit our blogsite.
+Does male shape correlate with male:female interactions in the smooth newt (Lissotriton vulgaris)?
+The smooth newt expresses considerable sexual dimorphism during the mating season with males developing dorsal crests that seems to be a factor in mate selection. However, defining what a female finds attractive has relied on linear measures and basic descriptions of shape and may not capture the potentially complex features of a male that are attractive to a female. This study would have two parts  the first is to define variation in male newt shape using geometric morphometrics and then to use behavioural choice experiments to determine whether females are selecting males on the basis of simple or complex measures of shape of real males or images. In addition, related experiments will explore how olfactory cues are important in mate choice. For more information, please contact Charles Deeming atcdeeming@lincoln.ac.ukor Anna Wilkinson atawilkinson@lincoln.ac.uk. This project has a February start date.
+
+
+Analysis of the anatomy and geometry of wing movement in birds
+Bird flight is characterised by a range of wings shapes and flight styles that reflect the life history of the species concerned. This range is also reflected in variation in the size and alignment of the bones that form the pectoral girdle, and in the size of the flight muscles. The project will use a combination of dissection of a variety of bird species, work with skeletal specimens, and existing published data, to determine the basic geometry of wing movement in birds. An aim of the study is to provide insight into the anatomical and function features of wing movement that correlate with variation in morphology of the pectoral girdle and the sternum. For further information please contact Dr Charles Deemingcdeeming@lincoln.ac.ukor Prof. Greg Suttongsutton@lincoln.ac.uk.
+Innovative plasmonic assays for easy and sensitive detection of analytes
+The Covid-19 pandemic has highlighted the need for point-of-care diagnostic tests such as those based on lateral flow devices. Projects in this area will develop both laboratory-based and portable tests that harness the peculiar optical properties of gold nanoparticles to detect analytes reliably, rapidly and cheaply. Example of analytes of interest for which plasmonic assays will be developed are endotoxin, other biomolecules of microbial origin, food and environmental pollutants. Endotoxin sensitive detection is a particularly pressing problem, as it is necessary to remove all traces of endotoxin from pharmaceutical products, due to its potentially fatal toxicity. For further information please contact Enrico Ferrari ateferrari@lincoln.ac.ukor visit our blogsite.
+
+
+The impact of volatile organic compounds (VOCs) on fungi-bacteria below ground interactions
+Bacteria and fungi are present in all types of soils, making up the two major groups of microorganisms in soils and their interactions range from mutualistic to parasitism. Despite their abundance, how fungi and bacteria communicate in the soil is still relatively poorly understood. Increasing evidence show that volatile organic compounds (VOCs) play an important role in antagonistic interactions between fungi and bacteria in soils. This project will investigate microbial volatiles emitted by soil bacteria and fungi and measure the response of the presence of one organism on the other. For further information please contact Sandra Varga atsvarga@lincoln.ac.ukor Jos Gonzalez-Rodriguez atjgonzalezrodriguez@lincoln.ac.ukor visit our blogsite.
+Avian health and disease epidemiology in Lincoln Swans
+Projects are available to investigate the epidemiology of parasite infection and immune status, focussing on blood metrics from individual mute swans sampled on multiple occasions. Projects can be extended to include ecological and behavioural data collection in relation to health and parasite infection.For further information please contactJenny DunnatJDunn@lincoln.ac.ukor visit ourblogsite.Additional bench fees may be required, depending on the project.
+
+
+
+
+Host-parasite community dynamics
+Multiple projects are available to add to and analyse datasets of host-parasite associations in passerine birds in Lincoln, passerine birds in Africa, or Columbiforme birds in the UK and Africa. These can include projects on coinfection, impacts of infection, morphological characterisation of molecular lineages, drivers of infection prevalence, among others (see our blogsitefor more ideas and previous publications); additional bench fees may be required, depending on the project. Please contact Jenny Dunn JDunn@lincoln.ac.ukfor more information.
+
+Colour vision in flies
+There is evidence that some fly species perceive colours as falling into one of four discrete categories; two colours that fall in the same colour category would therefore be predicted to be indistinguishable. However, there is still a lot we do not know about this system: for example, at least one of these categories has only been hypothesised and there is not (as yet) any experimental evidence to support it; moreover, it is unclear whether flies are able perceive some colour variation within a category, the extent to which their categorical colour vision is context-dependent (the existing evidence is almost entirely based on foraging tasks, for instance), or how widespread categorical colour vision is. This project would explore these questions by running psychophysical studies (i.e., those looking at behavioural responses to physical changes in visual stimuli) on a variety of wild and captive fly species. For further information please contact Tom Pike attpike@lincoln.ac.uk.
+
+
+
+Understanding the regulation of myosin VI and its role in disease
+Myosins are motor proteins that transport cargo within our cells and maintain the morphology of cellular structures by interacting with the actin cytoskeleton. Myosin VI is a myosin with unique properties that is involved in many vital cellular processes. Therefore, it is not surprising that myosin VI has been linked to various pathologies, including aggressive cancers. To perform its multiple roles, MVI needs to be tightly regulated by various mechanisms that ensure that MVI is activated at the right time and cellular location. Various projects are in offer that aim to explore the unsolved aspects of myosin VI regulation and how these contribute to pathology. The research will involve a combination of molecular and cell biology, protein biochemistry and fluorescence microscopy, and the projects could be tailored based on your interests. For further information please contact Natali Fili atnfili@lincoln.ac.uk.
+Brain structure and cognition in fish
+The evolution of the brain has attracted considerable scientific interest. However, most studies have relied on inter-specific or inter-population comparisons, looking for correlations between brain architecture and fitness-related traits. Much less well understood is the plasticity of the brain within populations, and specifically how variation in brain structure impacts an individuals behavioural and cognitive abilities, and how (and why) the structure of the brain changes over time. This project would investigate this by non-invasively quantifying temporal variation in the brain structure of individual fish and relating this to their performance in behavioural and cognitive tasks. For further information please contact Tom Pike attpike@lincoln.ac.ukor Anna Wilkinson atawilkinson@lincoln.ac.uk.
+
+
+
+
+Polarisation-sensitive vision in fish
+While invisible to humans, for many species the polarisation of light is not only detectable but can provide pertinent visual information. Recent studies have suggested that patterns of polarisation could be used (in a similar way to patterns of colour) for tasks such as camouflage breaking, prey detection, and social communication. However, we still have a remarkably poor understanding of the functional significance of polarisation vision. This project would explore polarisation-sensitive vision in fish, using behavioural tests to determine whether they can detect polarised light, how acute their polarisation vision is, and whether polarised signals can be used in intra-specific communication. For further information please contact Tom Pike attpike@lincoln.ac.uk.
+Understanding the impacts of climate and fire on long-term terrestrial-aquatic ecosystem change
+MSc by Research and MPhil/PhD projects are available in palaeoecological research over the Holocene with a particular focus on fire and climate impacts on terrestrial and aquatic ecosystems in Canadian, Australian and UK environments. Projects range from field, laboratory and desk-based with specialisations in radiometric dating, geochemistry and microfossil analysis such as pollen, charcoal, diatoms, and cladocerans. Depending on the project, additional bench fees may apply. For more information contact Dr Kristen Beck atkbeck@lincoln.ac.uk.
+
+Connect with Us
+
+
+College of Health and Science, University of Lincoln, Brayford Pool Campus, Lincoln, LN6 7TS
+enquiries@lincoln.ac.uk
+
+
+Diabetes, Metabolism &amp; Inflammation | Research | University of LincolnReal World Impact
+The Diabetes, Metabolism and Inflammation (DMI) group in the Department of Life Sciences is housed within the Joseph Banks Laboratories at the University of Lincoln. Formation of the DMI Group reflects the strategic recruitment of a number of established research-intensive academics with complementary research interests in the areas outlined above, with all members of the Group being recruited to the University within the last 5 years.
+The Groups vision is to create a strong, dynamic and engaged research culture to carry out research that has the potential for real world impact at a local, national and international level. As the Group evolves and progresses it will look to increase its research through increasing national and international collaborative networks.
+A Strong Track Record in Diabetes Research
+Members of the Group have established track records in the area of diabetes, both type 1 (Christie, Simmonds, Hills & Squires) and type 2 diabetes (Whitehead, Herbert, Squires & Hills), as well as diabetes complications (Hills & Squires) and metabolism and cardiovascular disease (Whitehead) and inflammation (Holden) as briefly outlined below.
+
+Type 1 Diabetes
+Simmonds - Investigating genetic predictors of long-term pancreas transplant function in pancreas transplant donor and recipients with the goal of (i) improving methods of donor organ selection, (ii) identifying those at risk of graft loss (with the aim of using therapeutic intervention to prevent graft loss), and (iii) discovering potential therapeutic pathways to extend pancreas transplant function.Christie - Identifying and characterizing pancreatic -cell targets of the autoimmune response in Type 1 diabetes, with the view of developing novel strategies to identify individuals at risk for disease, and to apply antigen specific immune intervention to prevent disease progression in high-risk subjects.Type 1/2 Diabetes & ComplicationsSquires & Hills - are investigating the role of altered cell-cell communication in diabetic nephropathy, the leading cause of end-stage renal disease (ESRD) in patients with diabetes. The ultimate aim is to identify potential therapeutic targets for the treatment and prevention of ESRD. This work is being expanded to other areas with similar pathophysiology (fibrosis and inflammation), namely islet/pancreatic -cell biology as well as diabetic retinopathy.Type 2 Diabetes & Other Obesity Related DiseasesWhitehead - Characterising molecular pathways that (i) underpin healthy adipose tissue (fat) expansion and function to identify novel therapeutic strategies to facilitate the generation of fit fat, and thereby reduce obesity-associated cardio metabolic diseases such as type 2 diabetes and heart disease, and (ii) develop new strategies to improve cardio metabolic function via enhancing the adiponectin axis, a key anti-inflammatory axis.
+Herbert -determining the molecular basis for the development of beta-cell dysfunction in type 2 diabetes in order to develop new rational strategies for the treatment and prevention of this disease.Current projects are focused on determining the molecular basis for the development of beta-cell dysfunction for drug target identification and subsequent validation.
+Airway Inflammatory Disease (Asthma and Chronic Obstructive Pulmonary Disease (COPD))Holden  Improving treatment of asthma and COPD (both increased in obesity - a recognised state of low grade, chronic inflammation) by defining the molecular mechanisms that promote resolution of inflammation, bronchoconstriction and airway remodelling.The DMI Group enjoys strong links with the Lincoln Institute for Rural Health (LIRH), which provides additional opportunities to develop collaborative clinical and community based research, outreach and engagement.Funding applications from members of the DMI Group typically address the following priorities of key funding organisations including:
+Facilities
+The building features cutting-edge research and teaching facilities across four storeys, covering 6,000 square metres. It includes a specialist category 2 microbiology containment facility equipped with safety cabinets, fermentation rigs and high speed centrifuges, two imaging suites containing a range of instruments (X-ray diffractometers, NMR spectrometer, Raman spectrometer, mass spectrometer, scanning electron microscope and light, fluorescence and atomic force microscopes) for studying molecular and cellular structures, four self-contained tissue culture laboratories, a molecular biology laboratory with dedicated spaces or rooms for PCR, gel electrophoresis, gel imaging gene cloning, microbiology, a flow cytometry laboratory and specialist rooms containing centrifuges and freezers.
+There is a controlled access suite for the extraction and processing of samples with low levels of nucleic acids that minimizes contamination. The building also houses seminar and tutorial rooms, as well as open plan social spaces to promote interactions between research groups in the facility.
+Research Activity
+
+Co-Lead / Professor in Biomedical ScienceDiabetes and Endocrinology
+psquires@lincoln.ac.uk
+01522 88 6227
+Co-Lead / Professor of Biomedical BiochemistryObesity associated complications - diabetes, endocrinology, cardiovascular disease
+jwhitehead@lincoln.ac.uk
+01522 83 5886
+therbert@lincoln.ac.uk
+mchristie@lincoln.ac.uk
+01522 83 7434
+PhD StudentDiabetes, Diabetic Nephropathy, Renal Fibrosis, Cell Communication, Cell-substrate Interactions
+Associate Members
+
+Previous Members
+
+School of Life Sciences, University of Lincoln, Brayford Pool, Lincoln. LN6 7TS
+email:enquiries@lincoln.ac.uktel: + 44 (0)1522 886654
+Projects:Current funding:
+Completed grants secured at Lincoln:
+Completed grants secured elsewhere:
+School of Life Sciences, University of Lincoln, Brayford Pool, Lincoln. LN6 7TS email: enquiries@lincoln.ac.uktel: + 44 (0)1522 886654
+School of Life Sciences Research Groups
+Animal Behaviour and Welfare Research Group
+The group comprises a unique team of internationally-renowned researchers working at the forefront of, and interface between, animal behaviour, cognition, health, and welfare.
+Cancer and Ageing Research Group
+Group research follows a multi-disciplinary and highly collaborative approach to increase understanding of disease characteristically associated with ageing at the molecular level, to improve prevention, diagnosis, and treatment.
+Evolution and Ecology Research Group
+The group aims to understand the evolution and ecology of populations, species and communities across all levels of biological organisation, from genes through to ecosystems.
+Microbiology and Biotechnology Research Group
+The research group has a multi-disciplinary approach to answering fundamental questions relating to the characterisation, evaluation, and testing of microorganisms and viruses.
+Connect with Us
+
+
+Department of Life Sciences | School of Life and Environmental Sciences | University of LincolnWelcome
+Welcome to the Department of Life Sciences at the University of Lincoln. This interdisciplinary department provides an exciting and stimulating environment where excellence in teaching and research are highly valued, and we provide opportunities for students and staff to pursue their scientific ambitions.The excellence of our research was confirmed in the most recent government REF assessment in which 90% of our submitted papers were judged to be internationally excellent or world-leading.
+The Department of Life Sciences has a growing reputation for both undergraduate and postgraduate teaching and research, which covers a wide spectrum of the Life Sciences.
+Since August 2014 we have been enjoying working in our new laboratories at The Joseph Banks Laboratories and Minster House, the first buildings of the Lincoln Science and Innovation Park.These are in addition to our fantastic purpose-built Janet Lane-Claypon Building, and are a direct example of our growth over recent years.
+Professor Steve Bevan, Head of School of Life and Environmental Sciences
+Undergraduate Courses
+Our undergraduate programmes span the breadth of the life sciences and include programmes in animal behaviour and welfare, biology, biochemistry, biomedical science, bioveterinary science, ecology and conservation, and zoology.
+Postgraduate Programmes
+We offer taught postgraduate programmes in specialist areas covering clinical animal behaviour, biotechnology, and microbiology, as well as research opportunities across the breadth of the life sciences.
+Postgraduate Research Opportunities
+A postgraduate research degree is your opportunity to explore a topic in depth, under the supervision of academic experts in your chosen field. With extensive training available and access to excellent facilities, you will have the opportunity to carry out your research in a vibrant, supportive, multidisciplinary environment.
+Research 
+The Department of Life Sciences is a rapidly expanding, international collection of researchers working at the forefront of disciplines across the breadth of the life sciences. Research lies at the heart of the department, underpinning our vibrant postgraduate research community as well as our undergraduate and postgraduate taught programmes.
+Overseas Field Trips
+Our undergraduate programmes offer an optional overseas field trip in the third year. This provides the opportunity to do research in a novel environment and to study local plants and animals. Destinations may vary, but have previously included the cloud forests of Ecuador, the Mankwe Wildlife Reserve in South Africa, and Peniche in Portugal.
+Uruguay Scholarships
+A new programme of scholarships to conduct PhD studies in Life Sciences has recently been agreed between the University of Lincoln and the Uruguay National Agency for Research and Innovation (ANII - Agencia Nacional de Investigacin e Innovacin). This programme consists of full 3-year PhD scholarships for citizens of Uruguay, which cover University fees and a subsistence bursary.
+Behaviour Clinic
+The Animal Behaviour Clinic is a referral only clinic for pets and animals of all species with behaviour and training problems. The clinic is run by a small team of highly qualified behaviourists.
+Women in Science
+Find out more about the University's commitment to advancing the representation of women in science, technology, engineering, mathematics, and medicine (STEMM). Also learn about some of the exciting research being carried out by women in science at the University of Lincoln and explore upcoming Eleanor Glanville Centre's public events which celebrate the achievements of women in science.
+Commercial Services
+JBL Science is a commercial research organisation based within the University of Lincoln which draws on expertise from across the University.
+Equality, Diversity, and Inclusion
+Visit our Equality, Diversity, and Inclusion blog to find out more about how in the Department of Life Sciences we aim to provide a welcoming, inclusive and engaging place to work for all.
+Staff Contact List
+Teaching is underpinned by the research expertise of our academic staff, a number of whom are at the forefront of their respective fields.
+Connect with Us
+
+
+College of Health and Science, University of Lincoln, Brayford Pool Campus, Lincoln, LN6 7TS
+enquiries@lincoln.ac.uk
+
+
+Animal Welfare | Animal Behaviour, Cognition and Welfare | University of LincolnOur Research
+Animal welfare is a growing scientific discipline reflecting considerable public concern. Our research in animal welfare is led by a multi-disciplinary team of international experts, who work with a variety of animals including laboratory, farm, companion, and zoo animals.
+Our work addresses fundamental research questions relating to the development of novel observational, experimental, and computational methods to measure and understand animal welfare and associated emotional or affective states. Our work also applies these methods to determine how to improve the lives of animals.
+Within the scope of animal welfare assessment, we investigate two main areas:
+
+Prof Oliver Burman
+Prof Daniel Mills
+Prof Anna Wilkinson
+Dr Jonathan Cooper
+Dr Ambrose Tinarwo
+Dr Tom Pike
+Dr Carl Soulsbury
+Dr Beth Ventura
+Dr Stefan Millson
+
+
+[]
+
+
+Microbiology and Biotechnology | Research | University of LincolnMicrobiology
+We have a multi-disciplinary approach to answering fundamental questions relating to the characterisation, evaluation and testing of microorganisms and viruses. This could be for example, investigating the activity of new antimicrobials or defining the structure of bacterial proteins. Structural biology is an important tool we use to investigate the 3-D structures of biomolecules and explain biological interactions. The figure below shows some of the key steps for an X-ray crystallographic study used to solve the protein structure of a bacterial cell wall re- structuring enzyme from Bacillus anthracis. (a) X-ray diffraction pattern (b) and (c) structure of the re- structuring enzyme known as an autolysin.
+
+
+Biotechnology
+We have a wide range of expertise focussed on using living systems and organisms to develop products. Our research utilises many techniques, from protein biochemistry and structural techniques to cell culture and bio-conjugation. We are developing new methods to design bio-therapeutics and we are assessing and developing novel delivery strategies.The group has developed strong collaborations across the College of Health and Science, the Lincoln Institute for Health, the Lincoln Institute for Agri-Food Technology and the College of Arts, Social Sciencesand Humanties.
+Research Activity
+Members
+Associate Professor and research group leader/point of contact
+Associate Professor in Bioveterinary Science/Programme Leader
+Lecturer in Animal Health and Disease
+Senior Lecturer in Biochemistry/Programme Leader
+School of Life Sciences Research Groups
+Animal Behaviour and Welfare Research Group
+The group comprises a unique team of internationally-renowned researchers working at the forefront of, and interface between, animal behaviour, cognition, health, and welfare.
+Cancer and Ageing Research Group
+Group research follows a multi-disciplinary and highly collaborative approach to increase understanding of disease characteristically associated with ageing at the molecular level, to improve prevention, diagnosis, and treatment.
+Diabetes, Metabolism and Inflammation Research Group
+The groups vision is to create a strong, dynamic, and engaged research culture to carry out research that has the potential for real world impact at a local, national, and international level.
+Evolution and Ecology Research Group
+The group aims to understand the evolution and ecology of populations, species and communities across all levels of biological organisation, from genes through to ecosystems.
+Connect with Us
+
+
+Research | Department of Life Sciences | University of LincolnOur Research Groups
+Animal Behaviour, Cognition, and Welfare
+Exploring the causes, functions and evolution of animal behaviour, and the impact this has on welfare.
+Cancer and Ageing
+Increasing understanding of disease characteristically associated with ageing at the molecular level, to improve prevention, diagnosis, and treatment.
+Diabetes, Metabolism and Inflammation (DMI)
+Generating innovative research in the area of diabetes and related cardio metabolic and associated inflammatory disorders.
+Evolution and Ecology
+Exploring the evolution and ecology of populations, species and communities across all levels of biological organisation, from genes through to ecosystems.
+Microbiology and Biotechnology
+Answering fundamental questions relating to the characterisation, evaluation and testing of microorganisms and viruses.
+
+
+Ancient Life | Evolution and Ecology | University of LincolnOur Research
+Studies of extinct organisms are key to our understanding of lifes origin and diversification. The fossil record provides unique and fundamental information on past biodiversity. It reveals how structural and functional characteristics of organisms are selected for and modified over geological time. It also offers insights into the response of organisms to large-scale environmental changes, such as mass extinctions. We investigate a diverse range of groups, including single-celled organisms, insects, early limbed vertebrates, Mesozoic marine and flying reptiles, dinosaurs, and birds. Our research is intrinsically cross-disciplinary, and we regularly interact with other research groups in Lincoln and with a worldwide network of evolutionary biologists.
+Evolution of Biological Systems
+We are interested in exploring the links between species richness, morphological and functional diversity, and structural complexity. Our research asks how these variables have shaped biodiversity over time. To this end, we investigate models of trait evolution in response to ecological innovation (e.g. conquest of new habitats) and functional adaptation (e.g. changes in bite force; flight performance). As a recent addition to our research programme, the analysis of skeletal complexity seeks to establish whether there is evidence for the so-called first law of biological evolution, namely that complexity tends to increase in parallel lineages of organisms over time.
+Origin of Major Groups
+The evolution of vertebrate terrestriality is a classic example of a major radiation underpinned by profound anatomical, biomechanical, and environmental changes. Our group explores the extraordinary variety of body shapes and proportions that evolved soon after vertebrates left the water to invade the land. Research in other areas aims to uncover changes in sensory perception (e.g. insect acoustic communication) in response to the opening of new environment (e.g. spread and fragmentation of forest habitats) and the appearance of new predatory guilds (e.g. from among vertebrates).
+Ecology and Reproductive Biology
+Using data from living organisms, it is possible to make inferences about fundamental aspects of the biology of extinct life forms. The ecology and reproductive biology of fossil organisms are two key areas that our group investigates. For example, bird eggs can tell us interesting things about dinosaur reproduction and data from large modern vertebrates, such as elephants, can inform us about plausible biologies for extinct megaherbivores, such as the iconic, long-necked, and often gigantic sauropod dinosaurs.
+Dr Charles Deeming Avian and reptilian reproduction
+Professor Stuart Humphries Comparative biomechanics and biological fluid dynamics
+Professor Fernando Montealegre-Z Sensory biology, biomechanics of sound production and hearing in insects
+Dr Marcello Ruta  Analytical evolutionary palaeobiology
+Dr Manabu Sakamoto Phylogenetics, evolutionary palaeobiology and functional morphology
+Prof Dave Wilkinson Ecology, evolution, archaeology and Earth System Science
+
+
+
+Postgraduate Research | Evolution and Ecology | University of LincolnJoin Our Thriving Research Community
+We welcome applications at any time from prospective MSc by Research (MScRes), MPhil and PhD students wishing to join our thriving postgraduate research community. For further information on the range of research topics available and details of how to apply please see the School of Life Sciences Postgraduate webpages.
+
+School of Life Sciences, University of Lincoln, Brayford Pool, Lincoln. LN6 7TS
+email: enquiries@lincoln.ac.uktel: + 44 (0)1522 886654
+
+
+Cancer and Ageing Research Group | Research | University of LincolnA Collaborative Approach to Understanding Disease
+Research in the Cancer and Ageing Research Group follows a multi-disciplinary and highly collaborative approach to increase understanding of disease characteristically associated with ageing at the molecular level, to improve prevention, diagnosis, and treatment.
+The group has developed strong collaborative links with scientists at the Schools of Pharmacy, Chemistry, Mathematics and Physics, Computer Sciences, the Lincoln Institute for Health and College of Arts, Social Sciences and Humanities.Work is supported by the BBSRC, Celgene Limited, Boston & District Fundraising Group Leukaemia & Lymphoma Research  Boston Branch, and Shires Pharmaceutical Development Ltd.Research is based on in vitro modelling and we extensively use tissue culture, microscopy (including laser scanning confocal microscopy, live cell imaging, atomic force microscopy and scanning electron microscopy), Flow cytometry, traditional and advanced molecular biology techniques, yeast models and bioinformatics.
+Research Activity
+The strength of the group is in unity cemented together by the common interest in ageing related biomedical research including cancer (Csanad Bachrati, Issam Hussain, Stefan Millson, Natalia Fili, Prof Ciro Rinaldi), neurodegenerative diseases (Humberto Gutierrez, Yvonne Nyathi), stroke and cardiovascular diseases (Steve Bevan, Prof Carlos Rodriguez Pascual), arthritis (Csanad Bachrati), pulmonary fibrosis (Yvonne Nyathy), geriatric medicine, frailty and geriatric assessment (Prof Carlos Rodriguez Pascual). Our current research projects include:
+Cancer Research
+Stroke and cardiovascular diseases
+
+email: enquiries@lincoln.ac.uk tel: + 44 (0)1522886654
+Applications from prospective MSc by Research (MScRes), MPhil or PhD students to join our research laboratories are always welcome. Funded positions, as they arise, are advertised via the University of Lincoln Job Opportunities webpage and relevant national advertising portals. In addition, we do consider applicants for postgraduate studies in our relevant research areas, who are able to fund their studies themselves or from independent sources. Funding for postgraduate studies should normally include tuition fees, stipend and costs to cover consumables and bench fees. For further information and list of relevant topics, please refer to pages of our individual laboratories and potential supervisors.Current and recent postgraduate research students:
+
+Department of Life Sciences, University of Lincoln, Brayford Pool, Lincoln. LN6 7TS email: enquiries@lincoln.ac.uktel: + 44 (0)1522 886654
+Members List
+Senior LecturerMolecular Cell Biology
+
+email: enquiries@lincoln.ac.uk tel: + 44 (0)1522886654
+Rinaldi C.R.,Boasman, K.,Simmonds, M.J., Graham, C. et al. Ann Hematol (2019).Using PU.1 and Jun dimerization protein 2 transcription factor expression in myelodysplastic syndromes to predict treatment response and leukaemia transformation. pp. 1-3.Online ISSN:1432-0584 PrintISSN:0939-5555
+Palmai-Pallag, Timea and Bachrati, Csanad (2014) Inflammation-induced DNA damage and damage-induced inflammation: a vicious cycle. Microbes and Infection, 16 (10). pp. 822-832. ISSN: 1286-4579
+Pfister, Sophia X. and Ahrabi, Sara and Zalmas, Lykourgos-Panagiotis and Sarkar, Sovan and Aymard, Franois and Bachrati, Csanad et al. (2014) SETD2-dependent histone H3K36 trimethylation is required for homologous recombination repair and genome stability. Cell Reports, 7 (6). pp. 2006-2018. ISSN: 2211-1247
+Clynes, David and Jelinska, Clare and Xella, Barbara and Ayyub, Helena and Taylor, Stephen and Mitson, Matthew and Bachrati, Csanad Z. and Higgs, Douglas R. and Gibbons, Richard J. (2014) ATRX dysfunction Induces replication defects in primary mouse cells. PLoS ONE, 9 (3). pp. e92915. ISSN: 1932-6203
+Klaus, K. and Butler, K. and Durrant, S. J. and Ali, M. and Inglehearn, C. F. and Hodgson, T. L. and Gutierrez, H. and Pennington, K. (2017) The effect of COMT Val158Met and DRD2 C957T polymorphisms on executive function and the impact of early life stress. Brain and Behavior, e00695. ISSN: 2162-3279
+Collins, Louise M. and Dal Bo, Giorgia and Calcagno, Mariangela and Monzn-Sandoval, Jimena and Sullivan, Aideen M. and Gutierrez, Humberto and Morari, Michele and OKeeffe, Gerard W. (2016) Nociceptin/orphanin FQ inhibits the survival and axon growth of midbrain dopaminergic neurons through a p38-MAPK dependent mechanism. Molecular Neurobiology, 53 (10). pp. 7284-7297. ISSN: 0893-7648
+Monzn-Sandoval, Jimena and Castillo-Morales, Atahualpa and Urrutia, Araxi O. and Gutierrez, Humberto (2016) Modular reorganization of the global network of gene regulatory interactions during perinatal human brain development.. BMC developmental biology, 16. pp. 13. ISSN: 1471-213X
+OKeeffe, Gerard W. and Gutierrez, Humberto and Howard, Laura and Laurie, Christopher W. and Osorio, Catarina and Gavald, Nria and Wyatt, Sean L. and Davies, Alun M. (2016) Region-specific role of growth differentiation factor-5 in the establishment of sympathetic innervation. Neural Development, 11 (1). ISSN: 1749-8104
+Monzn-Sandoval, Jimena and Castillo-Morales, Atahualpa and Crampton, Sean and McKelvey, Laura and Nolan, Aoife and OKeeffe, Gerard and Gutierrez, Humberto (2015) Modular and coordinated expression of immune system regulatory and signaling components in the developing and adult nervous system. Frontiers in Cellular Neuroscience, 9. ISSN: 1662-5102
+Sheikh, Ahmad Hassan and Barry, Denis S, and Gutierrez, Humberto and Cryan, John F. and O'Keeffe, Gerard W. (2015) Cadaveric anatomy in the future of medical education: what is the surgeons view?. Anatomical Sciences Education, 9 (2). pp. 203-208. ISSN: 1935-9772
+Keeffe, Gerard W. (2014) The neurite growth inhibitory effects of soluble TNF on developing sympathetic neurons are dependent on developmental age. Differentiation, 88 (4-5). pp. 124-130. ISSN: 0301-4681", 'Togher, K. L. and O'Keeffe, M. M. and Khashan, A. S. and Gutierrez, Humberto and Kenny, L. C. and O'Keeffe, G. W. (2014) Epigenetic regulation of the placental HSD11B2 barrier and its role as a critical regulator of fetal development. Epigenetics, 9 (6). pp. 816-822. ISSN: 1559-2294
+Coceano, G. and Yousafzai, M. S. and Ma, W. and Ndoye, F. and Venturelli, L. and Hussain, I. and Bonin, S. and Niemela, J. and Scoles, G. and Cojoc, D. and Ferrari, E. (2016) Investigation into local cell mechanics by atomic force microscopy mapping and optical tweezer vertical indentation. Nanotechnology, 27 (6). pp. 65102. ISSN: 0957-4484
+Arif, Khalid and Hussain, Issam and Rea, Carol and El-Sheemy, Mohamed (2015) The role of Nanog expression in tamoxifen-resistant breast cancer cells. OncoTargets and Therapy, 8. pp. 1327-1334. ISSN: 1178-6930
+Alghamdi, Ibrahim and Hussain, Issam and Alghamdi, Mohamed and Dohal, Ahlam and El-Sheemy, Mohamed (2015) The incidence rate of thyroid cancer among women in Saudi Arabia: an observational descriptive epidemiological analysis of data from Saudi Cancer Registry 20012008. Journal of Immigrant and Minority Health, 17 (3). pp. 638-643. ISSN: 1557-1912
+Alghamdi, Ibrahim and Hussain, Issam and Alghamdi, Mohamed and El-Sheemy, Mohamed (2015) The power of the age standardized incidence rate to discover the gene link between cancer diseases: development of a new epidemiological method to save money, time, and effort for genetic scientists. OncoTargets and Therapy, 8. pp. 677. ISSN: 1178-6930,
+Chan, C. W. and Hussain, Issam and Waugh, David and Lawrence, Jonathan and Man, H. C. (2014) Effect of laser treatment on the attachment and viability of mesenchymal stem cell responses on shape memory NiTi alloy. Materials Science and Engineering C, 42. pp. 254-263. ISSN: 0928-4931
+Alghamdi, Ibrahim and Hussain, Issam and Almalki, Shaia and Alghamdi, Mohamed and Alghamdi, Mansour and El-Sheemy, Mohammed (2014) The pattern of Middle East respiratory syndrome coronavirus in Saudi Arabia: a descriptive epidemiological analysis of data from the Saudi Ministry of Health. International Journal of General Medicine, 7. pp. 417-423. ISSN: 1178-7074
+Alghamdi, I. G. and Hussain, I. I. and Alghamdi, M. S. and Dohal, A. A. and El-Sheemy, M. A. (2014) The incidence of leukemia in Saudi Arabia: descriptive epidemiological analysis of data from the Saudi cancer registry (2001-2008). Saudi Medical Journal, 35 (7). pp. 674-683. ISSN: 0379-5284
+Alghamdi, I G. and Hussain, I. I. and Alghamdi, M. S. and Dohal, A. A. and Alghamdi, M. M. and El-Sheemy, M. A. (2014) Incidence rate of non-Hodgkin's lymphomas among males in Saudi Arabia: an observational descriptive epidemiological analysis of data from the Saudi cancer registry, 2001-2008. International Journal of General Medicine, 7. pp. 311-317. ISSN: 1178-7074
+Alghamdi, Ibrahim and Hussain, Issam and Alghamdi, Mohamed and Alghamdi, Mansour and Dohal, Ahlam and El-Sheemy, Mohammed (2014) Incidence rate of ovarian cancer cases in Saudi Arabia: an observational descriptive epidemiological analysis of data from Saudi Cancer Registry 20012008. Int J Womens Health, 6 (1). pp. 639-645. ISSN: 1179-1411
+Alghamidi, Ibrahim G. and Hussain, Issam I. and Alghamdi, Mohamed S. and El-Sheemy, Mohammed A. (2014) The incidence rate of prostate cancer in Saudi Arabia: an observational descriptive epidemiological analysis of data from the Saudi Cancer Registry 20012008. Hematology/Oncology and Stem Cell Therapy, 7 (1). pp. 18-26. ISSN: 1658-3876
+Alghamdi, Ibrahi. and Hussain, Issam and El-Sheemy, Mohamed and Alghamdi, Mohammed (2013) The incidence rate of female breast cancer in Saudi Arabia: an observational descriptive epidemiological analysis of data from Saudi Cancer Registry 2001-2008. Breast Cancer: Targets and Therapy, 2013 (5). pp. 103. ISSN: 1179-1314
+Willhoft, Oliver and Kerr, Richard and Patel, Dipali and Zhang, Wenjuan and Al-Jassar, Caezar and Daviter, Tina and Millson, Stefan H. and Thalassinos, Konstantinos and Vaughan, Cara K. (2017) The crystal structure of the Sgt1-Skp1 complex: the link between Hsp90 and both SCF E3 ubiquitin ligases and kinetochores. Scientific Reports, 7. pp. 41626. ISSN: 2045-2322
+Gomez-Escalante, Susana and Piper, Peter W. and Millson, Stefan H. (2017) Mutation of the Ser18 phosphorylation site on the sole Saccharomyces cerevisiae UCS protein, She4, can compromise high-temperature survival. Cell Stress and Chaperones, 22 (1). pp. 135-141. ISSN: 1355-8145
+Millson, Stefan and van Oosten-Hawle, Patricija and Alkuriji, et al. (2014) Cdc37 engages in stable, S14A mutation-reinforced association with the most atypical member of the yeast kinome, Cdk-activating kinase (Cak1). Cell Stress and Chaperones, 19 (5). pp. 695-703. ISSN: 1355-8145
+Millson, S. H. and Piper, P. W. (2014) Insights from yeast into whether the inhibition of heat shock transcription factor (Hsf1) by rapamycin can prevent the Hsf1 activation that results from treatment with an Hsp90 inhibitor. Oncotarget, 5 (13). pp. 5054-5064. ISSN: 1949-2553
+Caponnetto, Federica and Manini, Ivana and Skrap, Miran and Palmai-Pallag, Timea and Di Loreto, Carla and Beltrami, Antonio Paolo and Cesselli, Daniela and Ferrari, Enrico (2017) Size-dependent cellular uptake of exosomes. Nanomedicine: Nanotechnology, Biology and Medicine, 13 (3). ISSN: 1549-9634
+Nielsen, Christian F. and Huttner, Diana and Bizard, Anna H. and Hirano, Seiki and Li, Tian-Neng and Palmai-Pallag, Timea and Bjerregaard, Victoria A. and Liu, Ying and Nigg, Erich A. and Wang, Lily Hui-Ching and Hickson, Ian D. (2015) PICH promotes sister chromatid disjunction and co-operates with topoisomerase II in mitosis. Nature Communications, 6. pp. 8962. ISSN: 2041-1723
+Herr, Patrick and Lundin, Cecilia and Evers, Bastiaan and Ebner, Daniel and Bauerschmidt, Christina and Kingham, Guy and Palmai-Pallag, Timea and Mortusewicz, Oliver and Frings, Oliver and Sonnhammer, Erik and Helleday, Thomas (2015) A genome-wide IR-induced RAD51 foci RNAi screen identifies CDC73 involved in chromatin remodeling for DNA repair. Cell Discovery. pp. 15034. ISSN: 2056-5968
+Xing, Meichun and Wang, Xiaohui and Palmai-Pallag, Timea and Shen, Huahao and Helleday, et al. (2015) Acute MUS81 depletion leads to replication fork slowing and a constitutive DNA damage response. Oncotarget, 6 (35). pp. 37638-37646. ISSN: 1949-2553
+Cai, Zhiwei and Palmai-Pallag, Timea and Khuituan, Pissared and Mutolo, Michael J and Boinot, Clment and Liu, Beihui and Scott-Ward, Toby S and Callebaut, Isabelle and Harris, Ann and Sheppard, David N (2015) Impact of the F508del mutation on ovine CFTR, a Cl- channel with enhanced conductance and ATP-dependent gating. Journal of Physiology, 593 (11). pp. 2427-2446. ISSN: 0022-3751
+Cao, Chao and Gu, Yangjun and Zhu, Chen and Palmai-Pallag, Timea and Lan, Fen and Chen, Zhihua and Li, Wen and Shen, Huahao and Ying, Songmin (2014) Potential roles of eosinophils in cancer therapy: epidemiological studies, experimental models, and clinical pathology. Recent Patents on Anti-Cancer Drug Discovery, 9 (2). pp. 241-248. ISSN: 1574-8928
+Mesa R, Vannucchi AM, Yacoub A, Zachee P, Garg M, Lyons R, Koschmieder S, Rinaldi C, Byrne J, Hasan Y, Passamonti F, Verstovsek S, Hunter D, Jones MM, Zhen H, Habr D, Martino B. (2016) The efficacy and safety of continued hydroxycarbamide therapy versus switching to ruxolitinib in patients with polycythaemia vera: a randomized, double-blind, double-dummy, symptom study (RELIEF). Br J Haematol. 2017 Jan;176(1):76-85. doi: 10.1111/bjh.14382. Epub 2016 Nov 8.
+Prins, Bram P. and Abbasi, Ali and Wong, Anson and Vaez, Ahmad and Nolte, Ilja and Franceschini, Nora and Stuart, Philip E. and Guterriez Achury, Javier and Mistry, Vanisha and Bradfield, Jonathan P. and Valdes, Ana M. and Bras, Jose and Shatunov, Aleksey and Lu, Chen and Han, Buhm and Raychaudhuri, Soumya and Bevan, Steve and Mayes, Maureen D. and Tsoi, Lam C. and Evangelou, Evangelos and Nair, Rajan P. and Grant, Struan F. A. and Polychronakos, Constantin and Radstake, Timothy R. D. and van Heel, David A. and Dunstan, Melanie L. and Wood, Nicholas W. and Al-Chalabi, Ammar and Dehghan, Abbas and Hakonarson, Hakon and Markus, Hugh S. and Elder, James T. and Knight, Jo and Arking, Dan E. and Spector, Timothy D. and Koeleman, Bobby P. C. and van Duijn, Cornelia M. and Martin, Javier and Morris, Andrew P. and Weersma, Rinse K. and Wijmenga, Cisca and Munroe, Patricia B. and Perry, John R. B. and Pouget, Jennie G. and Jamshidi, Yalda and Snieder, Harold and Alizadeh, Behrooz Z. (2016) Investigating the causal relationship of C-reactive protein with 32 complex somatic and psychiatric outcomes: a large-scale cross-consortium Mendelian randomization study. PLoS medicine, 13 (6). pp. e1001976. ISSN: 1549-1277
+Traylor, Matthew and Rutten-Jacobs, Loes C. A. and Thijs, Vincent and Holliday, Elizabeth G. and Levi, Chris and Bevan, Steve and Malik, Rainer and Boncoraglio, Giorgio and Sudlow, Cathie and Rothwell, Peter M. and Dichgans, Martin and Markus, Hugh S. (2016) Genetic associations with white matter hyperintensities confer risk of lacunar stroke. Stroke: a Journal of Cerebral Circulation, 47 (5). pp. 1174-9. ISSN: 0039-2499
+Malik, Rainer and Traylor, Matthew and Pulit, Sara L. and Bevan, Steve and Hopewell, Jemma C. and Holliday, Elizabeth G. and Zhao, Wei and Abrantes, Patricia and Amouyel, Philippe and Attia, John R. and Battey, Thomas W. K. and Berger, Klaus and Boncoraglio, Giorgio B. and Chauhan, Ganesh and Cheng, Yu-Ching and Chen, Wei-Min and Clarke, Robert and Cotlarciuc, Ioana and Debette, Stephanie and Falcone, Guido J. and Ferro, Jose M. and Gamble, Dale M. and Ilinca, Andreea and Kittner, Steven J. and Kourkoulis, Christina E. and Lemmens, Robin and Levi, Christopher R. and Lichtner, Peter and Lindgren, Arne and Liu, Jingmin and Meschia, James F. and Mitchell, Braxton D. and Oliveira, Sofia A. and Pera, Joana and Reiner, Alex P. and Rothwell, Peter M. and Sharma, Pankaj and Slowik, Agnieszka and Sudlow, Cathie L. M. and Tatlisumak, Turgut and Thijs, Vincent and Vicente, Astrid M. and Woo, Daniel and Seshadri, Sudha and Saleheen, Danish and Rosand, Jonathan and Markus, Hugh S. and Worrall, Bradford B. and Dichgans, Martin (2016) Low-frequency and common genetic variation in ischemic stroke: The METASTROKE collaboration. Neurology, 86 (13). pp. 1217-1226. ISSN: 0028-3878
+Malik, Rainer and Traylor, Matthew and Pulit, Sara L. and Bevan, Steve and Hopewell, Jemma C. and Holliday, Elizabeth G. and Zhao, Wei and Abrantes, Patricia and Amouyel, Philippe and Attia, John R. and Battey, Thomas W.K. and Berger, Klaus and Boncoraglio, Giorgio B. and Chauhan, Ganesh and Cheng, Yu-Ching and Chen, Wei-Min and Clarke, Robert and Cotlarciuc, Ioana and Debette, Stephanie and Falcone, Guido J. and Ferro, Jose M. and Gamble, Dale M. and Ilinca, Andreea and Kittner, Steven J. and Kourkoulis, Christina E. and Lemmens, Robin and Levi, Christopher R. and Lichtner, Peter and Lindgren, Arne and Liu, Jingmin and Meschia, James F. and Mitchell, Braxton D. and Oliveira, Sofia A. and Pera, Joana and Reiner, Alex P. and Rothwell, Peter M. and Sharma, Pankaj and Slowik, Agnieszka and Sudlow, Cathie L.M. and Tatlisumak, Turgut and Thijs, Vincent and Vicente, Astrid M. and Woo, Daniel and Seshadri, Sudha and Saleheen, Danish and Rosand, Jonathan and Markus, Hugh S. and Worrall, Bradford B. and Dichgans, Martin (2016) Low-frequency and common genetic variation in ischemic stroke. Neurology, 86 (13). pp. 1217-1226. ISSN: 0028-3878
+Seppl, Ilkka and Kleber, Marcus E. and Bevan, Steve and Lyytikinen, Leo-Pekka and Oksala, Niku and Hernesniemi, Jussi A. and Mkel, Kari-Matti and Rothwell, Peter M. and Sudlow, Cathie and Dichgans, Martin and Mononen, Nina and Vlachopoulou, Efthymia and Sinisalo, Juha and Delgado, Graciela E. and Laaksonen, Reijo and Koskinen, Tuomas and Scharnagl, Hubert and Khnen, Mika and Markus, Hugh S. and Mrz, Winfried and Lehtimki, Terho (2016) Associations of functional alanine-glyoxylate aminotransferase 2 gene variants with atrial fibrillation and ischemic stroke. Scientific Reports, 6 (1). ISSN: 2045-2322
+Seppl, Ilkka and Kleber, Marcus E. and Bevan, Steve and Lyytikinen, Leo-Pekka and Oksala, Niku and Hernesniemi, Jussi A. and Mkel, Kari-Matti and Rothwell, Peter M. and Sudlow, Cathie and Dichgans, Martin and Mononen, Nina and Vlachopoulou, Efthymia and Sinisalo, Juha and Delgado, Graciela E. and Laaksonen, Reijo and Koskinen, Tuomas and Scharnagl, Hubert and Khnen, Mika and Markus, Hugh S. and Mrz, Winfried and Lehtimki, Terho (2016) Associations of functional alanine-glyoxylate aminotransferase 2 gene variants with atrial fibrillation and ischemic stroke. Scientific Reports, 6. pp. 23207. ISSN: 2045-2322
+Rutten-Jacobs, Loes C. A. and Traylor, Matthew and Adib-Samii, Poneh and Thijs, Vincent and Sudlow, Cathie and Rothwell, Peter M. and Boncoraglio, Giorgio and Dichgans, Martin and Meschia, James and Maguire, Jane and Levi, Christopher and Rost, Natalia S. and Rosand, Jonathan and Hassan, Ahamad and Bevan, Steve and Markus, Hugh S. (2016) Association of MTHFR C677T genotype with ischemic stroke is confined to cerebral small vessel disease subtype. Stroke: a Journal of Cerebral Circulation, 47 (3). pp. 646-651. ISSN: 0039-2499
+Rutten-Jacobs, Loes C. A. and Traylor, Matthew and Adib-Samii, Poneh and Thijs, Vincent and Sudlow, Cathie and Rothwell, Peter M. and Boncoraglio, Giorgio and Dichgans, Martin and Meschia, James and Maguire, Jane and Levi, Christopher and Rost, Natalia S. and Rosand, Jonathan and Hassan, Ahamad and Bevan, Steve and Markus, Hugh S. (2016) Association of MTHFRC677T genotype With ischemic stroke Is confined to cerebral small vessel disease subtype. Stroke. pp. STROKEAHA.115.011545. ISSN: 0039-2499
+Harris, Sarah E. and Malik, Rainer and Marioni, Riccardo and Campbell, Archie and Seshadri, Sudha and Worrall, Bradford B. and Sudlow, Cathie L. M. and Hayward, Caroline and Bastin, Mark E. and Starr, John M. and Porteous, David J. and Wardlaw, Joanna M. and Deary, Ian J. and METASTROKE Consortium, . (2016) Polygenic risk of ischemic stroke is associated with cognitive ability. Neurology, 86 (7). pp. 611-618. ISSN: 0028-3878
+Cheng, Yu-Ching and Stanne, Tara M. and Giese, Anne-Katrin and Ho, Weang Kee and Traylor, Matthew and Amouyel, Philippe and Holliday, Elizabeth G. and Malik, Rainer and Xu, Huichun and Kittner, Steven J. and Cole, John W. and O'Connell, Jeffrey R. and Danesh, John and Rasheed, Asif and Zhao, Wei and Engelter, Stefan and Grond-Ginsbach, Caspar and Kamatani, Yoichiro and Lathrop, Mark and Leys, Didier and Thijs, Vincent and Metso, Tiina M and Tatlisumak, Turgut and Pezzini, Alessandro and Parati, Eugenio A and Norrving, Bo and Bevan, Steve and Rothwell, Peter M. and Sudlow, Cathie and Slowik, Agnieszka and Lindgren, Arne and Walters, Matthew R. and Jannes, Jim and Shen, Jess and Crosslin, David and Doheny, Kimberly and Laurie, Cathy C. and Kanse, Sandip M. and Bis, Joshua C. and Fornage, Myriam and Mosley, Thomas H. and Hopewell, Jemma C. and Strauch, Konstantin and Mller-Nurasyid, Martina and Gieger, Christian and Waldenberger, Melanie and Peters, Annette and Meisinger, Christine and Ikram, M Arfan and Longstreth, W. T. and Meschia, James F. and Seshadri, Sudha and Sharma, Pankaj and Worrall, Bradford and Jern, Christina and Levi, Christopher and Dichgans, Martin and Boncoraglio, Giorgio B. and Markus, Hugh S. and Debette, Stephanie and Rolfs, Arndt and Saleheen, Danish and Mitchell, Braxton D. (2016) Genome-wide association analysis of young-onset stroke identifies a locus on chromosome 10q25 near HABP2. Stroke: a Journal of Cerebral Circulation, 47 (2). pp. 307-16. ISSN: 0039-2499
+Harris, Sarah E. and Malik, Rainer and Marioni, Riccardo and Campbell, Archie and Seshadri, Sudha and Worrall, Bradford B. and Sudlow, Cathie L.M. and Hayward, Caroline and Bastin, Mark E. and Starr, John M. and Porteous, David J. and Wardlaw, Joanna M. and Deary, Ian J.(2016) Polygenic risk of ischemic stroke is associated with cognitive ability. Neurology, 86 (7). pp. 611-618. ISSN: 0028-3878
+Traylor, Matthew and Anderson, Christopher D. and Hurford, Robert and Bevan, Steve and Markus, Hugh S. (2016) Oxidative phosphorylation and lacunar stroke. Neurology, 86 (2). pp. 141-145. ISSN: 0028-3878
+Traylor, Matthew and Anderson, Christopher D. and Hurford, Robert and Bevan, Steve and Markus, Hugh S. (2016) Oxidative phosphorylation and lacunar stroke: genome-wide enrichment analysis of common variants. Neurology, 86 (2). pp. 141-145. ISSN: 0028-3878
+Traylor, Matthew and Zhang, Cathy R. and Adib-Samii, Poneh and Devan, William J. and Parsons, Owen E. and Lanfranconi, Silvia and Gregory, Sarah and Cloonan, Lisa and Falcone, Guido J. and Radmanesh, Farid and Fitzpatrick, Kaitlin and Kanakis, Allison and Barrick, Thomas R. and Moynihan, Barry and Lewis, Cathryn M. and Boncoraglio, Giorgio B. and Lemmens, Robin and Thijs, Vincent and Sudlow, Cathie and Wardlaw, Joanna and Rothwell, Peter M. and Meschia, James F. and Worrall, Bradford B. and Levi, Christopher and Bevan, Steve and Furie, Karen L. and Dichgans, Martin and Rosand, Jonathan and Markus, Hugh S. and Rost, Natalia (2016) Genome-wide meta-analysis of cerebral white matter hyperintensities in patients with stroke. Neurology, 86 (2). pp. 146-153. ISSN: 0028-3878
+Traylor, Matthew and Zhang, Cathy R. and Adib-Samii, Poneh and Devan, William J. and Parsons, Owen E. and Lanfranconi, Silvia and Gregory, Sarah and Cloonan, Lisa and Falcone, Guido J. and Radmanesh, Farid and Fitzpatrick, Kaitlin and Kanakis, Allison and Barrick, Thomas R. and Moynihan, Barry and Lewis, Cathryn M. and Boncoraglio, Giorgio B. and Lemmens, Robin and Thijs, Vincent and Sudlow, Cathie and Wardlaw, Joanna and Rothwell, Peter M. and Meschia, James F. and Worrall, Bradford B. and Levi, Christopher and Bevan, Steve and Furie, Karen L. and Dichgans, Martin and Rosand, Jonathan and Markus, Hugh S. and Rost, Natalia (2016) Genome-wide meta-analysis of cerebral white matter hyperintensities in patients with stroke. Neurology, 86 (2). pp. 146-153. ISSN: 0028-3878
+Gesierich, Benno and Opherk, Christian and Rosand, Jonathan and Gonik, Mariya and Malik, Rainer and Jouvent, Eric and Herv, Dominique and Adib-Samii, Poneh and Bevan, Steve and Pianese, Luigi and Silvestri, Serena and Dotti, Maria T. and De Stefano, Nicola and van der Grond, Jeroen and Boon, Elles M. J. and Pescini, Francesca and Rost, Natalia and Pantoni, Leonardo and Lesnik Oberstein, Saskia A. and Federico, Antonio and Ragno, Michele and Markus, Hugh S. and Tournier-Lasserve, Elisabeth and Chabriat, Hugues and Dichgans, Martin and Duering, Marco and Ewers, Michael (2016) APOE ?2 is associated with white matter hyperintensity volume in CADASIL. Journal of Cerebral Blood Flow & Metabolism. ISSN: 0271-678X
+Hanscombe, Ken B. and Traylor, Matthew and Hysi, Pirro G. and Bevan, Steve and Dichgans, Martin and Rothwell, Peter M. and Worrall, Bradford B. and Seshadri, Sudha and Sudlow, Cathie and Williams, Frances M. K. and Markus, Hugh S. and Lewis, Cathryn M. (2015) Genetic factors influencing coagulation factor XIII B-subunit contribute to risk of ischemic stroke. Stroke, 46 (8). pp. 2069-2074. ISSN: 0039-2499
+Rutten-Jacobs, Loes C.A. and Traylor, Matthew and Adib-Samii, Poneh and Thijs, Vincent and Sudlow, Cathie and Rothwell, Peter M. and Boncoraglio, Giorgio and Dichgans, Martin and Bevan, Steve and Meschia, James and Levi, Christopher and Rost, Natalia S. and Rosand, Jonathan and Hassan, Ahamad and Markus, Hugh S. (2015) Common NOTCH3 variants and cerebral small-vessel disease. Stroke, 46 (6). pp. 1482-1487. ISSN: 0039-2499
+Traylor, Matthew and Rutten-Jacobs, Loes C. A. and Holliday, Elizabeth G. and Malik, Rainer and Sudlow, Cathie and Rothwell, Peter M. and Maguire, Jane M. and Koblar, Simon A. and Bevan, Steve and Boncoraglio, Giorgio and Dichgans, Martin and Levi, Chris and Lewis, Cathryn M. and Markus, Hugh S. (2015) Differences in common genetic predisposition to ischemic stroke by age and sex. Stroke: a journal of cerebral circulation, 46 (11). pp. 3042-7. ISSN: 0039-2499
+Traylor, Matthew and Bevan, Steve and Baron, Jean-Claude and Hassan, Ahamad and Lewis, Cathryn M. and Markus, Hugh S. (2015) Genetic architecture of lacunar stroke. Stroke; a journal of cerebral circulation, 46 (9). pp. 2407-2412. ISSN: 0039-2499
+Kilarski, Laura L. and Rutten-Jacobs, Loes C. A. and Bevan, Steve and Baker, Rob and Hassan, Ahamad and Hughes, Derralynn A. and Markus, Hugh S. (2015) Prevalence of CADASIL and Fabry disease in a cohort of MRI defined younger onset lacunar stroke. PloS one, 10 (8). pp. e0136352. ISSN: 1932-6203
+Rannikmae, K. and Davies, G. and Thomson, P. A. and Bevan, Steve and Devan, W. J. and Falcone, G. J. and Traylor, M. and Anderson, C. D. and Battey, T. W. K. and Radmanesh, F. and Deka, R. and Woo, J. G. and Martin, L. J. and Jimenez-Conde, J. and Selim, M. and Brown, D. L. and Silliman, S. L. and Kidwell, C. S. and Montaner, J. and Langefeld, C. D. and Slowik, A. and Hansen, B. M. and Lindgren, A. G. and Meschia, J. F. and Fornage, M. and Bis, J. C. and Debette, S. and Ikram, M. A. and Longstreth, W. T. and Schmidt, R. and Zhang, C. R. and Yang, Q. and Sharma, P. and Kittner, S. J. and Mitchell, B. D. and Holliday, E. G. and Levi, C. R. and Attia, J. and Rothwell, P. M. and Poole, D. L. and Boncoraglio, G. B. and Psaty, B. M. and Malik, R. and Rost, N. and Worrall, B. B. and Dichgans, M. and Van Agtmael, T. and Woo, D. and Markus, H. S. and Seshadri, S. and Rosand, J. and Sudlow, C. L. M. (2015) Common variation in COL4A1/COL4A2 is associated with sporadic cerebral small vessel disease. Neurology, 84 (9). pp. 918-926. ISSN: 0028-3878
+Adib-Samii, Poneh and Devan, William and Traylor, Matthew and Lanfranconi, Silvia and Zhang, Cathy R. and Cloonan, Lisa and Falcone, Guido J. and Radmanesh, Farid and Fitzpatrick, Kaitlin and Kanakis, Allison and Rothwell, Peter M. and Sudlow, Cathie and Boncoraglio, Giorgio B. and Meschia, James F. and Levi, Chris and Dichgans, Martin and Bevan, Steve and Rosand, Jonathan and Rost, Natalia S. and Markus, Hugh S. (2015) Genetic architecture of white matter hyperintensities differs in hypertensive and nonhypertensive ischemic stroke. Stroke, 46 (2). pp. 348-353. ISSN: 0039-2499
+Holliday, Elizabeth G. and Traylor, Matthew and Malik, Rainer and Bevan, Steve and Maguire, Jane and Koblar, Simon A. and Sturm, Jonathan and Hankey, Graeme J. and Oldmeadow, Christopher and McEvoy, Mark and Sudlow, Cathie and Rothwell, Peter M. and Coresh, Josef and Hamet, Pavel and Tremblay, Johanne and Turner, Stephen T. and de Andrade, Mariza and Rao, Madhumathi and Schmidt, Reinhold and Crick, Peter A. and Robino, Antonietta and Peralta, Carmen A. and Jukema, J. Wouter and Mitchell, Paul and Rosas, Sylvia E. and Wang, Jie Jin and Scott, Rodney J. and Dichgans, Martin and Mitchell, Braxton D. and Kao, W.H. Linda and Fox, Caroline S. and Levi, Christopher and Attia, John and Markus, Hugh S. (2014) Polygenic overlap between kidney function and large artery atherosclerotic stroke. Stroke, 45 (12). pp. 3508-3513. ISSN: 0039-2499
+Markus, Hugh S. and Bevan, Steve (2014) Mechanisms and treatment of ischaemic stroke: insights from genetic associations. Nature Reviews Neurology, 10 (12). pp. 723-730. ISSN: 1759-4758
+Kilarski, L. L. and Achterberg, S. and Devan, W. J. and Traylor, M. and Malik, R. and Lindgren, A. and Pare, G. and Sharma, P. and Slowik, A. and Thijs, V. and Walters, M. and Worrall, B. B. and Sale, M. M. and Algra, A. and Kappelle, L. J. and Wijmenga, C. and Norrving, B. and Sandling, J. K. and Ronnblom, L. and Goris, A. and Franke, A. and Sudlow, C. and Rothwell, P. M. and Levi, C. and Holliday, E. G. and Fornage, M. and Psaty, B. and Gretarsdottir, S. and Thorsteinsdottir, U. and Seshadri, S. and Mitchell, B. D. and Kittner, S. and Clarke, R. and Hopewell, J. C. and Bis, J. C. and Boncoraglio, G. B. and Meschia, J. and Ikram, M. A. and Hansen, B. M. and Montaner, J. and Thorleifsson, G. and Stefanson, K. and Rosand, J. and de Bakker, P. I. W. and Farrall, M. and Dichgans, M. and Markus, H. S. and Bevan, Steve (2014) Meta-analysis in more than 17,900 cases of ischemic stroke reveals a novel association at 12q24.12. Neurology, 83 (8). pp. 678-685. ISSN: 0028-3878
+Frayling, Timothy M. and Traylor, Matthew and Mkel, Kari-Matti and Kilarski, Laura L. and Holliday, Elizabeth G. and Devan, William J. and Nalls, Mike A. and Wiggins, Kerri L. and Zhao, Wei and Cheng, Yu-Ching and Achterberg, Sefanja and Malik, Rainer and Sudlow, Cathie and Bevan, Steve and Raitoharju, Emma and Oksala, Niku and Thijs, Vincent and Lemmens, Robin and Lindgren, Arne and Slowik, Agnieszka and Maguire, Jane M. and Walters, Matthew and Algra, Ale and Sharma, Pankaj and Attia, John R. and Boncoraglio, Giorgio B. and Rothwell, Peter M. and de Bakker, Paul I. W. and Bis, Joshua C. and Saleheen, Danish and Kittner, Steven J. and Mitchell, Braxton D. and Rosand, Jonathan and Meschia, James F. and Levi, Christopher and Dichgans, Martin and Lehtimki, Terho and Lewis, Cathryn M. and Markus, Hugh S. (2014) A novel MMP12 locus Is associated with large artery atherosclerotic stroke Using a genome-wide age-at-onset informed approach. PLoS Genetics, 10 (7). pp. e1004469. ISSN: 1553-7390
+Opherk, C. and Gonik, M. and Duering, M. and Malik, R. and Jouvent, E. and Herve, D. and Adib-Samii, P. and Bevan, Steve and Pianese, L. and Silvestri, S. and Dotti, M. T. and De Stefano, N. and Liem, M. and Boon, E. M. J. and Pescini, F. and Pachai, C. and Bracoud, L. and Muller-Myhsok, B. and Meitinger, T. and Rost, N. and Pantoni, L. and Lesnik Oberstein, S. and Federico, A. and Ragno, M. and Markus, H. S. and Tournier-Lasserve, E. and Rosand, J. and Chabriat, H. and Dichgans, M. (2014) Genome-wide genotyping demonstrates a polygenic risk score associated with white matter hyperintensity volume in CADASIL. Stroke, 45 (4). pp. 968-972. ISSN: 0039-2499
+Thapaliya, Arjun and Nyathi, Yvonne and Martnez-Lumbreras, Santiago and Krysztofinska, Ewelina M. and Evans, Nicola J. and Terry, Isabelle L. and High, Stephen and Isaacson, Rivka L. (2016) SGTA interacts with the proteasomal ubiquitin receptor Rpn13 via a carboxylate clamp mechanism. Scientific Reports, 6 (1). pp. 36622. ISSN: 2045-2322
+Leznicki, P. and Korac-Prlic, J. and Kliza, K. and Husnjak, K. and Nyathi, Y. and Dikic, I. and High, S. (2015) Binding of SGTA to Rpn13 selectively modulates protein quality control. Journal of Cell Science, 128 (17). pp. 3187-3196. ISSN: 0021-9533
+Nyathi, Yvonne and Pool, Martin R. (2015) Analysis of the interplay of protein biogenesis factors at the ribosome exit site reveals new role for NAC. Journal of Cell Biology, 210 (2). pp. 287-301. ISSN: 0021-9525
+School of Life Sciences Research Groups
+Animal Behaviour and Welfare Research Group
+The group comprises a unique team of internationally-renowned researchers working at the forefront of, and interface between, animal behaviour, cognition, health, and welfare.
+Diabetes, Metabolism and Inflammation Research Group
+The groups vision is to create a strong, dynamic, and engaged research culture to carry out research that has the potential for real world impact at a local, national, and international level.
+Evolution and Ecology Research Group
+The group aims to understand the evolution and ecology of populations, species and communities across all levels of biological organisation, from genes through to ecosystems.
+Microbiology and Biotechnology Research Group
+The research group has a multi-disciplinary approach to answering fundamental questions relating to the characterisation, evaluation, and testing of microorganisms and viruses.
+Connect with Us
+
+
+South Africa Field Course | Overseas Field Trips | University of LincolnMankwe Wildlife Reserve, South Africa
+Students and staff from the School of Life Sciences have the opportunity to visit the Mankwe Wildlife reserve in South Africa as part of the final year Overseas Field Course module.
+Students live in the wild at Mankwe wildlife reserve and explore the stunning South African landscape whilst carrying out scientific research on the health, behaviour, welfare, conservation and ecology of the wildlife in this biodiversity hotspot.
+Course Leader:Dr Colin Butter
+Dr Colin Butter
+Karen Staines
+Dr Jonathan Cooper
+Dr Simon Clegg
+Dr Mark Odell
+Mankwe is a 4750 hectare reserve in the North West Province of South Africa, approximately 5km east of Pilanesberg National Park. The accommodation is a selection of safari tents, wooden cabins and a clinker brick chalet at the Waterbuck camp, where students have the opportunity to experience a true bush adventure. There are no fences so students live among the wildlife.
+Find out more: http://www.mankwewildlifereserve.com/
+Tented accommodation and views of the camp (photo credit Karen Staines)
+Tented accommodation (photo credit Karen Staines)
+Views of the camp (photo credit Karen Staines)
+Student Projects
+Assessment includes a group research project and species identification.
+Project areas:
+Students setting up camera traps
+Animal Tracking
+Game drives around the reserve
+Gallery
+Pilanesberg National Park andMankwe Wildlife reserve
+(all photos credit: Karen Staines)
+
+
+
+Overseas Field Trips | Department of Life Sciences | University of LincolnDeveloping Field Study Experience and Practical Skills
+The Department of Life Sciences currently runs an optional field course module for undergraduate students.This provides the opportunity to do research in a novel environment and to study local plants and animals. Many of the locations visited are biodiversity hot spots with a variety of animals, birds, insects, and plants to study, providing students with the chance to experience species they may not have previously encountered. Each of the excursions offer opportunities to explore the local area and experience a new culture.
+Students and staff from the Department of Life Sciences have previously visited Molise, Italy; the site is located in the Italian Central Apennines. During their time in Italy students learnt more about wildlife identification, field ecology techniques, and project design, with a special focus on field data collection. 
+Field Study Experience
+These field courses are an excellent opportunity to gain valuable field study experience and practical skills, which may enhance your employability and can boost your CV. Working on projects with other students and tackling challenges can enable you to develop your problem solving and transferable skills and gain confidence. Lecturers from across theDepartment of Life Sciences take part in the trip, providing you with an opportunity to learn from a range of experts.
+Study Unusual Species
+Students can learn about the ecology and conservation of the area. Before the trip students write a project proposal to develop their knowledge of the location and its wildlife. On each trip students are introduced to local flora and fauna, present a group project, complete an identification test of plants, vertebrates and invertebrates, work on an allocated project, and write a report on their project. Projects can range from ecology, animal behaviour, and plant ecology to the study of antimicrobial compounds. The trips can take place in the summer before the start of the final year of your degree. The field trips last for approximately 8-10 nights.
+You can find out more about the Overseas Field Course module, and look at previous trips to Cloud Forest, Ecuador, on ourblog.
+Costs
+Optional field trips may incur additional costs, including flights. Students may also be required to pay for overnight stays, local travel, and food close to the destination if their flights arrive the day before the team are scheduled to meet. Students may bring personal items of clothing and travel equipment, some of which may be specialised for the environment they are travelling to, and recommended medicines and travel toiletries such as anti-malaria medication, vaccinations, insect repellent and sunscreen. These costs will depend on what you choose to bring.
+
+Ecuador Field Course
+Find out more about what to expect during our overseas fieldtrips with real footage from our field course tothe Cloud Forest in Ecuador.
+Discover biodiversity hot spotsand carry out scientific researchon the history,health, behaviour, welfare, conservation, ecology, and biology on a variety of animals, birds, insects, and plants.
+Learn how you can visit some of the worlds most amazing environments while studying at the University of Lincoln.
+Connect with Us
+
+
+College of Health and Science, University of Lincoln, Brayford Pool Campus, Lincoln, LN6 7TS
+enquiries@lincoln.ac.uk
++44 (0)1522886654
+
+
+Animals, Health and Society | Animal Behaviour, Cognition and Welfare | University of LincolnOur Research
+We couple our strengths in cognitive biology, clinical animal behaviour, and animal health and disease with research approaches from the social sciences, as we recognise that translating the findings from our foundational and applied animal research into real-world impact will inevitably involve addressing the human and societal factors.
+To this end, members of our research group work with others across the university, nation, and world to explore questions about how people think, interpret, and make decisions around animal care, use and welfare, with an aim to uncover the barriers faced by individuals and groups and co-develop solutions designed to support people in implementing evidence-based practises. Our research in this area uses a mix of qualitative and quantitative methodologies and spans contexts (e.g., livestock, companion and exotic animals) and stakeholder groups (e.g., farmers, veterinarians, companion animal owners, those involved in animal assisted interventions and the general public). Recent projects have included:
+
+Prof Oliver Burman
+Dr Andrew Cooke
+Dr Jonathan Cooper
+Dr Niko Kargas
+Prof Sandra McCune
+Prof Kerstin Meints
+Prof Daniel Mills
+Dr Ambrose Tinarwo
+Dr Beth Ventura (Sub Group Lead)
+- Animal welfare science, applied ethology, and social science
+Dr Helen Zulch
+
+
+
+Sustainable Ecosystems | Evolution and Ecology | University of LincolnOur Research
+Ecosystems are comprised of a large number of feedbacks between their many component organisms and the abiotic environment. How can we understand such complexity and how do we make such systems more resilient to the many and various human impacts?
+Multifunctional Landscapes
+Ecosystems on our planet are not only home for diverse life forms and powerhouse of climate regulations, but also source of critical societal needs, for food, materials, medicine, energy, arts, culture and entertainment. Our interdisciplinary work applies rapidly advancing ecological understandings to a range of natural and human modified landscapes, from tropical rainforests to the UK agricultural landscapes, to enable better actions that optimise landscape multifunctionality, balancing nature conservation and societal demands.
+Antibiotics in the Environment
+Antibiotics and other antimicrobials are often derived from soil microorganisms. The indiscriminate release of those chemicals in the environments can affect the functioning and health of ecosystems and human health. We are studying the potential effects on ecosystems and in turn, human health This is a global problem, and we are taking a global approach working with colleagues in South America and China.
+Sustainable Pest Control
+Pest insects are one of the greatest threats to food production, causing over 20% of the worlds total crop damage each year, with new and emerging pests causing distinct problems across the planet. The extensive use of chemical pesticides causes environmental pollution, risks to human health, non-target effects on natural enemies and development of pesticide resistance. Biological control programmes, where natural enemies or microbial baits are harnessed to control insect pests, offer a viable alternative. In collaboration with the UK Agriculture and Horticulture Development Board and colleagues in the UK and Australia we investigate the role of microbes and diseases in the control of major global crop pests.
+Plant-microbial Interactions
+Plants are constantly exposed to a range of fungi and bacteria, both above- and belowground. These interactions can range from beneficial to pathogenic. We are investigating the patterns and processes determining plant-microbial associations and the role these interactions play in achieving sustainable ecosystems, including agricultural systems.
+Sustainable Agroecosystems
+We all need to eat, but the intensive high-input agricultural methods developed over the last 80 years have taken their toll on the environment. A myriad microscopic bacterial, fungal and invertebrate communities underpin agricultural productivity and understanding these communities better may hold the key to developing more sustainable production methods. Part of the research group work with an array of other academics and agricultural sector researchers to describe the unseen biodiversity in agricultural systems and to understand the effects of various agricultural practises on these.
+
+Dr Lan Qie Conservation, carbon accounting, tropical forests, land use, ecosystem management, climate change, environmental technology
+Dr Sheena Cotter Eco-immunology, nutritional ecology, host-parasite interactions, insect ecology
+Dr Jenny Dunn Host-parasite interactions and parasite transmission in wildlife
+Professor Mat Goddard Population and community ecology
+Dr Iain Gould-Soil Science
+Dr Graziella Iossa Behavioural and evolutionary ecology, antimicrobial resistance in the environment, ecosystems and human health
+Professor Libby John Plant ecology, plant-animal interactions, root-soil interactions, biodiversity
+Dr Carl Soulsbury Behavioural ecology and evolutionary biology
+Dr Iain Stott Computational ecology
+Dr Sandra Varga Plant and soil ecology
+Prof Dave Wilkinson Ecology, evolution, archaeology and Earth System Science
+Dr Isobel Wright-Agricultural Environmental Science, Regenerative Agriculture, Biodiversity, Sustainable Resource Management
+
+
+
+Strategies for Life | Evolution and Ecology | University of LincolnOur Research
+Organisms exhibit remarkable diversity in how they grow, survive, reproduce and die. Understanding the behavioural and physiological strategies they use, how these strategies have evolved, and how they respond to changing social and environmental conditions is key to understanding and preserving this biodiversity, both now and in the future.
+Sexual Selection
+Sexual selection is the process whereby individuals of either sex compete to reproduce. Within this topic, we investigate how (and why) animals signal (visually, acoustically, and chemically) to prospective mates, how these signals evolved, and how individuals compete for access to reproduction both before and after mating.
+Reproductive Traits
+What drives the evolution of reproductive traits in animals and plants? We investigate the mechanisms males and females use to maximise their reproductive fitness, their adaptations to different environments, and plasticity in the face of climate change.
+Ageing and the Pace of Life
+Lifespan varies widely in nature, with some organisms adopting a live fast, die young strategy, while others live for thousands of years. Even within a lifespan, the success with which organisms reproduce and repair themselves declines with age, known as senescence. But what controls how organisms age? We study this both experimentally within model organisms, and computationally across the tree of life.
+Dr Sheena Cotter Eco-immunology, nutritional ecology, host-parasite interactions, insect ecology
+Dr Shaun Coutts-Population ecology, invasion ecology, weed management, spatio-temporal modelling
+Dr Charles Deeming Avian and reptilian reproduction
+Dr Jenny Dunn Host-parasite interactions and parasite transmission in wildlife
+Dr Paul Eady Behavioural ecology
+Dr Adrian Goodman Plant biomechanics
+Dr Graziella Iossa Behavioural and evolutionary ecology, antimicrobial resistance in the environment, ecosystems and human health
+Dr Tom Pike Sensory and behavioural ecology
+Professor Fernando Montealegre-Z Sensory biology, biomechanics of sound production and hearing in insects
+Dr Marcello Ruta  Analytical evolutionary palaeobiology
+Dr Carl Soulsbury Behavioural ecology and evolutionary biology
+Dr Iain Stott Computational ecology
+Dr Sandra Varga Plant and soil ecology
+Prof Dave Wilkinson Ecology, evolution, archaeology and Earth System Science
+
+
+
+Animal Behaviour, Cognition and Welfare | Research | University of LincolnInnovative Solutions to Animal Health, Welfare, and Society
+We Collaborate,We Challenge, andWe Transform.
+We are a unique team of internationally-renowned researchers working at the forefront of, and interface between life, environmental, health, computing and social sciences.
+Our cross-disciplinary research benefits from strong links with members of theSchool of Psychologyand the School of Computer Science, as well as other research groups within the School of Life & Environmental Sciences, particularly the Evolution and Ecology group and the Lincoln Institute for Agri-food Technology.
+We collaborate in our pursuit of excellence, with multidisciplinarity at the heart of much of what we do. Working in partnership with others internally and externally (nationally and internationally) including other leading universities, charities, governmental organisations and businesses.
+We have an established track record of research funding from Government, Charity and Industry as we seek to translate fundamental research to real world impact. Significant investment for our research has been obtained from research organisations such as: BBSRC,Defra,dstl,ONR,NC3Rs,: as well as charitable and commercial organisations: RSPCA,UFAW,Boehringer Ingelheim,CEVA Sant Animale,Dogs Trust, Border Force.
+In addition, we offer external consultancy and continuous professional development courses to those wishing to work with leading authorities in animal behaviour, cognition, health and welfare. This includes members of the animal care and pet food industry, agricultural producers, veterinary pharmaceutical companies, television and other media as well as clinical behaviour services.
+We challenge the status quo in order to explore and identify new, inclusive and innovative ways to address complex contemporary issues of regional, national and global significance. This includes a focus on addressing theUnited Nations Sustainable Development Goals in our research. 
+Our Purpose
+The Animal Behaviour, Cognition and Welfare Research Group uses a multidisciplinary approach to generate and translate fundamental research for the purposes of providing innovative, practical solutions for the benefit of society, including for all animal species with which we interact.
+Our Vision
+Our vision is to be a transformative force for good within society, enabling excellent health, welfare and prosperity within an inter-connected and complex world.
+Our Ambition
+Our long-term ambition is to maintain and grow our global reputation for research excellence relating to animal behaviour, cognition, health and welfare.
+Our Values
+As a civic university, we believe it is important that we articulate our values as they reflect who we are and what we stand for. Our guiding principles are:
+We accept personal responsibility for the wellbeing of people, our community, the environment and animals with whom we co-exist. We are committed to morally responsible research and the promotion of ethical practices. 
+We have the courage to challenge each other respectfully in order to expand the boundaries of scientific understanding and maintain rigorous standards.
+We prioritise inclusive practices in all our work, embracing difference through a global mindset that recognises the value and inclusive benefit of diversity, especially in relation to gaining greater insight into complex problems and their solutions.
+We strive for excellence in everything we do, holding high expectations of our performance and the impact of our research. This is enabled by our excellent facilities which include internationally recognised behaviour, perception and cognition laboratories for vertebrate and invertebrate species, the university farm and related research facilities at Riseholme.
+We work collaboratively, creatively, and innovatively as a team and with a range of stakeholders in order to co-create research, inform policy and deliver solutions with meaningful economic and societal impact.
+ United Nations Sustainable Development Goals
+s most pressing problems, now and into the future.", 'Our Research
+Animal Cognition
+Clinical Animal Behaviour
+Animals and Society
+Animal Welfare
+Animal welfare is a growing scientific discipline reflecting considerable public concern. Our research in animal welfare is led by a multi-disciplinary team of international experts, who work with a variety of animals including laboratory, farm, companion, and zoo animals. 
+Animal Health and Disease 
+Animals are under constant pressures from disease, the environment, and human activity. When animals are unable to overcome these pressures, their welfare suffers. At Lincoln, we are passionate about improving the health of companion, farmed, and wild animals of all types. 
+One Health 
+School of Life Sciences Research Groups
+Cancer and Ageing Research Group
+Group research follows a multi-disciplinary and highly collaborative approach to increase understanding of disease characteristically associated with ageing at the molecular level, to improve prevention, diagnosis, and treatment.
+Diabetes, Metabolism and Inflammation Research Group
+The groups vision is to create a strong, dynamic, and engaged research culture to carry out research that has the potential for real world impact at a local, national, and international level.
+Evolution and Ecology Research Group
+The group aims to understand the evolution and ecology of populations, species and communities across all levels of biological organisation, from genes through to ecosystems.
+Microbiology and Biotechnology Research Group
+The research group has a multi-disciplinary approach to answering fundamental questions relating to the characterisation, evaluation, and testing of microorganisms and viruses.
+Connect with Us
+
+
+College of Health and Science, University of Lincoln, Brayford Pool Campus, Lincoln, LN6 7TS
+enquiries@lincoln.ac.uk
+
+
+Behaviour Clinic | Department of Life Sciences | University of LincolnWelcome
+Welcome to Animal Behaviour at Lincoln, from this page you can access a range of behaviour related resources. The Animal Behaviour Clinic website is where all information and relevant online forms can be found (owner and vet) to facilitate a behaviour referral.
+The clinic carries out internationally recognised research across a wide range of species. Pet owners can find out about how to contribute to some of this research via the Pets Can Do website.
+The Clinic is still open and we are offering remote consultations as well as follow-up by video call, telephone, and e-mail as appropriate.
+We will only be able to access paperwork sent in electronically for the time being.
+If you are a referring vet, please complete ourreferral form and upload an up-to-date medical history.
+If you are a pet owner, we are able to offer an initial consultation via Microsoft 365 Teams or other virtual meeting packages. The consultation will involve expansion of the history form submitted, an in-depth behaviour assessment, treatment recommendations moving forwards, and up to three months of follow up support. This may be limited to management advice in some cases.
+Due to not being able to perform a physical examination (where our veterinary behaviourists may otherwise have done so), in some cases we may ask you to send us additional information, possibly including video footage of your pet (if it is safe to do so). If we feel this is necessary, we will discuss the details with you as it is important to ensure safety and welfare of all. Therefore, please do not put yourself or other pets at risk trying to collect footage of problem behaviour.
+If you have any questions please do not hesitate to contact us via email at animalbehaviour@lincoln.ac.uk.
+Connect with Us
+
+
+College of Health and Science, University of Lincoln, Brayford Pool Campus, Lincoln, LN6 7TS
+Contact the clinic on +44(0)1522 835475
+animalbehaviour@lincoln.ac.uk
+
+
+
+Animal Sociality | Animal Behaviour, Cognition and Welfare | University of LincolnOur Research
+Sociality, understood as the formation of either transient or permanent associations with members of their own or different species, is prevalent across a wide range of vertebrate and invertebrate taxa. Whereas some features of social lives are unique to one species - or even one single population, and the frequency of occurrence and diversity of social behaviours vary greatly within and among taxonomic groups, all animals living in groups face the challenge of responding to their habitats and also navigating their social environment.
+Our research aims to investigate the richness and dynamism of animals socio-emotional capacities in a diversity of animal species using a range of theoretical and methodological approaches. Our goal is to better understand the ecological, social and individual factors influencing individuals social behaviour and plasticity, which can in turn underpin advances in the welfare and management of both captive and wild animal populations.
+Within the scope of animal sociality, we investigate two main areas:
+Prof Anna Wilkinson
+Prof Daniel Mills
+Emotional basis to social relationships
+Chloe India Wright
+Tim Simon
+Claire Ricci Bonot
+LuLu Xu
+
+
+Publications | Evolution and Ecology | University of LincolnRepresentative Recent Publications
+
+Morton, F.B., Gartner, M., Norrie, E.-M., Haddou, Y., Soulsbury, C. and Adaway, K.A. (2023) Urban foxes are bolder but not more innovative than their rural conspecifics. Animal Behaviour, 203, 101-113.
+Leavey, A., Ruta, M., Richards, C.T. and Porro, L.B. (2023) Locomotor, ecological and phylogenetic drivers of skeletal proportions in frogs. Journal of Anatomy, 243, 404-420.
+Goode, C., Woodrow, C., Harrison, S., Deeming, C. and Sutton, G. (2023) Control of highspeed jumps in muscle and spring actuated systems: a comparative study of takeoff energetics in bushcrickets (Mecopoda elongata) and locusts (Schistocerca gregaria). Journal of Comparative Physiology B, 193, 597-605.
+Rowland, T., Pike, T.W., Reaney-Wood, S., Mills, D.S. and Burman, O.H.P. (2023) Using network analysis to detect associations between suspected painful health conditions and behaviour in dogs. The Veterinary Journal, 293, 105954.
+Smith, W.J., Jezierski, M.T., Dunn, J.C. and Clegg, S.M. (2023) Parasite exchange and hybridisation at a wild-feral-domestic interface. International Journal for Parasitology.
+Oxford-Smith, N., Ruta, M., Gao, A., Viaud-Martinez, K. A., Sabin, R., Herman, J., Ososky, J., Tajima, Y., Yamada, T. K., Kaliontzopoulou, A. and Moura, A. E. (2023) Skull morphology of bottlenose dolphins worldwide and patterns of adaptation between coastal and offshore environments. Journal of Zoology, 199, 8396.
+Sarria, F., Montealegre-Z, F. and Gonzalez-Rodriguez, J. (2023) The chemistry of an insect ear: ionic composition of a liquid-filled ear and haemolymphs of Neotropical katydids. Journal of The Royal Society Interface, 20, 20230154.
+Clegg, S., Eady, P., Millson, S. and Cotter, S. (2023) A reduced potential for lameness bacterial
+transmission by Lucilia sericata larvae and flies through metamorphosis. Research in Veterinary Science, 163, 104967.
+Chen, R.S., Soulsbury, C., Lebigre, C., Ludwig, G., van Oers, K. and Hoffman, J.I. (2023) Effects of hunting on genetic diversity, inbreeding and dispersal in Finnish black grouse (Lyrurus tetrix). Evolutionary Applications, 16, 625-637.
+Gascoigne, S.J.L., Rolph, S., , Stott, I., et al. (2023) A standard protocol to report discrete stage-structured demographic information. Methods in Ecology and Evolution, 14, 2065-2083.
+Klembara, J., Ruta, M., Anderson, J., Mayer, T., Hain, M. and Valaska, D. (2023) A review of Coelostegus prothales Carroll and Baird, 1972 from the Upper Carboniferous of the Czech Republic and the interrelationships of basal eureptiles. PLoS ONE, 18, e0291687.
+Brinkworth, A., Green, E., Li, Y., Oyston, J., Ruta, M. and Wills, M.A. (2023) Bird clades with less complex appendicular skeletons tend to have higher species richness. Nature Communications, 14, 5817.
+Dunn, J.C., Thomas, R.C., Hipperson, H., Sheehan, D.J., Orsman, C., Mallord, J. and Goodman, S.J. (2023) Evidence for strain-specific virulence of Trichomonas gallinae in African columbiformes. Parasitology, 150, 206-211.
+Woodrow, C. and Montealegre-Z, F. (2023) Auditory system biophysics in a new species of false-leaf katydid (Tettigoniidae: Pseudophyllinae) supports a hypothesis of broadband ultrasound reception. Zoologischer Anzeiger - A Journal of Comparative Zoology, 304, 94-104.
+Hyun, N.P., Olberding, J.P., De, A., Divi, S., Liang, X., Thomas, E., St. Piere, R., Steinhardt, E., Jorge, J., Longo, S.J., Cox, S., Mendoza, E., Sutton, G., Azizi, E., Crosby, A.J., Bergbreiter, S., Wood, R.J. and Patek, S.N. (2023) Spring and latch dynamics can act as control pathways in ultrafast systems. Bioinspiration and biomimetics, 18, 026002.
+Woodrow, C., Rosca, A.T., Fletcher, R.M., Hone, A.L., Ruta, M., Hamer, K.C. and Dunn, J. (2023) Haemoproteus parasites and passerines: the effect of local generalists on inferences of host-parasite co-phylogeny in the British Isles. Parasitology, 1-33.
+La Chapelle, M., Ruta, M. and Dunn, J. (2023) Bird species with wider geographical ranges have higher blood parasite diversity but not prevalence across the African-Eurasian flyway. International Journal for Parasitology.
+Parsa, F.R., Bayley, S., Bell, F., Dodd, S., Morris, R., Roberts, J., Wawman, D., Clegg, S. and Dunn, J. (2023) Epidemiology of protozoan and helminthic parasites in wild passerine birds of Britain and Ireland. Parasitology, 150, 297-310.
+Kleinhappel, T., Pike, T.W. and Burman, O.H.P. (2023) Changes in group behaviour in response to a preferred environment reflect positive affect. Scientific Reports, 13, 10576.
+Sutton, G., Szczecinski, N., Quinn, R. and Chiel, H. (2023) Phase shift between joint rotation and actuation reflects dominant forces and predicts muscle activation patterns. PNAS Nexus, 2, pgad298.
+Pike, T.W. and Burman, O.H.P. (2023) Model aversiveness and the evolution of imperfect Batesian mimics. Behavioral Ecology, 34, 1045-2249.
+Young, R.E., Dunn, J., Vaughan, I.P., Mallord, J.W., Orsman, C.J., Ka, M., Diallo, M.B., Sarr, M., Lorme, H., Eraud, C., Kiss, O., Thomas, R.C., Hamer, K.C., Goodman, S.J. and Symondson, W.O.C. (2023) Investigating the association between diet and infection with Trichomonas gallinae in the European turtle dove (Streptopelia turtur). Environmental DNA.
+Woodrow, C., Celiker, E. and Montealegre-Z, F. (2023) An Eocene insect could hear conspecific ultrasounds and bat echolocation. Current Biology, 33, 53045315.
+Sheldon, E.L., Hart, C.J., Mills, D.S., Soulsbury, C.D., Sumner, R. and Wilkinson, A. (2023) The impact of auditory distraction on learning and task performance in working dogs. Applied Animal Behaviour Science, 265, 105977.
+Li, Y., Brinkworth, A., Green, E., Oyston, J., Wills, M. and Ruta, M. (2023) Divergent vertebral formulae shape the evolution of axial complexity in mammals. Nature Ecology and Evolution, 7, 367-381.
+Goode, C. and Sutton, G. (2023) Control of highspeed jumps: the rotation and energetics of the locust (Schistocerca gregaria). Journal of Comparative Physiology B, 193, 145-153.
+Perrett, A., Pollard, H., Barnes, C., Schofield, M., Qie, L., Bosilj, P. and Brown, J. (2023) DeepVerge: Classification of Roadside Verge Biodiversity and Conservation Potential. Computers, Environment and Urban Systems, 102, 101968.
+Tan, M.K., Duncan, J., Wahab, R., Lee, C.-Y., Japir, R., Chung, A.Y.C., Baroga-Barbecho, J.B., Yap, S.A. and Montealegre-Z, F. (2023) The calling songs of some katydids (Orthoptera: Tettigonioidea) from the tropical forests of Southeast Asia. Journal of Orthoptera Research, 31, 1-24.
+Pike, T.W. and Burman, O.H.P. (2023) Simulating individual movement in fish. Scientific Reports, 13, 14581.
+Hemp, C., Montealegre-Z, F., Woodrow, C. and Heller, K.-G. (2023) Bush-crickets with very special ears and songs - review of the East African Phaneropterinae genus Dioncomena Brunner von Wattenwyl, 1878, with notes on its biogeography and the description of new species. Deutsche Entomologische Zeitschrift, 70.
+
+
+Postgraduate Programmes | Department of Life Sciences | University of LincolnDepartment of Life Sciences Postgraduate Programmes
+
+
+
+Plant and Animal Diseases | Evolution and Ecology | University of LincolnOur Research
+Diseases matter  the COVID-19 pandemic has highlighted the fundamental importance of the ecology of disease both in humans and in other organisms and highlighted the links between our own diseases and those of other animals and plants.
+Disease Ecology
+Sub-clinical impacts of parasitic infection are of growing concern. Using avian systems we study the influence of vector behaviour on parasite transmission, associations between parasitism and behaviour (including individual behavioural syndromes, or personality types), and the implications these may have for populations across generations through delayed life-history effects. We also consider how multiple stress factors (e.g. food quality/limitation, parasite infection, coinfection, predator abundance) interact in wild populations, especially those in decline, and the implications these interactions have for the conservation of populations.
+Nutrition and Disease
+Many factors can impact the outcome of infections, but the role of nutrition is one of the most widely recognised. In humans, protein malnutrition is a major contributor to morbidity and mortality due to infectious diseases and over-nutrition may impair immune function. Animals have been shown to change their diets when infected to improve the outcome of infection, known as self-medication. We study how intrinsic (e.g. age, sex, nutritional status) and extrinsic factors (e.g. pathogen risk, population density) simultaneously shape the interaction between hosts and their parasites.
+Dr Sheena Cotter Eco-immunology, nutritional ecology, host-parasite interactions, insect ecology
+Dr Jenny Dunn Host-parasite interactions and parasite transmission in wildlife
+Professor Mat Goddard  Population and community ecology
+Dr Carl Soulsbury Behavioural ecology and evolutionary biology
+Dr Sandra Varga Plant and soil ecology
+
+
+Animal Cognition | Animal Behaviour, Cognition and Welfare | University of LincolnCold-blooded Cognition
+Very little is known about the cognitive abilities of reptiles. They have traditionally been considered to be sluggish and unintelligent creatures (Yerkes, 1901) and have largely been ignored in the study of animal cognition.
+However, to gain an understanding of the evolution of cognition in amniotes, it is necessary to carry out research into the learning and memory abilities of reptiles that parallel the extensive work already available in mammals and birds. Our research has revealed that reptiles possess an impressive suite of cognitive abilities from complex social learning (e.g. Kis et al.,2015) to extensive long-term memory (e.g. Soldati et al.,2017). They can even use a touchscreen!
+Academics:Prof Anna Wilkinson,Prof Oliver Burman, Dr Tom Pike, Prof Libby John
+
+Working Animal Cognition
+Animals are used to help humans in all sorts of tasks, from explosive detection to search and rescue. The Working Animal Cognition group uses cutting edge science to improve the performance of working animals. We investigate a range of areas, from novel training techniques to to the impact of environmental changes on performance.
+This research takes our knowledge about the mechanisms underlying animal cognition and uses it to solve real-world problems.
+Academics:Prof Anna Wilkinson,Prof Daniel Mills,Dr Tom Pike, Dr Carl Soulsbury, Dr Helen Zulch
+
+
+
+
+The Architecture of Life | Evolution and Ecology | University of LincolnOur Research
+Although organisms obey the same physical laws as inanimate objects the evolutionary implications of these laws are often neglected. Physical factors influence the fitness value of traits and play an important role in the course of evolution. Our research ignores disciplinary boundaries and is linked by the central theme of using physics and engineering principles as a way of understanding complex problems in biology. Our work is characterized by strong interdisciplinary, collaborative links across academic areas in the University, and by novel approaches to addressing questions at the interface between biology and physics.
+Running and Jumping
+Jumping insects provide spectacular examples of precisely manipulated speed, spin, energy and power. In the blink of an eye, jumping insects catapult themselves toward targets and away from predators. We study the mechanics of how various insects control the muscles, joints, and even springs, that they use to fling themselves through the air. Our research is ballistic physics applied to living beings at high velocities.
+Sensory Biology
+How animals hear, see, smell and taste the world around them is a key determinant of their behaviour, and underpins how they respond to environmental change. We investigate the structure and function of animal sensory systems, by integrating experimental studies in the lab and field with computational models, and study how variation in sensory perception impacts on social and reproductive behaviour, ecological interactions, and evolution.
+Biological Fluid Dynamics
+Work in this area focuses around biological fluid dynamics at a number of scales, from the whole organism down to the level of cellular motility. We have been particularly successful at introducing physical thinking into our understanding of the evolution and function of sperm length and have provided key insights into the individual-level effects of environmental viscosity. We use theory, experiment and field studies to address a number of questions from how sperm swim, why bacteria have different shapes, and how bacteria respond to viscosity in their environment.
+Dr Charles Deeming Avian and reptilian reproduction
+Dr Adrian Goodman Plant biomechanics
+Professor Stuart Humphries Comparative biomechanics and biological fluid dynamics
+Professor Fernando Montealegre-Z Sensory biology, biomechanics of sound production and hearing in insects
+Dr Marcello Ruta  Analytical evolutionary palaeobiology
+Dr Tom Pike Sensory and behavioural ecology
+Dr Manabu Sakamoto Phylogenetics, evolutionary palaeobiology and functional morphology
+Dr Carl Soulsbury Behavioural ecology and evolutionary biology
+Professor Greg Sutton Biomechanics, u202ajumping and u202aneural control.
+
+
+Staff Contact List | Department of Life Sciences | University of LincolnDepartment of Life Sciences Staff
+
+
+Animal Health and Disease | Animal Behaviour, Cognition and Welfare | University of LincolnAnimal Health and Disease
+Animals are under constant pressures from disease, the environment, and human activity. When animals are unable to overcome these pressures, their welfare suffers. For owners, this is upsetting and for farmers, this may impact profits and increase environmental impacts. At Lincoln, we are passionate about improving the health of companion, farmed, and wild animals of all types. We are particularly interested in infectious diseases and our team includes specialists in virology, bacteriology, and parasitology. Malaria, influenza, herpesvirus, and E. coli, are just some of the many diseases that we are currently researching. Our other focuses include livestock lameness, stress, and ruminant nutrition.
+We are an internationally active group and are keen to improve the health and animals worldwide, especially through collaborating with universities in developing nations to support their research and the communities that benefit from that.
+Dr Colin Butter
+Dr Simon Clegg
+Dr Ashley Roberts
+Dr Karen Staines
+Dr Jenny Dunn
+Dr Andrew Cooke
+
+
+One Health | Animal Behaviour, Cognition and Welfare | University of LincolnOne Health
+One Health
+The One health principal encompasses human, animal and environmental health and is covered in much of the work within the group focussing on animal health and human animal interactions. The transmission of different diseases between animals and humans has led to major disease outbreaks over the last few years, including COVID-19, Ebola, and influenza. Therefore this work is of global importance in prevention of both animal and human infections. With expertise in various zoonotic pathogens including Salmonella spp., Campylobacter spp., and influenza, we are a group with wide ranging potential and research outputs.
+We are keen to collaborate with other groups and always welcome emails from students, academics and industry alike from any corner of the world. We strongly believe that through a one health approach, we can work with others to improve the animal and human lives around the world!
+Academics:Dr Simon Clegg
+
+
