@@ -13,4 +13,7 @@ def create_dict(folder_path):
 
 folder_path = input("enter folder path: ")
 result_dict = create_dict(folder_path)
-print(result_dict)
+
+inv_map = {v: k for k, v in result_dict.items()}
+
+print(inv_map)
