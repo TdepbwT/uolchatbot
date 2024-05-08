@@ -1,0 +1,82 @@
+Robotics
+ | BSc (Hons) | University of Lincoln
+
+Course Menu
+Key Information
+Duration
+3 years
+Typical Offer
+See More
+Campus
+Brayford Pool
+UCAS Code
+H760
+Academic Years
+Robotics is an interdisciplinary area of computer science and engineering dedicated to the design, construction, and control of intelligent mechanical devices. From agriculture and food production to medical care, robots are being increasingly used around the world to assist or extend human actions, often in repetitive or dangerous tasks.
+Our BSc (Hons) Robotics takes a cross-disciplinary approach to robotics, with a focus on innovative project-based learning. The course aims to provide a strong conceptual and methodological grounding in robotics, while offering training in state-of-the-art practices and techniques that can be deployed in the real world.
+Why Choose Lincoln
+Research-led teaching which focuses on cutting edge topics
+Training in state-of-the-art tools, technologies, skills, and practices
+Strong links to nationally recognised University research centres and groups in robotics, autonomous systems, and agri-food technology
+Undertake a project to design, implement, and evaluate a robotics solution to a specific problem or challenge
+Undertake project-based learning
+Interdisciplinary training which can lead to a range of industry careers
+How You Study
+ abilities in problem solving and inspiring the next generation of robotics specialists to develop innovative solutions to real-world problems.", 'Throughout the programme, students have the opportunity to develop key transferable skills across a wide range of methods, techniques, and practices required by robotics professionals. These include robot design and control, sensor technology, machine learning, artificial intelligence, autonomous decision-making, and software development.
+Each term, students enrol on one project-based learning module where they engage in hands-on, interactive problem-solving in a workshop environment. This includes access to a state-of-the-art fabrication lab and opportunities to work with a number of different robotic platforms.
+Each term, students enrol on one project-based learning module where they engage in hands-on, interactive problem-solving in a workshop environment. This includes access to an industry standard fabrication lab and opportunities to work with a number of different robotic platforms.
+Modules
+ Some courses may offer optional modules. The availability of optional modules may vary from year to year and will be subject to minimum student numbers being achieved. This means that the availability of specific optional modules cannot be guaranteed. Optional module selection may also be affected by staff availability.
+What You Need to Know
+We want you to have all the information you need to make an informed decision on where and what you want to study. In addition to the information provided on this course page, our What You Need to Know page offers explanations on key topics including programme validation/revalidation, additional costs, contact hours, and our return to face-to-face teaching.
+How you are assessed
+This course may be assessed through a variety of means, including in-class tests, coursework, projects, and examinations.
+s policy on assessment feedback aims to ensure that academics will return in-course assessments to students promptly.", 'How you are assessed
+s policy on assessment feedback aims to ensure that academics will return in-course assessments to students promptly.", 'The Robotics programme at Lincoln offers students a broad range of training experiences in the multidisciplinary world of robotics, covering hardware and software basics, from electronics and mechanics, to autonomous control and intelligent decision-making.
+Professor Elizabeth Sklar
+Director of Research, Lincoln Agri-robotics
+Industry and Research Links
+Our Robotics programme is strongly linked to the research and innovation taking place within the Lincoln Centre for Autonomous Systems, and Lincoln Agri-robotics  the worlds first global centre of excellence in agricultural robotics. These research centres are leading the way in developing robotics in fields including manufacturing, healthcare, autonomous driving, and agriculture.
+The University of Lincoln has also launched the worlds firstCentre for Doctoral Training in Agri-food Robotics in collaboration with the University of Cambridge and the University of East Anglia. This new advanced training centre in agri-food robotics is creating the largest ever cohort of Robotics and Autonomous Systems specialists or the global food and farming sectors, thanks to a multi-million-pound funding award from the Engineering and Physical Sciences Research Council.
+Specialist Facilities
+Robotics is taught across the Universitys College of Health and Science, with research-informed teaching and facilities from the School of Computer Science, the School of Engineering, and Lincoln Institute for Agri-food Technology. Computer Science and Engineering at Lincoln are housed in the Universitys Isaac Newton Building, while the Lincoln Institute for Agri-food Technology is situated just three miles north of Lincoln in a beautiful semi-rural setting at our Riseholme Campus.
+What Can I Do with a Robotics Degree?
+Robotics bridges the gap between mechanical engineering, electrical engineering, computer science, and artificial intelligence, opening up opportunities across a range of different careers. Graduates are well placed for positions in robotics or other tech, manufacturing, or supply chain companies. Graduates are well placed for positions in robotics or other tech companies, manufacturing or supply chain companies that use robotics or intelligent technology, or other kinds of tech jobs that require background in programming, data science, artificial intelligence and/or sensor technologies. Students may wish to pursue postgraduate study in Robotics or related fields, at Lincoln (e.g. our MSc in Robotics and Autonomous Systems or PhD through AgriFoRwArdS or SUSTAIN) or another university in the UK or abroad.
+Entry Requirements 2024-25
+United Kingdom
+104 UCAS Tariff points from a minimum of 2 A Levels, to include grade B from A Level Maths.
+International Baccalaureate: Pass Diploma from a minimum of 2 Higher Level subjects to include a Higher Level Grade 5 in Maths.
+Access to Higher Education Diploma: 45 Level 3 credits with a minimum of 104 UCAS Tariff points including 40 points from 15 credits in Maths.
+BTEC qualifications may be considered. Please contact our Admissions Team for further information (admissions@lincoln.ac.uk).
+Applicants will also need at least three GCSEs at grade 4 (C) or above, which must include English and Maths. Equivalent Level 2 qualifications may also be considered.
+The University accepts a wide range of qualifications as the basis for entry and do accept a combination of qualifications which may include A Levels, BTECs, EPQ etc.
+We will also consider applicants with extensive and relevant work experience and will give special individual consideration to those who do not meet the standard entry qualifications.
+International
+Non UK Qualifications:
+If you have studied outside of the UK, and are unsure whether your qualification meets the above requirements, please visit our country pages for information on equivalent qualifications.
+https://www.lincoln.ac.uk/studywithus/internationalstudents/entryrequirementsandyourcountry/
+EU and Overseas students will be required to demonstrate English language proficiency equivalent to IELTS 6.0 overall, with a minimum of 5.5 in each element. For information regarding other English language qualifications we accept, please visit the English Requirements page.
+https://www.lincoln.ac.uk/studywithus/internationalstudents/englishlanguagerequirementsandsupport/
+If you do not meet the above IELTS requirements, you may be able to take part in one of our Pre-sessional English and Academic Study Skills courses.
+https://www.lincoln.ac.uk/home/studywithus/internationalstudents/englishlanguagerequirementsandsupport/pre-sessionalenglishandacademicstudyskills/
+For applicants who do not meet our standard entry requirements, our Science Foundation Year can provide an alternative route of entry onto our full degree programmes:
+https://www.lincoln.ac.uk/home/course/sfysfyub/
+If you would like further information about entry requirements, or would like to discuss whether the qualifications you are currently studying are acceptable, please contact the Admissions team on 01522 886097, or email admissions@lincoln.ac.uk
+Contextual Offers
+Entry Requirements 2025-26
+104 UCAS Tariff points from a minimum of 2 A Levels or equivalent qualifications, to include grade B from A Level Maths.
+BTEC qualifications may be considered. Please contact our Admissions Team for further information (admissions@lincoln.ac.uk).International Baccalaureate: 28 points overall to include a Higher Level Grade 5 in Maths.
+T Level in Engineering accepted:  Merit
+International Baccalaureate: 28 points overall to include higher level 5 in maths.
+s:  Minimum of three at grade 4 or above, which must include English and Maths. Equivalent Level 2 qualifications may also be considered.", 'The University accepts a wide range of qualifications as the basis for entry and do accept a combination of qualifications which may include A Levels, BTECs, EPQ etc.
+We may also consider applicants with extensive and relevant work experience and will give special individual consideration to those who do not meet the standard entry qualifications.
+Fees and Scholarships
+s important to understand the costs involved and the funding options available before you start. A full breakdown of the fees associated with this programme can be found on our course fees pages.", 'For eligible undergraduate students going to university for the first time, scholarships and bursaries are available to help cover costs. To help support students from outside of the UK, we are also delighted to offer a number of international scholarships which range from 1,000 up to the value of 50 per cent of tuition fees. For full details and information about eligibility, visit our scholarships and bursaries pages.
+Find out More by Visiting Us
+Explore Related Courses
+BSc (Hons) Computer Science 
+BSc (Hons) Computer Science with Artificial Intelligence
+BSc (Hons) Games Computing
+BSc (Hons) Games Computing with Virtual and Augmented Reality
+MComp Computer Science
+MComp Games Computing

@@ -3,14 +3,24 @@
 
 <head>
     <style>
+		body {
+            /* Set the background image for the entire webpage */
+            background-image: url('imgs/uolbg.png'); /* Add your background image URL here */
+            background-size: cover; /* Cover the entire viewport */
+            background-position: center; /* Center the background image */
+            margin: 0; /* Remove default margin */
+            padding: 0; /* Remove default padding */
+            font-family: Verdana, sans-serif; /* Specify default font */
+        }
+	
         #chat-icon {
             position: fixed;
             bottom: 20px;
             right: 20px;
             cursor: pointer;
-            width: 50px;
+            width: 100px;
             /* Adjust as needed */
-            height: 50px;
+            height: 100px;
             /* Adjust as needed */
         }
 
@@ -18,8 +28,8 @@
             position: fixed;
             bottom: 20px;
             right: 20px;
-            width: 300px;
-            height: 400px;
+            width: 400px;
+            height: 500px;
             border: 3px solid black;
             padding: 10px;
             display: none;
@@ -47,19 +57,17 @@
             flex-grow: 1;
             display: flex;
             flex-direction: column;
-
+            padding-right: 10px; /* Add padding to create space for scrollbar */
         }
 
         #chat-input {
-
             width: 100%;
             font-size: 16px;
             height: 25px;
             border: 3px solid black;
-            justify-content: center;
             padding: 5px;
             margin: 5px 0;
-            font-family: Arial, sans-serif;
+            font-family: Verdana, sans-serif;
         }
 
         #chat-title-bar {
@@ -78,24 +86,19 @@
         #chat-title {
             text-align: center;
             font-weight: bold;
-            font-family: Arial, sans-serif;
+            font-family: Verdana, sans-serif;
             flex-grow: 1;
-
         }
 
-        .user-message-container,
-        .robot-message-container {
+        .user-message-container {
             display: flex;
             flex-direction: column;
+            align-items: flex-end; /* Align user messages to the right */
             width: 100%;
         }
 
-        .robot-message-container {
-            align-items: flex-end;
-        }
-
         .user-message {
-            background-color: #2aa2e775;
+            background-color: #047e8b;
             /* Change the background color */
             border-radius: 12px;
             /* Round the corners */
@@ -106,13 +109,21 @@
             width: fit-content;
             /* Make the width fit the content */
             max-width: 80%;
+            /* Limit the maximum width */
             border: 1px solid #ccc;
-            font-family: Arial, sans-serif;
+            font-family: Verdana, sans-serif;
+			color: white;
+        }
+
+        .robot-message-container {
+            display: flex;
+            flex-direction: column;
+            align-items: flex-start; /* Align bot messages to the left */
+            width: 100%;
         }
 
         .robot-message {
-            background-color: #2ae77575;
-            ;
+            background-color: #002147;
             /* Light green with slight alpha */
             border-radius: 12px;
             /* Round the corners */
@@ -124,14 +135,13 @@
             /* Make the width fit the content */
             max-width: 80%;
             /* Limit the maximum width */
-            align-self: flex-end;
-            /* Align the message to the right */
             border: 1px solid #ccc;
-            font-family: Arial, sans-serif;
+            font-family: Verdana, sans-serif;
+			color: white;
         }
 
         .message-name {
-            font-family: Arial, sans-serif;
+            font-family: Verdana, sans-serif;
             /* Change the font */
             font-weight: normal;
             /* Make it not bold */
@@ -140,26 +150,9 @@
             font-style: italic;
             margin: 5px 0;
         }
-
-        #robot-input {
-            position: fixed;
-            /* Position the input field relative to the viewport */
-            top: 10px;
-            /* Position the input field 10 pixels from the top of the viewport */
-            left: 10px;
-            /* Position the input field 10 pixels from the left of the viewport */
-        }
-
-        #robot-send-button {
-            position: fixed;
-            /* Position the button relative to the viewport */
-            top: 40px;
-            /* Position the button 40 pixels from the top of the viewport */
-            left: 10px;
-            /* Position the button 10 pixels from the left of the viewport */
-        }
     </style>
 </head>
+
 
 <body>
     <input type="text" id="robot-input">
@@ -183,6 +176,8 @@
 
         let isChatWindowInitialised = false;
         let sentCourseSelectionMessage = false;
+        let waitingForCourseSelectionConfirmation = false;
+        let possibleCourse = "";
 
         function sendRobotMessageFromInput() {
             // Get the robot input field
@@ -222,6 +217,41 @@
                 sendMessage(messageToBeSent, false);
                 //Check whether or not the bot is asking the user about their course
                 if(sentCourseSelectionMessage == true)
+                {
+                    // sendCourseMessageToPython(messageToBeSent)
+                    // .then(responseData =>{
+                    //     sendMessage(responseData, true)
+                    // })
+                    sendContextToPython(messageToBeSent)
+                    .then(responseData =>{
+                        console.log(responseData)
+                        possibleCourse = responseData.trim()
+                        sendMessage(("Are you talking about " + possibleCourse + "? (Please type yes or no)"), true)
+                    })
+                
+
+                    sentCourseSelectionMessage = false;
+                    waitingForCourseSelectionConfirmation = true;
+                }
+                else if (waitingForCourseSelectionConfirmation == true)
+                {
+                    if(messageToBeSent.toUpperCase() == "YES")
+                    {
+                        sendMessage("Great! What do you want to know?", true)
+                        waitingForCourseSelectionConfirmation = false;
+                    }
+                    else if(messageToBeSent.toUpperCase() == "NO")
+                    {
+                        sendMessage("Please re enter the course you're interested in. Be specific with the phrasing", true)
+                        sentCourseSelectionMessage = true;
+                    }
+                    else
+                    {
+                        sendMessage("Please re enter yes or no", true)
+                    }
+
+                }
+                else 
                 {
                     sendMessageToPython(messageToBeSent)
                     .then(responseData =>{
@@ -267,6 +297,28 @@
         function sendMessageToPython(message){
             return new Promise((resolve, reject) => {
                 fetch("http://localhost:8000/message", {
+                    method: "POST",
+                    headers: {
+                        "Content-Type": "application/json",
+                    },
+                    body: JSON.stringify({message: message})
+                })
+                .then(response => {
+                    return response.json();
+                })
+                .then(responseData => {
+                    resolve(responseData[0]);
+                })
+                .catch(error => {
+                    reject(error);
+                })
+
+            })
+        }
+
+        function sendContextToPython(message){
+            return new Promise((resolve, reject) => {
+                fetch("http://localhost:8000/context", {
                     method: "POST",
                     headers: {
                         "Content-Type": "application/json",

@@ -1,34 +1,36 @@
 import requests
 import time
-import re
-import sys
 import os 
 
-from pydantic import BaseModel
-from fastapi import FastAPI, HTTPException
-from fastapi.middleware.cors import CORSMiddleware
+def read_context_from_file(file_path): # function to read the context from a file
+    with open(file_path, "r") as file:
+        print("file loaded: ", file_path)
+        return file.read()
+    
+def interact_with_chatbot(context, question): # interact with chatbot
+    endpoint = "https://api-inference.huggingface.co/models/deepset/roberta-base-squad2" # define the model endpoint
+    headers = {"Authorization": "Bearer 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"}
+    data = {
+        "inputs": {
+            "question": question,
+            "context": context
+        }
+    }
 
-app = FastAPI()
-@app.get("/")
-def root():
-    return {"message": "Hello World"}
+    start_time = time.time()
+    response = requests.post(endpoint, headers=headers, json=data)
+    end_time = time.time()
 
-#Enabling CORS
-app.add_middleware(
-    CORSMiddleware,
-    allow_origins=["*"],
-    allow_credentials=True,
-    allow_methods=["*"],
-    allow_headers=["*"],
-)
-
-class Message(BaseModel):
-    message: str
-
-context = ""
-contextName = ""
-
-#All the files to load
+    if response.status_code == 200:
+        result = response.json()
+        answer = result["answer"]
+        score = result["score"]
+        computation_time = end_time - start_time
+        return answer, score, computation_time
+    else:
+        return "Error: Failed to get response from the chatbot.", None, None
+# all courses
+    
 file_to_load = {
     'creative advertising': 'aadaadub.txt',
     'accountancy and finance': 'accfinub.txt',
@@ -77,7 +79,7 @@ file_to_load = {
     'photography': 'clmclmub.txt',
     'classical studies': 'clscvlub.txt',
     'computer science with artificial intelligence': 'cmpcaiub.txt',
-    'computer science': 'cmpcmsub.txt',
+    'computing': 'cmpcmsub.txt',
     'computing by research': 'cmsresms.txt',
     'conservation of cultural heritage': 'conconub.txt',
     'criminology': 'cricriub.txt',
@@ -176,92 +178,25 @@ file_to_load = {
     'zoology': 'zoozooub.txt'
 }
 
+folder_path = input("enter the folder path containing the context: ")
 
-async def returnmessage(message):
-    def interact_with_chatbot(context, question): # interact with chatbot
-        endpoint = "https://api-inference.huggingface.co/models/mrm8488/longformer-base-4096-finetuned-squadv2" # define the model endpoint
-        headers = {"Authorization": "Bearer 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"}
-        data = {
-            "inputs": {
-                "question": question,
-                "context": context
-            }
-        }
+while True:
+    question = input("enter the question (or enter 'q' to quit): ")
+    if question.lower() == "q":
+        break
 
-        start_time = time.time()
-        response = requests.post(endpoint, headers=headers, json=data)
-        end_time = time.time()
-
-        if response.status_code == 200:
-            result = response.json()
-            answer = result["answer"]
-            score = result["score"]
-            computation_time = end_time - start_time
-            return answer, score, computation_time
-        else:
-            return "Error: Failed to get response from the chatbot.", None, None
-    
-    question = message
-
-
-    answer, score, computation_time = interact_with_chatbot(context,question)
-    print("Chatbot Answer: ", answer)
-    print("Score: ", score)
-    print("Computation time(seconds): ", computation_time)
-    return(answer)
-
-async def returncoursemessage(message):
-
-    question = message
-    endpoint = "https://api-inference.huggingface.co/models/deepset/roberta-base-squad2" # define the model endpoint
-    headers = {"Authorization": "Bearer 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"}
-    data = {
-        "inputs": {
-            "question": question,
-            "context": context
-        }
-    }
-
-    start_time = time.time()
-    response = requests.post(endpoint, headers=headers, json=data)
-    end_time = time.time()
-
-    if response.status_code == 200:
-        result = response.json()
-        answer = result["answer"]
-        score = result["score"]
-        computation_time = end_time - start_time
-        return answer, score, computation_time
-    else:
-        return "Error: Failed to get response from the chatbot.", None, None
-
-def read_context_from_file(file_path): # function to read the context from a file
-    with open(file_path, "r") as file:
-        print("file loaded: ", file_path)
-        return file.read()
-
-def findContextFile(contextString):
-    global context
-    global contextName
+    found = False
     for phrase, file_path in file_to_load.items():
-        if contextString.lower() in phrase.lower().split():
-            print(phrase)
-            file_path = os.path.join("0805Cleaned", file_path)
-
+        if phrase.lower() in question.lower():
+            file_path = os.path.join(folder_path, file_path)
             context = read_context_from_file(file_path)
-            contextName = context.split("|")[0].strip()
-            # print(context)
-            # print(contextName)
+            answer, score, computation_time = interact_with_chatbot(context, question)
+            print("answer: " , answer)
+            print("score: " , score)
+            print("computation time (Seconds)", computation_time)
+            found = True
+            break
+    if not found:
+            print("invalid question")
 
-@app.post("/message")
-async def process_message(message_data: Message):
-    print(message_data.message)
-    response = await returnmessage(message_data.message)
-    return {response}
-
-@app.post("/context")
-async def process_message(message_data: Message):
-    print("finding context" + message_data.message)
-    findContextFile(message_data.message)
-    print(contextName)
-    return {contextName}
+   
