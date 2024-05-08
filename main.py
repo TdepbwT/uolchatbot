@@ -33,7 +33,7 @@ def interact_with_chatbot(context, question): # interact with chatbot
 file_to_load = {
     'creative advertising': 'aadaadub.txt',
     'accountancy and finance': 'accfinub.txt',
-    'msc social work advanced professional practice | bespoke training | university of lincolnteaching and learning on this programme uses blended-learning methods. the core content delivery includes a combination of presentations, workshops, directed learning and practice based learning.': 'adppswms.txt',
+    'msc social work advanced professional practice ': 'adppswms.txt',
     'marketing and advertising': 'advmktub.txt',
     'afyafyub | courses | university of lincolnarts foundation year': 'afyafyub.txt',
     'animal behaviour and welfare': 'eqsabwub.txt',
@@ -167,7 +167,7 @@ file_to_load = {
     'strength and conditioning in sport': 'sesscsub.txt',
     'sport and exercise science': 'sessesub.txt',
     'sport and exercise therapy': 'sessthub.txt',
-    'sfysfyub | courses | university of lincolnscience foundation year': 'sfysfyub.txt',
+    'university of lincoln science foundation year': 'sfysfyub.txt',
     'sociology': 'solsolub.txt',
     'social policy': 'sopsopub.txt',
     'social work practice': 'sowpraub.txt',
@@ -185,16 +185,17 @@ while True:
         break
 
     found = False
-    for word in question.split():
-        if word.lower() in file_to_load:
-            file_path = os.path.join(folder_path,file_to_load[word.lower()])
+    for phrase, file_path in file_to_load.items():
+        if phrase.lower() in question.lower():
+            file_path = os.path.join(folder_path, file_path)
             context = read_context_from_file(file_path)
-            answer, score, computation_time = interact_with_chatbot(context,question) 
-            print("answer: ", answer)
-            print("score: ", score)
+            answer, score, computation_time = interact_with_chatbot(context, question)
+            print("answer: " , answer)
+            print("score: " , score)
             print("computation time (Seconds)", computation_time)
             found = True
             break
-
+    if not found:
+            print("invalid question")
 
    
