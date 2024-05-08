@@ -1,0 +1,5 @@
+- created a script to grab names of the courses from the scraped files (dictcreator.py) - used in dictionary
+- added a dictionary of course names and respective files
+- created a method to load course context based on user input; method checks user input against defined course names in dictionary aformentioned
+
+
