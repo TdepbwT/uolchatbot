@@ -29,13 +29,14 @@ def interact_with_chatbot(context, question): # interact with chatbot
         return answer, score, computation_time
     else:
         return "Error: Failed to get response from the chatbot.", None, None
-
+# all courses
+    
 file_to_load = {
     'creative advertising': 'aadaadub.txt',
     'accountancy and finance': 'accfinub.txt',
     'msc social work advanced professional practice ': 'adppswms.txt',
     'marketing and advertising': 'advmktub.txt',
-    'afyafyub | courses | university of lincolnarts foundation year': 'afyafyub.txt',
+    'university of lincoln arts foundation year': 'afyafyub.txt',
     'animal behaviour and welfare': 'eqsabwub.txt',
     'animation and visual effects': 'anianiub.txt',
     'architecture': 'arcarcub.txt',
