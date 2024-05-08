@@ -1,10 +1,12 @@
 import requests
 import time
+import os 
 
 def read_context_from_file(file_path): # function to read the context from a file
     with open(file_path, "r") as file:
         print("file loaded: ", file_path)
         return file.read()
+    
 def interact_with_chatbot(context, question): # interact with chatbot
     endpoint = "https://api-inference.huggingface.co/models/deepset/roberta-base-squad2" # define the model endpoint
     headers = {"Authorization": "Bearer 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"}
@@ -28,12 +30,34 @@ def interact_with_chatbot(context, question): # interact with chatbot
     else:
         return "Error: Failed to get response from the chatbot.", None, None
 
-file_path = input("enter the file path containing the context: ")
+file_to_load = {
+    "chemistry" : "chmchmub.txt",
+    "chancellor" : "abouttheuniversity.txt",
+    "postgraduate":"virtualpgopenday.txt",
+    "zoology":"zoozoorp.txt",
+    "business":"busprpub.txt",
+    "computing":"cmpcmsub.txt"
 
-context = read_context_from_file(file_path)
-question = input("enter the question:")
+}
 
-answer, score, computation_time = interact_with_chatbot(context,question)
-print("Chatbot Answer: ", answer)
-print("Score: ", score)
-print("Computation time(seconds): ", computation_time)
+folder_path = input("enter the folder path containing the context: ")
+
+while True:
+    question = input("enter the question (or enter 'q' to quit): ")
+    if question.lower() == "q":
+        break
+
+    found = False
+    for word in question.split():
+        if word.lower() in file_to_load:
+            file_path = os.path.join(folder_path,file_to_load[word.lower()])
+            context = read_context_from_file(file_path)
+            answer, score, computation_time = interact_with_chatbot(context,question) 
+            print("answer: ", answer)
+            print("score: ", score)
+            print("computation time (Seconds)", computation_time)
+            found = True
+            break
+
+
+   
