@@ -180,6 +180,10 @@
     </div>
 
     <script>
+
+        let isChatWindowInitialised = false;
+        let sentCourseSelectionMessage = false;
+
         function sendRobotMessageFromInput() {
             // Get the robot input field
             var input = document.getElementById('robot-input');
@@ -196,6 +200,7 @@
             chatWindow.style.display = 'flex';
             chatWindow.style.flexDirection = 'column';
             chatWindow.style.justifyContent = 'space-between';
+            initialise();
         }
 
         function closeChat() {
@@ -208,13 +213,22 @@
         }
 
         function checkForEnter(event) {
+            messageToBeSent = event.target.value.trim()
             // Check if the Enter key was pressed and if the input field is not empty
-            if (event.key === 'Enter' && event.target.value.trim() !== '') {
+            if (event.key === 'Enter' && messageToBeSent !== '') {
                 // Prevent the default action to stop the form from being submitted
                 event.preventDefault();
-
                 // Send the message
-                sendMessage(event.target.value.trim(), false);
+                sendMessage(messageToBeSent, false);
+                //Check whether or not the bot is asking the user about their course
+                if(sentCourseSelectionMessage == true)
+                {
+                    sendMessageToPython(messageToBeSent)
+                    .then(responseData =>{
+                        sendMessage(responseData, true)
+                    })
+                }
+
 
                 // Clear the input field
                 event.target.value = '';
@@ -249,6 +263,37 @@
             // Scroll to the bottom of the chat messages
             messages.scrollTop = messages.scrollHeight;
         }
+    
+        function sendMessageToPython(message){
+            return new Promise((resolve, reject) => {
+                fetch("http://localhost:8000/message", {
+                    method: "POST",
+                    headers: {
+                        "Content-Type": "application/json",
+                    },
+                    body: JSON.stringify({message: message})
+                })
+                .then(response => {
+                    return response.json();
+                })
+                .then(responseData => {
+                    resolve(responseData[0]);
+                })
+                .catch(error => {
+                    reject(error);
+                })
+
+            })
+        }
+
+        function initialise(){
+            if (!isChatWindowInitialised){
+                sendMessage("Hey, I'm the University of Lincoln Course selection chatbot. What course are you interested?", true)
+                isChatWindowInitialised = true;
+                sentCourseSelectionMessage = true;
+            }
+        }
+
     </script>
 </body>
 
