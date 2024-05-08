@@ -1,0 +1,64 @@
+Computer Science By Research
+ | MSc | University of Lincoln
+
+Course Menu
+Key Information
+Full-time
+1 year
+Part-time
+2 years
+Entry Requirements
+See More
+Campus
+Brayford Pool
+Start Dates in October and January
+This research programme offers the opportunity to develop your expertise in a particular area of computer science and to consolidate your skills in preparation for positions in research development or technology management.
+s gives students the chance to undertake research in an area that is of interest to them or relevant to their current employment. Examples of recent projects by students include biomedical text mining for drug-repurposing, machine vision system development for automatic identification of food blemishes, and using bio-inspired neural networks to prevent collisions between cars and pedestrians. Examples of research areas include computational neuroscience, cognitive systems, machine learning, data analytics, AI in healthcare, robotics and autonomous systems, computer vision and image or video analysis, medical image analysis, social computing, and games and serious games applications.", "Engaging with the School's research groups enables students to access expertise in areas including neural computation, machine learning, data analytics, vision engineering, autonomous systems, social computing, human-computer interaction, and artificial intelligence. Supported by an experienced supervisory team, students may have opportunities to publish their work in academic journals and present their findings at conferences.", 'Key Features
+Conduct independent, original, and academically significant research
+Benefit from training courses to develop key research skills
+Supervision and support from academic staff
+Present at talks and seminars to showcase your work
+Enrol in January or October each year
+How You Study
+The flexible nature of the programme means that the students can either specify their own topics or can work on one of the projects suggested by our academic staff, examples of which are available on request. 
+Students are encouraged to look at the staff pages on the School of Computer Science website to discover what areas of research we are currently involved in. You can also explore our research centres and groups below to find out more about our research activity. You will then need to produce an outline proposal and will then be matched with an appropriate supervisory team.
+Due to the nature of postgraduate research programmes, the vast majority of time is spent in independent study and research. There is approximately equivalent to one hour of contact time per week in the form of a weekly supervision meeting.
+Research Centres, Groups, and Topics
+The School of Computer Science undertakes a blend of fundamental, applied, and interdisciplinary research. There are particular strengths in computational neuroscience, machine learning, data analytics, robotics, medical imaging, AI in healthcare, and many aspects of human computer interaction and games computing.
+The key to success on a postgraduate research programme is to find a research topic that you are passionate about and identify a supervisory team that has expertise in this area. You can explore our research centres and groups below to find out more about our current research activity.
+Interactive Technologies (intLab)
+The interactive technologies lab (intLab) is a Human-Computer Interaction (HCI) research group. The group unites a broad range of members with expertise in computer science, psychology, and design.
+Lincoln Centre for Autonomous Systems
+L-CAS specialises in perception, learning, decision-making, control, and interaction for autonomous systems, such as robots.
+Laboratory of Vision Engineering (LoVE)
+This groups specialises in the capture, transmission, processing and understanding of image, video and other high-dimensional data.
+Machine Learning
+The MLearn group specialises in artificial and computational intelligence, focused on the design and development of machines that are able to reason, predict, and adapt to changing environments.
+How you are assessed
+s work and related thesis, and their ability to present and successfully defend their chosen research topic in an oral examination.", 'How to Apply
+Postgraduate Research Application Support
+ll need to complete on our How to Apply page, which also features contact details for dedicated support with your application.", 'Make an Enquiry
+To find out more about postgraduate research in Computer Science, you can contact the programme leader, Dr Vassilis Cutsuridis. Dr Cutsuridis is an expert at the interface between AI and neuroscience and is interested in reverse engineering how the brain and mind work in order to understand the neural circuits and systems that give rise to mental experience, and to extract the neural algorithms for the design and development of more efficient intelligent methods and systems for complex data analysis.
+Make an Enquiry
+Enrolment
+To support your experience within the postgraduate research community, new students are encouraged to enrol in October or January. In addition to meeting peers across the University who are starting their research programme at the same time, there is access to a central training programme designed around the first three months of study, and targeted support aligned to each stage of the postgraduate research journey. Alternative enrolment dates may be agreed with your supervisor on an individual basis.
+Entry Requirements 2024-25
+First or second class honours degree in a relevant subject.
+If you have studied outside of the UK, and are unsure whether your qualification meets the above requirements, please visit our country pages for information on equivalent qualifications:
+https://www.lincoln.ac.uk/home/studywithus/internationalstudents/entryrequirementsandyourcountry/ 
+Overseas students will be required to demonstrate English language proficiency equivalent to IELTS 6.0 overall, with a minimum of 5.5 in each element. For information regarding other English language qualifications we accept, please visit the English Requirements page https://www.lincoln.ac.uk/home/studywithus/internationalstudents/englishlanguagerequirementsandsupport/englishlanguagerequirements/. 
+If you do not meet the above IELTS requirements, you may be able to take part in one of our Pre-session English and Academic Study Skills courses.
+https://www.lincoln.ac.uk/home/studywithus/internationalstudents/englishlanguagerequirementsandsupport/pre-sessionalenglishandacademicstudyskills/ 
+These specialist courses are designed to help students meet the English language requirements for their intended programme of study.
+If you are an overseas student, you may require an ATAS (Academic Technology Approval Scheme) certificate in order to enrol on this course.
+https://www.gov.uk/guidance/academic-technology-approval-scheme
+Programme Fees
+You will need to have funding in place for your studies before you arrive at the University. Our fees vary depending on the course, mode of study, and whether you are a UK or international student. You can view the breakdown of fees for this programme below. Research students may be required to pay additional fees in addition to cover the cost of specialist resources, equipment and access to any specialist collections that may be required to support their research project. These will be informed by your research proposal and will be calculated on an individual basis.
+Funding Your Research
+Loans and Studentships
+s and Doctoral Loans, to research studentship opportunities. You can also find out more about how to pay your fees and access support from our helpful advisors.", 'Career Development
+A research programme provides the opportunity to become a true expert in your chosen field, while developing a range of valuable transferable skills than can support your career progression.A research-based degree is also the most direct pathway to an academic career. Research degrees are a great chance to expand your network and meet diverse people with similar interests, knowledge, and passion.
+The Universitys Doctoral School provides a focal point for Lincolns community of researchers, where ideas and experiences can be developed and shared across disciplines. It also oers support and training to help equip you for both academic and non-academic careers.
+Doctoral School
+Research at Lincoln
+Through our research, we are striving to change society for the better. Working with regional, national, and international partners, our academics are engaged in groundbreaking studies that are challenging the status quo. We also understand the importance of providing the best possible environment for pursuing research that can support our communities and make a tangible difference to the world around us.

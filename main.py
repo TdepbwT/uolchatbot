@@ -79,7 +79,7 @@ file_to_load = {
     'photography': 'clmclmub.txt',
     'classical studies': 'clscvlub.txt',
     'computer science with artificial intelligence': 'cmpcaiub.txt',
-    'computing': 'cmpcmsub.txt',
+    'computer science': 'cmpcmsub.txt',
     'computing by research': 'cmsresms.txt',
     'conservation of cultural heritage': 'conconub.txt',
     'criminology': 'cricriub.txt',
