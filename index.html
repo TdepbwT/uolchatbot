@@ -155,18 +155,15 @@
 
 
 <body>
-    <input type="text" id="robot-input">
-    <button id="robot-send-button" onclick="sendRobotMessageFromInput()">Send Robot Message</button>
-    <img id="chat-icon" src="imgs/chaticon.png" alt="Chat Icon" onclick="openChat()">
-
-    <div id="chat-window">
-        <div id="chat-title-bar">
+    <img id="chat-icon" src="imgs/chaticon.png" alt="Chat Icon" onclick="openChat()"> <!-- Opens the chat -->
+    <div id="chat-window"> <!-- Div for the entire chat window that can be opened later -->
+        <div id="chat-title-bar"><!-- Title and close button -->
             <div id="chat-title">University of Lincoln Chatbot</div>
             <img id="chat-close" src="imgs/close.png" alt="Close Chat" onclick="closeChat()">
         </div>
-        <div id="chat-messages"></div>
-        <div id="chat-input-container">
-            <input type="text" id="chat-input" onkeydown="checkForEnter(event)">
+        <div id="chat-messages"></div> <!-- Div for the messages inside of the window -->
+        <div id="chat-input-container"><!-- Text box at the bottom of the window -->
+            <input type="text" id="chat-input" onkeydown="checkForEnter(event)"> <!-- Checks for enter when the chat input is selected -->
         </div>
     </div>
 
@@ -174,21 +171,13 @@
 
     <script>
 
+        //Global variables for messy logic handling
         let isChatWindowInitialised = false;
         let sentCourseSelectionMessage = false;
         let waitingForCourseSelectionConfirmation = false;
         let possibleCourse = "";
 
-        function sendRobotMessageFromInput() {
-            // Get the robot input field
-            var input = document.getElementById('robot-input');
-
-            // Send the robot message
-            sendMessage(input.value, true);
-
-            // Clear the input field
-            input.value = '';
-        }
+        //Opens the chat window and runs the initialise function to check whether to ask about courses or not 
         function openChat() {
             document.getElementById('chat-icon').style.display = 'none';
             var chatWindow = document.getElementById('chat-window');
@@ -198,6 +187,7 @@
             initialise();
         }
 
+        //Hides the chat window
         function closeChat() {
             var chatWindow = document.getElementById('chat-window');
             chatWindow.style.display = '';
@@ -207,6 +197,7 @@
             document.getElementById('chat-icon').style.display = 'block';
         }
 
+        //If the user sends a message this runs
         function checkForEnter(event) {
             messageToBeSent = event.target.value.trim()
             // Check if the Enter key was pressed and if the input field is not empty
@@ -218,19 +209,15 @@
                 //Check whether or not the bot is asking the user about their course
                 if(sentCourseSelectionMessage == true)
                 {
-                    // sendCourseMessageToPython(messageToBeSent)
-                    // .then(responseData =>{
-                    //     sendMessage(responseData, true)
-                    // })
                     sendContextToPython(messageToBeSent)
-                    .then(responseData =>{
+                    .then(responseData =>{ //Waits for a response from the API call 
                         console.log(responseData)
-                        possibleCourse = responseData.trim()
+                        possibleCourse = responseData.trim() //Returns course name as responseData
                         sendMessage(("Are you talking about " + possibleCourse + "? (Please type yes or no)"), true)
                     })
                 
 
-                    sentCourseSelectionMessage = false;
+                    sentCourseSelectionMessage = false; //Control flow variables (must be a better way of doing this)
                     waitingForCourseSelectionConfirmation = true;
                 }
                 else if (waitingForCourseSelectionConfirmation == true)
@@ -253,9 +240,10 @@
                 }
                 else 
                 {
-                    sendMessageToPython(messageToBeSent)
-                    .then(responseData =>{
-                        sendMessage(responseData, true)
+                    //The main loop that runs when a user has already selected a course
+                    sendMessageToPython(messageToBeSent) 
+                    .then(responseData =>{ //Waits for a response from the API call 
+                        sendMessage(responseData, true) //Returns API data
                     })
                 }
 
@@ -294,12 +282,12 @@
             messages.scrollTop = messages.scrollHeight;
         }
     
-        function sendMessageToPython(message){
-            return new Promise((resolve, reject) => {
+        function sendMessageToPython(message){ // API call taking in a message (from user input) and querying the pythonside API for a response 
+            return new Promise((resolve, reject) => { //Returns a promise for safety - without it the script can run past it accidentally
                 fetch("http://localhost:8000/message", {
                     method: "POST",
                     headers: {
-                        "Content-Type": "application/json",
+                        "Content-Type": "application/json", //Return it as a JSON format so its standardised
                     },
                     body: JSON.stringify({message: message})
                 })
@@ -307,10 +295,10 @@
                     return response.json();
                 })
                 .then(responseData => {
-                    resolve(responseData[0]);
+                    resolve(responseData[0]); //The actual final data that is returned resolves the promise
                 })
                 .catch(error => {
-                    reject(error);
+                    reject(error); //Or throws an error if it doesnt work
                 })
 
             })
@@ -338,7 +326,7 @@
             })
         }
 
-        function initialise(){
+        function initialise(){ //Initialise loop that can be expanded. Only runs the first time the chat window is opened. 
             if (!isChatWindowInitialised){
                 sendMessage("Hey, I'm the University of Lincoln Course selection chatbot. What course are you interested?", true)
                 isChatWindowInitialised = true;

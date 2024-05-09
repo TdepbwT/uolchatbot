@@ -1,3 +1,5 @@
+#Importing relevant modules
+
 import requests
 import time
 import re
@@ -8,10 +10,11 @@ from pydantic import BaseModel
 from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 
+#Creating a fastAPI app
 app = FastAPI()
 @app.get("/")
 def root():
-    return {"message": "Hello World"}
+    return {"message": "Welcome to the chatbot"}
 
 #Enabling CORS
 app.add_middleware(
@@ -22,9 +25,11 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
+#Defining pydantic class for information passed back and forth between python and javascript
 class Message(BaseModel):
     message: str
 
+#Defining global variable that allows the correct text file to be selected
 context = ""
 contextName = ""
 
@@ -176,22 +181,22 @@ file_to_load = {
     'zoology': 'zoozooub.txt'
 }
 
-
+#Asks the chatbot a question based on the current context file and the requested message
 async def returnmessage(message):
     def interact_with_chatbot(context, question): # interact with chatbot
         endpoint = "https://api-inference.huggingface.co/models/mrm8488/longformer-base-4096-finetuned-squadv2" # define the model endpoint
-        headers = {"Authorization": "Bearer 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"}
+        headers = {"Authorization": "Bearer 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"} #API key
         data = {
             "inputs": {
-                "question": question,
-                "context": context
+                "question": question, #Question the user has asked
+                "context": context #Relevant context file as a string
             }
         }
 
         start_time = time.time()
         response = requests.post(endpoint, headers=headers, json=data)
         end_time = time.time()
-
+        #Logging data for the python side for debugging, not shown on JS frontend
         if response.status_code == 200:
             result = response.json()
             answer = result["answer"]
@@ -208,39 +213,15 @@ async def returnmessage(message):
     print("Chatbot Answer: ", answer)
     print("Score: ", score)
     print("Computation time(seconds): ", computation_time)
-    return(answer)
+    return(answer) #Returns the chat bots response
 
-async def returncoursemessage(message):
-
-    question = message
-    endpoint = "https://api-inference.huggingface.co/models/deepset/roberta-base-squad2" # define the model endpoint
-    headers = {"Authorization": "Bearer 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"}
-    data = {
-        "inputs": {
-            "question": question,
-            "context": context
-        }
-    }
-
-    start_time = time.time()
-    response = requests.post(endpoint, headers=headers, json=data)
-    end_time = time.time()
-
-    if response.status_code == 200:
-        result = response.json()
-        answer = result["answer"]
-        score = result["score"]
-        computation_time = end_time - start_time
-        return answer, score, computation_time
-    else:
-        return "Error: Failed to get response from the chatbot.", None, None
 
 def read_context_from_file(file_path): # function to read the context from a file
     with open(file_path, "r") as file:
         print("file loaded: ", file_path)
         return file.read()
 
-def findContextFile(contextString):
+def findContextFile(contextString): #Finds and sets the current context based on a passed string - tries to link "geography" with "gepgepub.txt" for example
     global context
     global contextName
     for phrase, file_path in file_to_load.items():
@@ -249,17 +230,17 @@ def findContextFile(contextString):
             file_path = os.path.join("0805Cleaned", file_path)
 
             context = read_context_from_file(file_path)
-            contextName = context.split("|")[0].strip()
+            contextName = context.split("|")[0].strip() #Grabs the name from the top of the file
             # print(context)
             # print(contextName)
 
-@app.post("/message")
-async def process_message(message_data: Message):
+@app.post("/message") #API call that can be ran from the javascript side that POSTS a message. 
+async def process_message(message_data: Message): #This takes a message from the user and queries the chatbot with it, then returns the response from the chatbot
     print(message_data.message)
     response = await returnmessage(message_data.message)
     return {response}
 
-@app.post("/context")
+@app.post("/context") #This post request sends over when the user is asked to choose a course on the javascript side. It returns the name of the couse to be confirmed and loads the context on this side
 async def process_message(message_data: Message):
     print("finding context" + message_data.message)
     findContextFile(message_data.message)
